@@ -1,3 +1,5 @@
+import { ParsedElement } from "language-tokenizer/dist/type";
+
 export interface Dialog {
   begin: number;
   end: number;
@@ -13,6 +15,7 @@ export interface Transcripts {
   [languageCode: string]: ParsedTranscript;
 }
 
+// TODO: Language codes should be in a separate package
 export enum LANGUAGE {
   EN = 'en',
   EN_US = 'en-US',
@@ -40,3 +43,10 @@ export enum LANGUAGE {
   KO = 'ko',
   KO_KR = 'ko-KR'
 } 
+
+export type AlignedDialog = {
+  begin: number;
+  end: number;
+  phrases: Partial<Record<LANGUAGE, string>>;
+  parsedPhrases?: Partial<Record<LANGUAGE, ParsedElement[]>>;
+};

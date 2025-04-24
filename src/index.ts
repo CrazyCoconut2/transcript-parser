@@ -1,5 +1,5 @@
 import { XMLParser } from 'fast-xml-parser';
-import { LANGUAGE, Transcripts, Dialog, ParsedTranscript } from './types';
+import { LANGUAGE, Transcripts, Dialog, ParsedTranscript, AlignedDialog } from './types';
 
 /**
  * Converts a time string to seconds
@@ -131,6 +131,66 @@ export const parseTranscripts = async (urls: string[]): Promise<Transcripts> => 
 
   return arrayOfTranscripts.reduce((acc, curr) => ({ ...acc, ...curr }), {});
 };
+
+export function alignDialogsByTimestamps(
+  transcripts: Transcripts,
+  tolerance = 1.5 // increase a bit to allow flexibility
+): AlignedDialog[] {
+  const langs = Object.keys(transcripts) as LANGUAGE[];
+
+  if (langs.length === 0) return [];
+
+  const baseLang = langs[0];
+  const baseDialogs = transcripts[baseLang]?.dialogs ?? [];
+
+  const aligned: AlignedDialog[] = [];
+
+  for (const baseDialog of baseDialogs) {
+    const group: AlignedDialog = {
+      begin: baseDialog.begin,
+      end: baseDialog.end,
+      phrases: {
+        [baseLang]: baseDialog.phrase,
+      },
+    };
+
+    for (const lang of langs) {
+      if (lang === baseLang) continue;
+
+      const langDialogs = transcripts[lang]?.dialogs ?? [];
+
+      // Find closest match by time score
+      const match = langDialogs
+        .filter(
+          (d: { begin: number; end: number }) =>
+            Math.abs(d.begin - baseDialog.begin) < tolerance ||
+            Math.abs(d.end - baseDialog.end) < tolerance
+        )
+        .sort(
+          (
+            a: { begin: number; end: number },
+            b: { begin: number; end: number }
+          ) => {
+            const aScore =
+              Math.abs(a.begin - baseDialog.begin) +
+              Math.abs(a.end - baseDialog.end);
+            const bScore =
+              Math.abs(b.begin - baseDialog.begin) +
+              Math.abs(b.end - baseDialog.end);
+            return aScore - bScore;
+          }
+        )[0];
+
+      if (match) {
+        group.phrases[lang] = match.phrase;
+      }
+    }
+
+    aligned.push(group);
+  }
+
+  return aligned;
+}
 
 // Export types
 export { LANGUAGE, Transcripts, Dialog, ParsedTranscript };

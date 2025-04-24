@@ -1,6 +1,6 @@
 {
   "name": "transcript-parser",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Package that will fetch a transcript from Netflix and parse it into a JSON object.",
   "private": true,
   "main": "dist/index.js",
@@ -30,7 +30,8 @@
     "typescript": "^5.3.3"
   },
   "dependencies": {
-    "fast-xml-parser": "^5.2.1"
+    "fast-xml-parser": "^5.2.1",
+    "language-tokenizer": "git+https://github.com/CrazyCoconut2/language-tokenizer#1.0.0"
   },
   "repository": {
     "type": "git",
