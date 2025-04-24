@@ -1,7 +1,7 @@
 {
   "name": "transcript-parser",
   "version": "1.0.0",
-  "description": "Package to parse xml or json transcript into an accessible iterable json object.",
+  "description": "Package that will fetch a transcript from Netflix and parse it into a JSON object.",
   "private": true,
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
