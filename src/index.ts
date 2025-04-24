@@ -45,6 +45,22 @@ const getDuration = (arr: any[]): number => {
 };
 
 /**
+ * Checks if a language code is supported
+ * @param languageCode - The language code to check
+ * @returns boolean indicating if the language is supported
+ */
+export const isLanguageSupported = (languageCode: string): boolean => {
+  // Check if the exact language code is supported
+  if (Object.values(LANGUAGE).includes(languageCode as any)) {
+    return true;
+  }
+  
+  // Check if the base language (without region) is supported
+  const baseLanguage = languageCode.split('-')[0];
+  return Object.values(LANGUAGE).includes(baseLanguage as any);
+};
+
+/**
  * Parses XML content into a Transcripts object
  * @param xmlContent - XML string content
  * @returns Promise resolving to Transcripts object
@@ -60,7 +76,7 @@ export const parseXmlContent = (xmlContent: string): Promise<Transcripts> => {
       const xmlData = parser.parse(xmlContent);
       const rawLanguageCode = xmlData.tt['@_xml:lang'];
 
-      if (!Object.keys(LANGUAGE).includes(rawLanguageCode)) {
+      if (!isLanguageSupported(rawLanguageCode)) {
         reject(new Error(`Unsupported language: ${rawLanguageCode}`));
         return;
       }
