@@ -50,13 +50,16 @@ const getDuration = (arr: any[]): number => {
  * @returns boolean indicating if the language is supported
  */
 export const isLanguageSupported = (languageCode: string): boolean => {
+  // Normalize the language code (replace underscores with hyphens)
+  const normalizedCode = languageCode.replace('_', '-');
+  
   // Check if the exact language code is supported
-  if (Object.values(LANGUAGE).includes(languageCode as any)) {
+  if (Object.values(LANGUAGE).includes(normalizedCode as any)) {
     return true;
   }
   
   // Check if the base language (without region) is supported
-  const baseLanguage = languageCode.split('-')[0];
+  const baseLanguage = normalizedCode.split('-')[0];
   return Object.values(LANGUAGE).includes(baseLanguage as any);
 };
 
@@ -75,9 +78,12 @@ export const parseXmlContent = (xmlContent: string): Promise<Transcripts> => {
 
       const xmlData = parser.parse(xmlContent);
       const rawLanguageCode = xmlData.tt['@_xml:lang'];
+      
+      // Normalize the language code for storage and checking
+      const normalizedLanguageCode = rawLanguageCode.replace('_', '-');
 
-      if (!isLanguageSupported(rawLanguageCode)) {
-        reject(new Error(`Unsupported language: ${rawLanguageCode}`));
+      if (!isLanguageSupported(normalizedLanguageCode)) {
+        reject(new Error(`Unsupported language: ${normalizedLanguageCode}`));
         return;
       }
 
@@ -102,7 +108,7 @@ export const parseXmlContent = (xmlContent: string): Promise<Transcripts> => {
         parsedTranslation.dialogs.push({ begin, end, phrase: currentPhrase });
       }
 
-      resolve({ [rawLanguageCode]: parsedTranslation });
+      resolve({ [normalizedLanguageCode]: parsedTranslation });
     } catch (error) {
       reject(new Error('Could not parse XML content'));
     }

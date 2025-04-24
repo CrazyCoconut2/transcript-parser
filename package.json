@@ -1,6 +1,6 @@
 {
   "name": "transcript-parser",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Package that will fetch a transcript from Netflix and parse it into a JSON object.",
   "private": true,
   "main": "dist/index.js",
