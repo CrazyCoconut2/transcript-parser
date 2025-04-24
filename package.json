@@ -1,0 +1,46 @@
+{
+  "name": "@cracycoconut2/transcript-parser",
+  "version": "1.0.0",
+  "description": "Package to parse xml or json transcript into an accessible iterable json object.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist",
+    "README.md"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc -w",
+    "prepare": "npm run build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "transcript",
+    "parser",
+    "xml",
+    "json",
+    "subtitles",
+    "captions",
+    "typescript"
+  ],
+  "author": "Mohammed Tigrini",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.11.24",
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "fast-xml-parser": "^5.2.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CracyCoconut2/transcript-parser.git"
+  },
+  "bugs": {
+    "url": "https://github.com/CracyCoconut2/transcript-parser/issues"
+  },
+  "homepage": "https://github.com/CracyCoconut2/transcript-parser#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
+}
