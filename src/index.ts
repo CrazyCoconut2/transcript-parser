@@ -1,5 +1,6 @@
 import { XMLParser } from 'fast-xml-parser';
-import { LANGUAGE, Transcripts, Dialog, ParsedTranscript, AlignedDialog } from './types';
+import { Transcripts, Dialog, ParsedTranscript, AlignedDialog } from './types';
+import { LANGUAGE_CODE, LANGUAGES_CODES } from 'languages-utils';
 
 /**
  * Converts a time string to seconds
@@ -54,13 +55,13 @@ export const isLanguageSupported = (languageCode: string): boolean => {
   const normalizedCode = languageCode.replace('_', '-');
   
   // Check if the exact language code is supported
-  if (Object.values(LANGUAGE).includes(normalizedCode as any)) {
+  if (Object.values(LANGUAGES_CODES).includes(normalizedCode as any)) {
     return true;
   }
   
   // Check if the base language (without region) is supported
   const baseLanguage = normalizedCode.split('-')[0];
-  return Object.values(LANGUAGE).includes(baseLanguage as any);
+  return Object.values(LANGUAGES_CODES).includes(baseLanguage as any);
 };
 
 /**
@@ -136,7 +137,7 @@ export function alignDialogsByTimestamps(
   transcripts: Transcripts,
   tolerance = 1.5 // increase a bit to allow flexibility
 ): AlignedDialog[] {
-  const langs = Object.keys(transcripts) as LANGUAGE[];
+  const langs = Object.keys(transcripts) as LANGUAGE_CODE[];
 
   if (langs.length === 0) return [];
 
@@ -193,4 +194,4 @@ export function alignDialogsByTimestamps(
 }
 
 // Export types
-export { LANGUAGE, Transcripts, Dialog, ParsedTranscript };
+export { Transcripts, Dialog, ParsedTranscript };
