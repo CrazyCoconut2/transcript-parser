@@ -82,19 +82,16 @@ export const parseXmlContent = (xmlContent: string): Promise<Transcripts> => {
       
       // Normalize the language code for storage and checking
       let normalizedLanguageCode = rawLanguageCode.replace('_', '-');
-      if (!isLanguageSupported(normalizedLanguageCode)) {
-        // Try to map the language code using Netflix's mapping
-        if (NETFLIX_LANGUAGE_MAPPING[normalizedLanguageCode as keyof typeof NETFLIX_LANGUAGE_MAPPING]) {
-          normalizedLanguageCode = NETFLIX_LANGUAGE_MAPPING[normalizedLanguageCode as keyof typeof NETFLIX_LANGUAGE_MAPPING];
-          // Check if the mapped language is supported
-          if (!isLanguageSupported(normalizedLanguageCode)) {
-            reject(new Error(`Unsupported language: ${normalizedLanguageCode}`));
-            return;
-          }
-        } else {
-          reject(new Error(`Unsupported language: ${normalizedLanguageCode}`));
-          return;
-        }
+      
+      // First try to map using Netflix's mapping
+      if (NETFLIX_LANGUAGE_MAPPING[normalizedLanguageCode as keyof typeof NETFLIX_LANGUAGE_MAPPING]) {
+        normalizedLanguageCode = NETFLIX_LANGUAGE_MAPPING[normalizedLanguageCode as keyof typeof NETFLIX_LANGUAGE_MAPPING];
+      }
+
+      // Verify if the language code is a valid LANGUAGE_CODE
+      if (!Object.values(LANGUAGES_CODES).includes(normalizedLanguageCode as any)) {
+        reject(new Error(`Unsupported language: ${normalizedLanguageCode}. Must be one of: ${Object.values(LANGUAGES_CODES).join(', ')}`));
+        return;
       }
 
       const parsedTranslation: ParsedTranscript = {
@@ -118,7 +115,9 @@ export const parseXmlContent = (xmlContent: string): Promise<Transcripts> => {
         parsedTranslation.dialogs.push({ begin, end, phrase: currentPhrase });
       }
 
-      resolve({ [normalizedLanguageCode]: parsedTranslation });
+      // Cast the normalized language code to LANGUAGE_CODE type
+      const languageCode = normalizedLanguageCode as LANGUAGE_CODE;
+      resolve({ [languageCode]: parsedTranslation });
     } catch (error) {
       reject(new Error('Could not parse XML content'));
     }

@@ -12,9 +12,9 @@ export interface ParsedTranscript {
   dialogs: Dialog[];
 }
 
-export interface Transcripts {
-  [languageCode: string]: ParsedTranscript;
-}
+export type Transcripts = {
+  [K in LANGUAGE_CODE]?: ParsedTranscript;
+};
 
 export type AlignedDialog = {
   begin: number;
