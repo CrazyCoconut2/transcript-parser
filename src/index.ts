@@ -1,6 +1,6 @@
 import { XMLParser } from 'fast-xml-parser';
 import { Transcripts, Dialog, ParsedTranscript, AlignedDialog } from './types';
-import { LANGUAGE_CODE, LANGUAGES_CODES } from 'languages-utils';
+import { LANGUAGE_CODE, LANGUAGES_CODES, NETFLIX_LANGUAGE_MAPPING } from 'languages-utils';
 
 /**
  * Converts a time string to seconds
@@ -81,11 +81,20 @@ export const parseXmlContent = (xmlContent: string): Promise<Transcripts> => {
       const rawLanguageCode = xmlData.tt['@_xml:lang'];
       
       // Normalize the language code for storage and checking
-      const normalizedLanguageCode = rawLanguageCode.replace('_', '-');
-
+      let normalizedLanguageCode = rawLanguageCode.replace('_', '-');
       if (!isLanguageSupported(normalizedLanguageCode)) {
-        reject(new Error(`Unsupported language: ${normalizedLanguageCode}`));
-        return;
+        // Try to map the language code using Netflix's mapping
+        if (NETFLIX_LANGUAGE_MAPPING[normalizedLanguageCode as keyof typeof NETFLIX_LANGUAGE_MAPPING]) {
+          normalizedLanguageCode = NETFLIX_LANGUAGE_MAPPING[normalizedLanguageCode as keyof typeof NETFLIX_LANGUAGE_MAPPING];
+          // Check if the mapped language is supported
+          if (!isLanguageSupported(normalizedLanguageCode)) {
+            reject(new Error(`Unsupported language: ${normalizedLanguageCode}`));
+            return;
+          }
+        } else {
+          reject(new Error(`Unsupported language: ${normalizedLanguageCode}`));
+          return;
+        }
       }
 
       const parsedTranslation: ParsedTranscript = {
