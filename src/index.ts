@@ -60,9 +60,9 @@ export const parseXmlContent = (xmlContent: string): Promise<Transcripts> => {
 
       const xmlData = parser.parse(xmlContent);
       const rawLanguageCode = xmlData.tt['@_xml:lang'];
-      
-      // Map using Netflix's mapping if available
-      let normalizedLanguageCode = rawLanguageCode;
+
+      // Normalize and map language code
+      let normalizedLanguageCode = rawLanguageCode.replace('_', '-');
       if (Object.prototype.hasOwnProperty.call(NETFLIX_LANGUAGE_MAPPING, normalizedLanguageCode)) {
         normalizedLanguageCode = NETFLIX_LANGUAGE_MAPPING[normalizedLanguageCode as keyof typeof NETFLIX_LANGUAGE_MAPPING];
       }
@@ -101,6 +101,7 @@ export const parseXmlContent = (xmlContent: string): Promise<Transcripts> => {
         parsedTranslation.dialogs.push({ begin, end, phrase: currentPhrase });
       }
 
+      // Always use the mapped/validated language code as the key
       resolve({ [languageCode]: parsedTranslation });
     } catch (error) {
       reject(new Error('Could not parse XML content'));
