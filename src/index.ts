@@ -62,12 +62,12 @@ export const parseXmlContent = (xmlContent: string): Promise<Transcripts> => {
       const rawLanguageCode = xmlData.tt['@_xml:lang'];
       
       // Map using Netflix's mapping if available
-      let normalizedLanguageCode = rawLanguageCode.replace('_', '-');
-      if (NETFLIX_LANGUAGE_MAPPING[normalizedLanguageCode as keyof typeof NETFLIX_LANGUAGE_MAPPING]) {
+      let normalizedLanguageCode = rawLanguageCode;
+      if (Object.prototype.hasOwnProperty.call(NETFLIX_LANGUAGE_MAPPING, normalizedLanguageCode)) {
         normalizedLanguageCode = NETFLIX_LANGUAGE_MAPPING[normalizedLanguageCode as keyof typeof NETFLIX_LANGUAGE_MAPPING];
       }
 
-      // Use only valid string keys from LANGUAGES_CODES
+      // Only use the code if it is a key in LANGUAGES_CODES
       if (!Object.keys(LANGUAGES_CODES).includes(normalizedLanguageCode)) {
         // Try base language
         const baseLanguage = normalizedLanguageCode.split('-')[0];
