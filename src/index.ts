@@ -61,24 +61,16 @@ export const parseXmlContent = (xmlContent: string): Promise<Transcripts> => {
       const xmlData = parser.parse(xmlContent);
       const rawLanguageCode = xmlData.tt['@_xml:lang'];
 
-      // Normalize and map language code
-      let normalizedLanguageCode = rawLanguageCode.replace('_', '-');
-      if (Object.prototype.hasOwnProperty.call(NETFLIX_LANGUAGE_MAPPING, normalizedLanguageCode)) {
-        normalizedLanguageCode = NETFLIX_LANGUAGE_MAPPING[normalizedLanguageCode as keyof typeof NETFLIX_LANGUAGE_MAPPING];
-      }
+      // Always use the base language (before '-' or '_')
+      let normalizedLanguageCode = rawLanguageCode.split(/[-_]/)[0];
+      let languageCode: LANGUAGE_CODE;
 
       // Only use the code if it is a key in LANGUAGES_CODES
       if (!Object.keys(LANGUAGES_CODES).includes(normalizedLanguageCode)) {
-        // Try base language
-        const baseLanguage = normalizedLanguageCode.split('-')[0];
-        if (Object.keys(LANGUAGES_CODES).includes(baseLanguage)) {
-          normalizedLanguageCode = baseLanguage;
-        } else {
-          reject(new Error(`Unsupported language: ${normalizedLanguageCode}`));
-          return;
-        }
+        reject(new Error(`Unsupported language: ${normalizedLanguageCode}`));
+        return;
       }
-      const languageCode = normalizedLanguageCode as LANGUAGE_CODE;
+      languageCode = normalizedLanguageCode as LANGUAGE_CODE;
 
       const parsedTranslation: ParsedTranscript = {
         duration: getDuration(xmlData['tt']['body']['div']['p']),
@@ -101,7 +93,6 @@ export const parseXmlContent = (xmlContent: string): Promise<Transcripts> => {
         parsedTranslation.dialogs.push({ begin, end, phrase: currentPhrase });
       }
 
-      // Always use the mapped/validated language code as the key
       resolve({ [languageCode]: parsedTranslation });
     } catch (error) {
       reject(new Error('Could not parse XML content'));
