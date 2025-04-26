@@ -63,14 +63,12 @@ export const parseXmlContent = (xmlContent: string): Promise<Transcripts> => {
 
       // Always use the base language (before '-' or '_')
       let normalizedLanguageCode = rawLanguageCode.split(/[-_]/)[0];
-      let languageCode: LANGUAGE_CODE;
 
       // Only use the code if it is a key in LANGUAGES_CODES
       if (!Object.keys(LANGUAGES_CODES).includes(normalizedLanguageCode)) {
         reject(new Error(`Unsupported language: ${normalizedLanguageCode}`));
         return;
       }
-      languageCode = normalizedLanguageCode as LANGUAGE_CODE;
 
       const parsedTranslation: ParsedTranscript = {
         duration: getDuration(xmlData['tt']['body']['div']['p']),
@@ -93,7 +91,7 @@ export const parseXmlContent = (xmlContent: string): Promise<Transcripts> => {
         parsedTranslation.dialogs.push({ begin, end, phrase: currentPhrase });
       }
 
-      resolve({ [languageCode]: parsedTranslation });
+      resolve({ [normalizedLanguageCode]: parsedTranslation });
     } catch (error) {
       reject(new Error('Could not parse XML content'));
     }
