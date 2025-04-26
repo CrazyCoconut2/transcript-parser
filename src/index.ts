@@ -88,8 +88,17 @@ export const parseXmlContent = (xmlContent: string): Promise<Transcripts> => {
         normalizedLanguageCode = NETFLIX_LANGUAGE_MAPPING[normalizedLanguageCode as keyof typeof NETFLIX_LANGUAGE_MAPPING];
       }
 
-      // Verify if the language code is a valid LANGUAGE_CODE
-      if (!Object.values(LANGUAGES_CODES).includes(normalizedLanguageCode as any)) {
+      // Try to use the normalized code, otherwise fallback to the base language
+      let languageCode: LANGUAGE_CODE | undefined = undefined;
+      if (Object.values(LANGUAGES_CODES).includes(normalizedLanguageCode as any)) {
+        languageCode = normalizedLanguageCode as LANGUAGE_CODE;
+      } else {
+        const baseLanguage = normalizedLanguageCode.split('-')[0];
+        if (Object.values(LANGUAGES_CODES).includes(baseLanguage as any)) {
+          languageCode = baseLanguage as LANGUAGE_CODE;
+        }
+      }
+      if (!languageCode) {
         reject(new Error(`Unsupported language: ${normalizedLanguageCode}. Must be one of: ${Object.values(LANGUAGES_CODES).join(', ')}`));
         return;
       }
@@ -116,7 +125,6 @@ export const parseXmlContent = (xmlContent: string): Promise<Transcripts> => {
       }
 
       // Cast the normalized language code to LANGUAGE_CODE type
-      const languageCode = normalizedLanguageCode as LANGUAGE_CODE;
       resolve({ [languageCode]: parsedTranslation });
     } catch (error) {
       reject(new Error('Could not parse XML content'));
