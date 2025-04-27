@@ -1,5 +1,4 @@
 import { ParsedElement } from "language-tokenizer/dist/type";
-import { LanguageCode } from "./language-codes";
 
 export interface Dialog {
   begin: number;
@@ -13,12 +12,12 @@ export interface ParsedTranscript {
 }
 
 export type Transcripts = {
-  [K in LanguageCode]?: ParsedTranscript;
+  [key: string]: ParsedTranscript;
 };
 
 export type AlignedDialog = {
   begin: number;
   end: number;
-  phrases: Partial<Record<LanguageCode, string>>;
-  parsedPhrases?: Partial<Record<LanguageCode, ParsedElement[]>>;
+  phrases: Partial<Record<string, string>>;
+  parsedPhrases?: Partial<Record<string, ParsedElement[]>>;
 };

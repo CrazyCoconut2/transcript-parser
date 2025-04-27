@@ -31,8 +31,7 @@
   },
   "dependencies": {
     "fast-xml-parser": "^5.2.1",
-    "language-tokenizer": "git+https://github.com/CrazyCoconut2/language-tokenizer#1.0.0",
-    "languages-utils": "git+https://github.com/CrazyCoconut2/languages-utils#1.0.0"
+    "language-tokenizer": "git+https://github.com/CrazyCoconut2/language-tokenizer#1.0.0"
   },
   "repository": {
     "type": "git",
