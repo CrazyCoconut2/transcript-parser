@@ -2,18 +2,27 @@ import { XMLParser } from 'fast-xml-parser';
 import { Transcripts, Dialog, ParsedTranscript, AlignedDialog } from './types';
 import { LANGUAGE_CODE, LANGUAGES_CODES } from 'languages-utils';
 
+// Define a list of supported base language codes
+// This is a more reliable approach than relying on the LANGUAGES_CODES enum
+const SUPPORTED_LANGUAGE_CODES = ['en', 'es', 'fr', 'pt', 'it', 'de', 'pl', 'sv', 'da', 'nw'];
+
 /**
  * Normalizes a language code by taking only the base part (before '-' or '_')
  * @param languageCode - The language code to normalize
  * @returns The normalized language code
  */
-export const normalizeLanguageCode = (languageCode: string): LANGUAGE_CODE => {
-  const normalized = languageCode.split(/[-_]/)[0];
-  // Ensure the normalized code is a valid LANGUAGE_CODE
-  if (!Object.keys(LANGUAGES_CODES).includes(normalized)) {
-    throw new Error(`Unsupported language: ${normalized}`);
-  }
-  return normalized as LANGUAGE_CODE;
+export const normalizeLanguageCode = (languageCode: string): string => {
+  return languageCode.split(/[-_]/)[0];
+};
+
+/**
+ * Validates if a language code is supported
+ * @param languageCode - The language code to validate
+ * @returns True if the language code is supported, false otherwise
+ */
+export const isSupportedLanguageCode = (languageCode: string): boolean => {
+  const normalizedCode = normalizeLanguageCode(languageCode);
+  return SUPPORTED_LANGUAGE_CODES.includes(normalizedCode);
 };
 
 /**
@@ -74,12 +83,10 @@ export const parseXmlContent = (xmlContent: string): Promise<Transcripts> => {
 
       const xmlData = parser.parse(xmlContent);
       const rawLanguageCode = xmlData.tt['@_xml:lang'];
+      const normalizedLanguageCode = normalizeLanguageCode(rawLanguageCode);
 
-      // Always use the base language (before '-' or '_')
-      let normalizedLanguageCode = normalizeLanguageCode(rawLanguageCode);
-
-      // Only use the code if it is a key in LANGUAGES_CODES
-      if (!Object.keys(LANGUAGES_CODES).includes(normalizedLanguageCode)) {
+      // Check if the language is supported
+      if (!isSupportedLanguageCode(normalizedLanguageCode)) {
         reject(new Error(`Unsupported language: ${normalizedLanguageCode}`));
         return;
       }
@@ -120,9 +127,14 @@ export const parseXmlContent = (xmlContent: string): Promise<Transcripts> => {
 export const parseTranscripts = async (urls: string[]): Promise<Transcripts> => {
   const arrayOfTranscripts = await Promise.all(
     urls.map(async (url) => {
-      const response = await fetch(url);
-      const xmlContent = await response.text();
-      return parseXmlContent(xmlContent);
+      try {
+        const response = await fetch(url);
+        const xmlContent = await response.text();
+        return parseXmlContent(xmlContent);
+      } catch (error: any) {
+        console.warn(`Error parsing transcript from ${url}: ${error.message || 'Unknown error'}`);
+        return {}; // Return empty object for failed transcripts
+      }
     })
   );
 
@@ -131,10 +143,12 @@ export const parseTranscripts = async (urls: string[]): Promise<Transcripts> => 
   
   arrayOfTranscripts.forEach(transcript => {
     Object.entries(transcript).forEach(([langCode, parsedTranscript]) => {
-      try {
-        const normalizedLangCode = normalizeLanguageCode(langCode);
-        combinedTranscripts[normalizedLangCode] = parsedTranscript;
-      } catch (error) {
+      const normalizedLangCode = normalizeLanguageCode(langCode);
+      
+      // Only include supported language codes
+      if (isSupportedLanguageCode(normalizedLangCode)) {
+        combinedTranscripts[normalizedLangCode as LANGUAGE_CODE] = parsedTranscript;
+      } else {
         console.warn(`Skipping unsupported language code: ${langCode}`);
       }
     });
