@@ -3,6 +3,20 @@ import { Transcripts, Dialog, ParsedTranscript, AlignedDialog } from './types';
 import { LANGUAGE_CODE, LANGUAGES_CODES } from 'languages-utils';
 
 /**
+ * Normalizes a language code by taking only the base part (before '-' or '_')
+ * @param languageCode - The language code to normalize
+ * @returns The normalized language code
+ */
+export const normalizeLanguageCode = (languageCode: string): LANGUAGE_CODE => {
+  const normalized = languageCode.split(/[-_]/)[0];
+  // Ensure the normalized code is a valid LANGUAGE_CODE
+  if (!Object.keys(LANGUAGES_CODES).includes(normalized)) {
+    throw new Error(`Unsupported language: ${normalized}`);
+  }
+  return normalized as LANGUAGE_CODE;
+};
+
+/**
  * Converts a time string to seconds
  * @param time - Time string in either ticks format (e.g., "1234567t") or HH:MM:SS format
  * @returns Time in seconds
@@ -62,7 +76,7 @@ export const parseXmlContent = (xmlContent: string): Promise<Transcripts> => {
       const rawLanguageCode = xmlData.tt['@_xml:lang'];
 
       // Always use the base language (before '-' or '_')
-      let normalizedLanguageCode = rawLanguageCode.split(/[-_]/)[0];
+      let normalizedLanguageCode = normalizeLanguageCode(rawLanguageCode);
 
       // Only use the code if it is a key in LANGUAGES_CODES
       if (!Object.keys(LANGUAGES_CODES).includes(normalizedLanguageCode)) {
@@ -112,7 +126,21 @@ export const parseTranscripts = async (urls: string[]): Promise<Transcripts> => 
     })
   );
 
-  return arrayOfTranscripts.reduce((acc, curr) => ({ ...acc, ...curr }), {});
+  // Combine transcripts while ensuring language codes are normalized
+  const combinedTranscripts: Transcripts = {};
+  
+  arrayOfTranscripts.forEach(transcript => {
+    Object.entries(transcript).forEach(([langCode, parsedTranscript]) => {
+      try {
+        const normalizedLangCode = normalizeLanguageCode(langCode);
+        combinedTranscripts[normalizedLangCode] = parsedTranscript;
+      } catch (error) {
+        console.warn(`Skipping unsupported language code: ${langCode}`);
+      }
+    });
+  });
+
+  return combinedTranscripts;
 };
 
 export function alignDialogsByTimestamps(
