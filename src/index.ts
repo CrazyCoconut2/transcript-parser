@@ -1,18 +1,21 @@
 import { XMLParser } from 'fast-xml-parser';
 import { Transcripts, Dialog, ParsedTranscript, AlignedDialog } from './types';
-import { LANGUAGE_CODE, LANGUAGES_CODES } from 'languages-utils';
-
-// Define a list of supported base language codes
-// This is a more reliable approach than relying on the LANGUAGES_CODES enum
-const SUPPORTED_LANGUAGE_CODES = ['en', 'es', 'fr', 'pt', 'it', 'de', 'pl', 'sv', 'da', 'nw'];
+import { LanguageCode, LANGUAGE_MAPPING } from './language-codes';
 
 /**
- * Normalizes a language code by taking only the base part (before '-' or '_')
+ * Normalizes a language code by mapping it to its base code
  * @param languageCode - The language code to normalize
  * @returns The normalized language code
  */
 export const normalizeLanguageCode = (languageCode: string): string => {
-  return languageCode.split(/[-_]/)[0];
+  // First try to find an exact match in the mapping
+  if (languageCode in LANGUAGE_MAPPING) {
+    return LANGUAGE_MAPPING[languageCode];
+  }
+  
+  // If no exact match, try to find a match for the base code
+  const baseCode = languageCode.split(/[-_]/)[0];
+  return LANGUAGE_MAPPING[baseCode] || baseCode;
 };
 
 /**
@@ -22,7 +25,7 @@ export const normalizeLanguageCode = (languageCode: string): string => {
  */
 export const isSupportedLanguageCode = (languageCode: string): boolean => {
   const normalizedCode = normalizeLanguageCode(languageCode);
-  return SUPPORTED_LANGUAGE_CODES.includes(normalizedCode);
+  return normalizedCode in LANGUAGE_MAPPING;
 };
 
 /**
@@ -112,7 +115,7 @@ export const parseXmlContent = (xmlContent: string): Promise<Transcripts> => {
         parsedTranslation.dialogs.push({ begin, end, phrase: currentPhrase });
       }
 
-      resolve({ [normalizedLanguageCode]: parsedTranslation });
+      resolve({ [normalizedLanguageCode as LanguageCode]: parsedTranslation });
     } catch (error) {
       reject(new Error('Could not parse XML content'));
     }
@@ -147,7 +150,8 @@ export const parseTranscripts = async (urls: string[]): Promise<Transcripts> => 
       
       // Only include supported language codes
       if (isSupportedLanguageCode(normalizedLangCode)) {
-        combinedTranscripts[normalizedLangCode as LANGUAGE_CODE] = parsedTranscript;
+        // Cast to LanguageCode to ensure type compatibility
+        combinedTranscripts[normalizedLangCode as LanguageCode] = parsedTranscript;
       } else {
         console.warn(`Skipping unsupported language code: ${langCode}`);
       }
@@ -161,7 +165,7 @@ export function alignDialogsByTimestamps(
   transcripts: Transcripts,
   tolerance = 1.5 // increase a bit to allow flexibility
 ): AlignedDialog[] {
-  const langs = Object.keys(transcripts) as LANGUAGE_CODE[];
+  const langs = Object.keys(transcripts) as LanguageCode[];
 
   if (langs.length === 0) return [];
 
