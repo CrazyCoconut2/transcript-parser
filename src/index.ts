@@ -42,7 +42,19 @@ export const convertHHMMSSToSeconds = (time: string): number => {
 };
 
 const getDuration = (arr: any[]): number => {
-  return convertTicksToSeconds(arr[arr.length - 1]['@_end']);
+  // Find the last valid subtitle entry (one that has both begin and end attributes)
+  const lastValidEntry = [...arr].reverse().find(elem => 
+    elem && 
+    typeof elem === 'object' && 
+    elem['@_begin'] && 
+    elem['@_end']
+  );
+  
+  if (!lastValidEntry) {
+    throw new Error('No valid subtitle entries found');
+  }
+  
+  return convertTicksToSeconds(lastValidEntry['@_end']);
 };
 
 /**
@@ -89,25 +101,35 @@ export const parseXmlContent = (xmlContent: string): Promise<Transcripts> => {
                 return span;
               } else if (span['#text']) {
                 return span['#text'];
+              } else if (span['br']) {
+                return ' '; // Replace <br/> with a space
               }
               return '';
             })
-            .filter(Boolean)
+            .filter(text => text.trim() !== '') // Remove empty strings
             .join(' ');
         } else if (elem['span']) {
           if (typeof elem['span'] === 'string') {
             currentPhrase = elem['span'];
           } else if (elem['span']['#text']) {
             currentPhrase = elem['span']['#text'];
+          } else if (elem['span']['br']) {
+            currentPhrase = ' '; // Handle single <br/> case
           }
         } else if (elem['#text']) {
           currentPhrase = elem['#text'];
         }
 
+        // Clean up the phrase by removing extra spaces and normalizing line breaks
+        currentPhrase = currentPhrase
+          .replace(/\s+/g, ' ') // Replace multiple spaces with a single space
+          .replace(/\s*<br\/>\s*/g, ' ') // Replace <br/> tags with spaces
+          .trim();
+
         parsedTranslation.dialogs.push({
           begin,
           end,
-          phrase: currentPhrase.trim()
+          phrase: currentPhrase
         });
       }
 

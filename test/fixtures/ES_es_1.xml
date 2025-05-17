@@ -1,0 +1,1177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt ttp:contentProfiles="http://www.w3.org/ns/ttml/profile/imsc1.1/text" xmlns="http://www.w3.org/ns/ttml" xmlns:nttm="http://www.netflix.com/ns/ttml#metadata" xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:xml="http://www.w3.org/XML/1998/namespace" ttp:tickRate="10000000" ttp:timeBase="media" xml:lang="es">
+<head>
+<metadata nttm:schemaVersion="0" nttm:textType="SUBS" nttm:uuid="18c38041-0659-4c1a-b2ca-b7691320e267"/>
+<styling>
+<initial tts:backgroundColor="transparent" tts:color="white" tts:displayAlign="after" tts:extent="80.000% 80.000%" tts:opacity="1.000" tts:origin="10.000% 10.000%" tts:showBackground="whenActive" tts:textAlign="center" tts:textOutline="black 0.300rh" tts:writingMode="lrtb"/>
+<style xml:id="style1" tts:fontWeight="normal"/>
+<style xml:id="style2" tts:fontStyle="italic" tts:fontWeight="normal"/>
+</styling>
+<layout>
+<region xml:id="region0" tts:backgroundColor="transparent" tts:displayAlign="after" tts:extent="80.000% 80.000%" tts:origin="10.000% 10.000%"/>
+<region xml:id="region1" tts:backgroundColor="transparent" tts:displayAlign="before" tts:extent="80.000% 80.000%" tts:origin="10.000% 10.000%"/>
+</layout>
+</head>
+<body>
+<div>
+<p xml:id="subtitle1" begin="103103000t" end="131798334t" region="region0"><span style="style1">El amor es ciego: Brasil </span><span style="style2">está de vuelta.</span></p>
+<p xml:id="subtitle2" begin="139139001t" end="178845334t" region="region0"><span style="style1">Yo tenía la vida resuelta.</span><br/><span style="style1">¿Y tú? ¿Tenías la vida resuelta?</span></p>
+<p xml:id="subtitle3" begin="179512667t" end="188521667t" region="region0"><span style="style1">Lo sabía.</span></p>
+<p xml:id="subtitle4" begin="189189000t" end="215215000t" region="region0"><span style="style1">¡Basta! Sigues mirándome. Quiero llorar.</span></p>
+<p xml:id="subtitle5" begin="215882334t" end="232899334t" region="region0"><span style="style1">¡A la mierda con Ariela!</span></p>
+<p xml:id="subtitle6" begin="233566667t" end="254921334t" region="region0"><span style="style1">- ¡Ariela, no lo hagas!</span><br/><span style="style1">- ¡No! ¡A la mierda!</span></p>
+<p xml:id="subtitle7" begin="263263000t" end="288621667t" region="region0"><span style="style1">Eres demasiado arrogante. Cálmate un poco.</span></p>
+<p xml:id="subtitle8" begin="297964334t" end="315315001t" region="region0"><span style="style1">¡Encontramos un imbécil!</span></p>
+<p xml:id="subtitle9" begin="330997334t" end="367367000t" region="region0"><span style="style1">A los que estaban casados,</span><br/><span style="style1">pero tienen una segunda oportunidad</span></p>
+<p xml:id="subtitle10" begin="368034334t" end="387720667t" region="region0"><span style="style1">¡y se volverán a casar!</span></p>
+<p xml:id="subtitle11" begin="408408000t" end="442775667t" region="region0"><span style="style2">Esta temporada le daremos</span><br/><span style="style2">una segunda oportunidad</span></p>
+<p xml:id="subtitle12" begin="443443000t" end="482815667t" region="region0"><span style="style2">a personas que ya han estado casadas.</span></p>
+<p xml:id="subtitle13" begin="483483000t" end="498498000t" region="region0"><span style="style1">¿Has estado casada?</span></p>
+<p xml:id="subtitle14" begin="499165334t" end="512845667t" region="region0"><span style="style1">Sí, he estado casada.</span></p>
+<p xml:id="subtitle15" begin="513513000t" end="526526001t" region="region0"><span style="style2">Divorciados.</span></p>
+<p xml:id="subtitle16" begin="527193334t" end="549549000t" region="region0"><span style="style1">No es mi segundo intento, es el tercero.</span></p>
+<p xml:id="subtitle17" begin="550216334t" end="560560000t" region="region0"><span style="style2">Separados.</span></p>
+<p xml:id="subtitle18" begin="561227334t" end="569569000t" region="region0"><span style="style1">Sufrí mucho.</span></p>
+<p xml:id="subtitle19" begin="570236334t" end="594594000t" region="region0"><span style="style2">Hay quienes casi lo logran</span></p>
+<p xml:id="subtitle20" begin="595261334t" end="630630000t" region="region0"><span style="style2">con un compromiso</span><br/><span style="style2">que se canceló a último momento.</span></p>
+<p xml:id="subtitle21" begin="631297334t" end="665331334t" region="region0"><span style="style1">Estoy triste por los que me perdieron,</span><br/><span style="style1">y feliz por quien me encuentre.</span></p>
+<p xml:id="subtitle22" begin="665998667t" end="680012667t" region="region0"><span style="style2">Lo tenemos todo.</span></p>
+<p xml:id="subtitle23" begin="680680000t" end="697029667t" region="region0"><span style="style2">Y si hay algo que no falta</span></p>
+<p xml:id="subtitle24" begin="697697000t" end="730396334t" region="region0"><span style="style2">es coraje</span><br/><span style="style2">para volver a vivir un gran amor.</span></p>
+<p xml:id="subtitle25" begin="731063667t" end="762094667t" region="region0"><span style="style1">Quiero formar una familia y casarme.</span></p>
+<p xml:id="subtitle26" begin="762762001t" end="777109667t" region="region0"><span style="style1">Un matrimonio de verdad.</span></p>
+<p xml:id="subtitle27" begin="777777000t" end="802802000t" region="region0"><span style="style1">¡Vanessa!</span></p>
+<p xml:id="subtitle28" begin="803469334t" end="830830000t" region="region0"><span style="style1">Te viniste a vivir a mi mente.</span></p>
+<p xml:id="subtitle29" begin="831497334t" end="871203667t" region="region0"><span style="style1">El hecho de que no podemos ver</span><br/><span style="style1">a la persona que nos gusta</span></p>
+<p xml:id="subtitle30" begin="871871000t" end="899899000t" region="region0"><span style="style1">nos regresa</span><br/><span style="style1">a una especie de amor adolescente.</span></p>
+<p xml:id="subtitle31" begin="900566334t" end="914580334t" region="region0"><span style="style1">¿Te casarías conmigo?</span></p>
+<p xml:id="subtitle32" begin="915247667t" end="940606334t" region="region0"><span style="style1">- ¡Qué tierno eres!</span><br/><span style="style1">- ¡Qué tierna!</span></p>
+<p xml:id="subtitle33" begin="941273667t" end="961627334t" region="region0"><span style="style1">Que sea lo que el amor quiera.</span></p>
+<p xml:id="subtitle34" begin="998330667t" end="1014346667t" region="region0"><span style="style1">¡La puta madre!</span></p>
+<p xml:id="subtitle35" begin="1015014001t" end="1033699334t" region="region0"><span style="style1">¡Nos vamos a casar!</span></p>
+<p xml:id="subtitle36" begin="1047379667t" end="1071403667t" region="region0"><span style="style1">¡Quédate quieto! ¡Por favor!</span></p>
+<p xml:id="subtitle37" begin="1082081001t" end="1099431667t" region="region0"><span style="style1">- Amor, fuimos a tu casa.</span><br/><span style="style1">- ¿&quot;Amor&quot;?</span></p>
+<p xml:id="subtitle38" begin="1100099001t" end="1120119000t" region="region0"><span style="style1">No te reconozco.</span></p>
+<p xml:id="subtitle39" begin="1120786334t" end="1141807334t" region="region0"><span style="style1">Está bien. Amén. Vete.</span></p>
+<p xml:id="subtitle40" begin="1142474667t" end="1168500667t" region="region0"><span style="style1">Cuando ya no queremos a alguien,</span><br/><span style="style1">se lo decimos.</span></p>
+<p xml:id="subtitle41" begin="1169168000t" end="1177843334t" region="region0"><span style="style1">¡Vete a la mierda!</span></p>
+<p xml:id="subtitle42" begin="1221887334t" end="1234233000t" region="region0"><span style="style2">Es la misma pregunta.</span></p>
+<p xml:id="subtitle43" begin="1247913334t" end="1279278000t" region="region0"><span style="style2">¿El amor ciego conduce al matrimonio?</span></p>
+<p xml:id="subtitle44" begin="1288287000t" end="1326992334t" region="region1"><span style="style2">EL AMOR ES CIEGO: BRASIL</span></p>
+<p xml:id="subtitle45" begin="1420752667t" end="1441773667t" region="region0"><span style="style1">¡Mi cabina es muy linda!</span></p>
+<p xml:id="subtitle46" begin="1459458000t" end="1477809667t" region="region0"><span style="style1">Aquí tengo caramelos.</span></p>
+<p xml:id="subtitle47" begin="1483482000t" end="1495494000t" region="region0"><span style="style1">¡MÁS QUE AMOR, ENAMORADO!</span></p>
+<p xml:id="subtitle48" begin="1586585000t" end="1612611000t" region="region0"><span style="style1">Chicas, bebamos champán para relajarnos.</span></p>
+<p xml:id="subtitle49" begin="1613278334t" end="1640639000t" region="region1"><span style="style1">Champán, qué delicia, vamos a brindar.</span></p>
+<p xml:id="subtitle50" begin="1641306334t" end="1671670000t" region="region1"><span style="style1">¡Tomemos un poco de champán!</span></p>
+<p xml:id="subtitle51" begin="1672337334t" end="1706705000t" region="region1"><span style="style1">Por los que estuvieron casados</span><br/><span style="style1">y tienen una segunda oportunidad</span></p>
+<p xml:id="subtitle52" begin="1707372334t" end="1725724000t" region="region1"><span style="style1">y se volverán a casar.</span></p>
+<p xml:id="subtitle53" begin="1726391334t" end="1754085667t" region="region0"><span style="style1">- ¡Casémonos otra vez!</span><br/><span style="style1">- ¡Segundo y último intento!</span></p>
+<p xml:id="subtitle54" begin="1754753000t" end="1783782000t" region="region1"><span style="style1">Quiero volver a casarme</span><br/><span style="style1">y estar en una relación</span></p>
+<p xml:id="subtitle55" begin="1784449334t" end="1799130667t" region="region1"><span style="style1">porque me lo merezco.</span></p>
+<p xml:id="subtitle56" begin="1799798001t" end="1828493334t" region="region0"><span style="style1">La persona del otro lado</span><br/><span style="style1">se lo merece aún más.</span></p>
+<p xml:id="subtitle57" begin="1829160667t" end="1845510334t" region="region0"><span style="style1">Quiero encontrar a esa persona.</span></p>
+<p xml:id="subtitle58" begin="1874539334t" end="1892223667t" region="region0"><span style="style1">¡Por una segunda oportunidad!</span></p>
+<p xml:id="subtitle59" begin="1921252667t" end="1954285667t" region="region0"><span style="style2">¡Camila! ¡Klebber!</span><br/><span style="style2">Los participantes están en el salón.</span></p>
+<p xml:id="subtitle60" begin="1954953000t" end="1965296667t" region="region0"><span style="style1">¿Escuchaste </span><span style="style2">eso?</span></p>
+<p xml:id="subtitle61" begin="1965964000t" end="1982647334t" region="region0"><span style="style1">¡Empezamos la temporada! ¿Ahora?</span></p>
+<p xml:id="subtitle62" begin="1983314667t" end="2005670334t" region="region0"><span style="style1">No. Espera. Primero…</span></p>
+<p xml:id="subtitle63" begin="2019017000t" end="2045376667t" region="region0"><span style="style1">Acércate a la pantalla. Déjame abrazarte.</span></p>
+<p xml:id="subtitle64" begin="2046044000t" end="2058389667t" region="region0"><span style="style1">Esto me encanta.</span></p>
+<p xml:id="subtitle65" begin="2073404667t" end="2087085000t" region="region0"><span style="style1">Cariño…</span></p>
+<p xml:id="subtitle66" begin="2087752334t" end="2106104000t" region="region0"><span style="style1">Que tengas una buena temporada, cariño.</span></p>
+<p xml:id="subtitle67" begin="2106771334t" end="2127458667t" region="region0"><span style="style1">- ¡Te amo!</span><br/><span style="style1">- ¡Te amo!</span></p>
+<p xml:id="subtitle68" begin="2128126000t" end="2136467667t" region="region0"><span style="style1">¡Será hermoso!</span></p>
+<p xml:id="subtitle69" begin="2137135001t" end="2157155000t" region="region0"><span style="style1">- ¿Comenzamos?</span><br/><span style="style1">- ¡Sí! ¡Vamos!</span></p>
+<p xml:id="subtitle70" begin="2157822334t" end="2189520667t" region="region0"><span style="style2">¡El amor es ciego: Brasil!</span><br/><span style="style1">¡Empieza la cuarta temporada!</span></p>
+<p xml:id="subtitle71" begin="2353351000t" end="2375373000t" region="region0"><span style="style1">¿Aquí hay gente que se quiere casar?</span></p>
+<p xml:id="subtitle72" begin="2386717667t" end="2398396000t" region="region0"><span style="style1">¿Son las novias?</span></p>
+<p xml:id="subtitle73" begin="2414745667t" end="2427091334t" region="region0"><span style="style1">¡Hola!</span></p>
+<p xml:id="subtitle74" begin="2427758667t" end="2436100334t" region="region0"><span style="style1">¡Cielos!</span></p>
+<p xml:id="subtitle75" begin="2444442000t" end="2455786667t" region="region0"><span style="style1">¡Hola!</span></p>
+<p xml:id="subtitle76" begin="2456454000t" end="2474472000t" region="region0"><span style="style1">¡Bienvenidos!</span></p>
+<p xml:id="subtitle77" begin="2499163334t" end="2544208334t" region="region1"><span style="style1">Bienvenidos a la cuarta temporada.</span><br/><span style="style1">de </span><span style="style2">El amor es ciego: Brasil.</span></p>
+<p xml:id="subtitle78" begin="2574572000t" end="2618949667t" region="region0"><span style="style1">Estamos muy felices</span><br/><span style="style1">de que estén aquí con nosotros.</span></p>
+<p xml:id="subtitle79" begin="2619617000t" end="2654318334t" region="region1"><span style="style1">Cambiamos un poco las cosas</span><br/><span style="style1">esta temporada.</span></p>
+<p xml:id="subtitle80" begin="2654985667t" end="2688352334t" region="region0"><span style="style1">Esta vez decidimos traer al experimento</span></p>
+<p xml:id="subtitle81" begin="2689019667t" end="2715713000t" region="region0"><span style="style1">personas que,</span><br/><span style="style1">incluso después de una decepción,</span></p>
+<p xml:id="subtitle82" begin="2716380334t" end="2732396334t" region="region0"><span style="style1">siguen creyendo en el amor.</span></p>
+<p xml:id="subtitle83" begin="2744074667t" end="2782780001t" region="region0"><span style="style1">La mayoría de ustedes</span><br/><span style="style1">ya pasado por un matrimonio</span></p>
+<p xml:id="subtitle84" begin="2783447334t" end="2817481334t" region="region0"><span style="style1">que, por diferentes razones, no prosperó.</span></p>
+<p xml:id="subtitle85" begin="2818148667t" end="2862192667t" region="region0"><span style="style1">Pero ahora están aquí,</span><br/><span style="style1">solteros y listos para abrazar al amor</span></p>
+<p xml:id="subtitle86" begin="2862860000t" end="2890888000t" region="region0"><span style="style1">y con el corazón abierto</span><br/><span style="style1">para vivir un viaje enamorado</span></p>
+<p xml:id="subtitle87" begin="2891555334t" end="2928592334t" region="region0"><span style="style1">sin dejar que las apariencias</span><br/><span style="style1">interfieran en el proceso.</span></p>
+<p xml:id="subtitle88" begin="2929259667t" end="2967297667t" region="region0"><span style="style1">El objetivo es permitirse conocer</span><br/><span style="style1">la personalidad del otro</span></p>
+<p xml:id="subtitle89" begin="2967965000t" end="3000664334t" region="region0"><span style="style1">y crear un vínculo profundo.</span></p>
+<p xml:id="subtitle90" begin="3001331667t" end="3040704334t" region="region0"><span style="style1">¿Por qué darle una segunda oportunidad</span><br/><span style="style1">a este experimento</span></p>
+<p xml:id="subtitle91" begin="3041371667t" end="3058722334t" region="region0"><span style="style1">donde el amor es ciego?</span></p>
+<p xml:id="subtitle92" begin="3059389667t" end="3092756334t" region="region0"><span style="style1">Mi sueño es casarme y formar una familia.</span></p>
+<p xml:id="subtitle93" begin="3098428667t" end="3127791334t" region="region0"><span style="style1">Cuando beso a alguien, espero enamorarme.</span></p>
+<p xml:id="subtitle94" begin="3128458667t" end="3159156000t" region="region0"><span style="style1">Y quiero construir este sueño</span><br/><span style="style1">con esa persona.</span></p>
+<p xml:id="subtitle95" begin="3159823334t" end="3179509667t" region="region0"><span style="style1">Creo que puede pasar aquí.</span></p>
+<p xml:id="subtitle96" begin="3180177000t" end="3198195000t" region="region0"><span style="style1">Siempre he tenido sobrepeso.</span></p>
+<p xml:id="subtitle97" begin="3198862334t" end="3218548667t" region="region0"><span style="style1">De adolescente, sufrí por eso.</span></p>
+<p xml:id="subtitle98" begin="3219216000t" end="3242572667t" region="region1"><span style="style1">Un día, llegué llorando de la escuela,</span></p>
+<p xml:id="subtitle99" begin="3243240000t" end="3262926334t" region="region1"><span style="style1">y mi abuela dijo: &quot;Eres hermoso&quot;.</span></p>
+<p xml:id="subtitle100" begin="3263593667t" end="3299296000t" region="region0"><span style="style1">Al mismo tiempo,</span><br/><span style="style1">solo los flacos salían con chicas.</span></p>
+<p xml:id="subtitle101" begin="3299963334t" end="3322652667t" region="region0"><span style="style1">Sin embargo, cuando tenía 23 años,</span></p>
+<p xml:id="subtitle102" begin="3323320000t" end="3347677667t" region="region0"><span style="style1">con la ayuda de terapia,</span><br/><span style="style1">vi que yo era un gran tipo</span></p>
+<p xml:id="subtitle103" begin="3348345000t" end="3377374000t" region="region0"><span style="style1">y no necesitaba ser delgado</span><br/><span style="style1">sentirme amado.</span></p>
+<p xml:id="subtitle104" begin="3378041334t" end="3418415000t" region="region0"><span style="style1">¿Qué creen que será lo más difícil</span><br/><span style="style1">en la primera parte del experimento?</span></p>
+<p xml:id="subtitle105" begin="3419082334t" end="3434764667t" region="region0"><span style="style1">Encontrar conexiones reales.</span></p>
+<p xml:id="subtitle106" begin="3435432000t" end="3469799667t" region="region0"><span style="style1">No vine para que me elijan</span><br/><span style="style1">sino para a elegir a alguien</span></p>
+<p xml:id="subtitle107" begin="3470467000t" end="3488485000t" region="region0"><span style="style1">para que esté a mi lado.</span></p>
+<p xml:id="subtitle108" begin="3498495000t" end="3516513000t" region="region0"><span style="style1">Si la magia sucede</span></p>
+<p xml:id="subtitle109" begin="3517180334t" end="3537867667t" region="region0"><span style="style1">y conocen a alguien</span><br/><span style="style1">que les vuela la cabeza,</span></p>
+<p xml:id="subtitle110" begin="3538535000t" end="3559556000t" region="region0"><span style="style1">se comprometerán</span></p>
+<p xml:id="subtitle111" begin="3560223334t" end="3601931667t" region="region0"><span style="style1">y finalmente podrán verse por primera vez.</span></p>
+<p xml:id="subtitle112" begin="3609939667t" end="3642972667t" region="region1"><span style="style1">Nos ponemos tan ansiosos</span><br/><span style="style1">que nos asustamos un poco y pensamos:</span></p>
+<p xml:id="subtitle113" begin="3643640000t" end="3671334334t" region="region1"><span style="style1">&quot;¿El tipo con quien hablo</span><br/><span style="style1">se interesará en mí?&quot;.</span></p>
+<p xml:id="subtitle114" begin="3677674000t" end="3701364334t" region="region0"><span style="style1">Tengo vitíligo y no lo aceptaba</span></p>
+<p xml:id="subtitle115" begin="3702031667t" end="3739736000t" region="region0"><span style="style1">porque no veía a nadie más</span><br/><span style="style1">con marcas en la piel.</span></p>
+<p xml:id="subtitle116" begin="3748411334t" end="3773436334t" region="region0"><span style="style1">Ahora no me veo sin las marcas.</span></p>
+<p xml:id="subtitle117" begin="3774103667t" end="3821150667t" region="region0"><span style="style1">Ahora cuando me maquillo no las cubro</span><br/><span style="style1">porque son lo que me hace única.</span></p>
+<p xml:id="subtitle118" begin="3846509334t" end="3869532334t" region="region0"><span style="style1">Y luego, cariño, está la mejor parte…</span></p>
+<p xml:id="subtitle119" begin="3870199667t" end="3892555334t" region="region0"><span style="style1">- Diles.</span><br/><span style="style1">- ¡La luna de miel!</span></p>
+<p xml:id="subtitle120" begin="3910907001t" end="3943606334t" region="region0"><span style="style1">Podrán pasar todo el día</span><br/><span style="style1">al lado de su amada</span></p>
+<p xml:id="subtitle121" begin="3944273667t" end="3977640334t" region="region0"><span style="style1">en uno de los lugares</span><br/><span style="style1">más románticos de nuestro país,</span></p>
+<p xml:id="subtitle122" begin="3978307667t" end="4024020000t" region="region0"><span style="style2">Serra do Rio do Rastro,</span><br/><span style="style1">en los cañones de Santa Catarina.</span></p>
+<p xml:id="subtitle123" begin="4024687334t" end="4042371667t" region="region0"><span style="style1">¡Es un lugar hermoso!</span></p>
+<p xml:id="subtitle124" begin="4058054001t" end="4095091000t" region="region0"><span style="style1">Y después de unos días intensos</span><br/><span style="style1">en un lugar impresionante,</span></p>
+<p xml:id="subtitle125" begin="4095758334t" end="4131460667t" region="region0"><span style="style1">pondrán a prueba su pasión</span><br/><span style="style1">para ver si sobreviven a la rutina.</span></p>
+<p xml:id="subtitle126" begin="4132128000t" end="4187850334t" region="region0"><span style="style1">Durante 30 días, vivirán juntos</span><br/><span style="style1">como una pareja de verdad</span></p>
+<p xml:id="subtitle127" begin="4188517667t" end="4203866334t" region="region0"><span style="style1">y todo lo que viene con eso.</span></p>
+<p xml:id="subtitle128" begin="4204533667t" end="4240903334t" region="region0"><span style="style1">Celular, trabajo, familia, amigos, ex.</span></p>
+<p xml:id="subtitle129" begin="4241570667t" end="4276605667t" region="region0"><span style="style1">Y luego, finalmente,</span><br/><span style="style1">dirán el famoso &quot;Sí, quiero&quot;.</span></p>
+<p xml:id="subtitle130" begin="4277273000t" end="4291954334t" region="region0"><span style="style1">O &quot;No&quot;.</span></p>
+<p xml:id="subtitle131" begin="4292621667t" end="4330993334t" region="region0"><span style="style1">La temporada pasada</span><br/><span style="style1">tuvimos un número récord de &quot;Sí, quiero&quot;.</span></p>
+<p xml:id="subtitle132" begin="4335998334t" end="4358354000t" region="region1"><span style="style1">Yo estuve comprometida, vivimos juntos,</span></p>
+<p xml:id="subtitle133" begin="4359021334t" end="4401730667t" region="region1"><span style="style1">acabé aguantando cosas</span><br/><span style="style1">que no aceptaría hoy</span></p>
+<p xml:id="subtitle134" begin="4402398000t" end="4429091334t" region="region1"><span style="style1">con la mente y la madurez que tengo ahora.</span></p>
+<p xml:id="subtitle135" begin="4429758667t" end="4458120334t" region="region0"><span style="style1">Me fueron infiel muchas veces, por cierto.</span></p>
+<p xml:id="subtitle136" begin="4458787667t" end="4486148334t" region="region0"><span style="style1">No quiero una segunda oportunidad.</span><br/><span style="style1">Quiero una tercera.</span></p>
+<p xml:id="subtitle137" begin="4486815667t" end="4505501000t" region="region0"><span style="style1">Los brasileños no se dan por vencidos.</span></p>
+<p xml:id="subtitle138" begin="4506168334t" end="4531193334t" region="region0"><span style="style1">Soltar todo</span><br/><span style="style1">para volver a encontrar el amor</span></p>
+<p xml:id="subtitle139" begin="4531860667t" end="4553882667t" region="region0"><span style="style1">y escribir una nueva historia.</span></p>
+<p xml:id="subtitle140" begin="4563559000t" end="4587583000t" region="region0"><span style="style1">¿El amor ciego conduce al matrimonio?</span></p>
+<p xml:id="subtitle141" begin="4597259334t" end="4615944667t" region="region0"><span style="style1">¡Eso esperamos!</span></p>
+<p xml:id="subtitle142" begin="4645974667t" end="4672668000t" region="region0"><span style="style1">- ¡Vamos, mujeres!</span><br/><span style="style1">- ¡Vamos!</span></p>
+<p xml:id="subtitle143" begin="4673335334t" end="4688016667t" region="region0"><span style="style1">¡Buena suerte!</span></p>
+<p xml:id="subtitle144" begin="4688684000t" end="4716712000t" region="region1"><span style="style1">No veo la hora de conocer</span><br/><span style="style1">a mi increíble hombre nuevo.</span></p>
+<p xml:id="subtitle145" begin="4815477334t" end="4863191667t" region="region1"><span style="style1">PRIMER DÍA DEL EXPERIMENTO</span></p>
+<p xml:id="subtitle146" begin="4932928000t" end="4951279667t" region="region0"><span style="style1">Este es nuestro momento, ¿sí?</span></p>
+<p xml:id="subtitle147" begin="4951947000t" end="4968630334t" region="region0"><span style="style1">¡Vamos!</span></p>
+<p xml:id="subtitle148" begin="4969297667t" end="4983311667t" region="region0"><span style="style1">¡Vamos!</span></p>
+<p xml:id="subtitle149" begin="4998660334t" end="5013341667t" region="region0"><span style="style1">Buena suerte, chicas.</span></p>
+<p xml:id="subtitle150" begin="5014009000t" end="5030358667t" region="region0"><span style="style1">Mucha suerte.</span></p>
+<p xml:id="subtitle151" begin="5031026000t" end="5046708334t" region="region0"><span style="style1">Vamos con toda, chicas.</span></p>
+<p xml:id="subtitle152" begin="5047375667t" end="5074069000t" region="region0"><span style="style1">Que encuentren el amor de sus vidas ahora.</span></p>
+<p xml:id="subtitle153" begin="5310305000t" end="5337332000t" region="region0"><span style="style1">- Hola.</span><br/><span style="style1">- Esto es increíble.</span></p>
+<p xml:id="subtitle154" begin="5349677667t" end="5374369000t" region="region0"><span style="style1">Esto es una locura. ¿Cómo estás?</span></p>
+<p xml:id="subtitle155" begin="5375036334t" end="5390051334t" region="region0"><span style="style1">¿Quieres empezar? ¿Voy yo?</span></p>
+<p xml:id="subtitle156" begin="5390718667t" end="5410071334t" region="region0"><span style="style1">- Lo haré yo.</span><br/><span style="style1">- ¡Adelante!</span></p>
+<p xml:id="subtitle157" begin="5410738667t" end="5464459001t" region="region0"><span style="style1">Soy Karina. Soy abogada,</span><br/><span style="style1">empresaria y escritora.</span></p>
+<p xml:id="subtitle158" begin="5465126334t" end="5487815667t" region="region0"><span style="style1">- ¿Cuántos años tienes?</span><br/><span style="style1">- Tengo 42 años.</span></p>
+<p xml:id="subtitle159" begin="5488483000t" end="5518846667t" region="region0"><span style="style1">- Creo que soy la mayor aquí.</span><br/><span style="style1">- Y yo soy el más joven.</span></p>
+<p xml:id="subtitle160" begin="5529524000t" end="5560221334t" region="region0"><span style="style1">- ¿Tienes hijos?</span><br/><span style="style1">- No. Tengo dos perros, ¿te gustan?</span></p>
+<p xml:id="subtitle161" begin="5560888667t" end="5574902667t" region="region0"><span style="style1">Por supuesto.</span></p>
+<p xml:id="subtitle162" begin="5575570000t" end="5599927667t" region="region0"><span style="style1">Dime, ¿viniste a casarte?</span></p>
+<p xml:id="subtitle163" begin="5600595000t" end="5625953667t" region="region0"><span style="style1">Sueño con tener una familia.</span></p>
+<p xml:id="subtitle164" begin="5626621000t" end="5657652001t" region="region0"><span style="style1">Quiero formar una familia, casarme.</span></p>
+<p xml:id="subtitle165" begin="5658319334t" end="5698693000t" region="region0"><span style="style1">Quiero un matrimonio de verdad,</span><br/><span style="style1">no solo: &quot;Vamos a vivir juntos&quot;.</span></p>
+<p xml:id="subtitle166" begin="5699360334t" end="5726053667t" region="region0"><span style="style1">Esto pasa mucho estos días.</span></p>
+<p xml:id="subtitle167" begin="5726721000t" end="5743070667t" region="region0"><span style="style1">&quot;Veamos qué pasa&quot;.</span></p>
+<p xml:id="subtitle168" begin="5743738000t" end="5775102667t" region="region0"><span style="style1">Eres increíble.</span><br/><span style="style1">Es un placer hablar contigo.</span></p>
+<p xml:id="subtitle169" begin="5775770000t" end="5796791001t" region="region0"><span style="style1">Quería preguntar una cosa más,</span><br/><span style="style1">pero está bien.</span></p>
+<p xml:id="subtitle170" begin="5797458334t" end="5825820000t" region="region0"><span style="style1">- Adiós, Karina. Me encantó.</span><br/><span style="style1">- A mí también.</span></p>
+<p xml:id="subtitle171" begin="5837498334t" end="5853848000t" region="region0"><span style="style1">Qué estrés.</span></p>
+<p xml:id="subtitle172" begin="5867862000t" end="5906901000t" region="region1"><span style="style1">Estoy segura de que hay alguien</span><br/><span style="style1">para mí ahí afuera.</span></p>
+<p xml:id="subtitle173" begin="5954949000t" end="5976303667t" region="region0"><span style="style1">Mi última relación</span></p>
+<p xml:id="subtitle174" begin="5976971000t" end="6008335667t" region="region0"><span style="style1">fue una de las más difíciles</span><br/><span style="style1">que he tenido.</span></p>
+<p xml:id="subtitle175" begin="6014341667t" end="6039366667t" region="region0"><span style="style1">Yo siempre fui obesa.</span></p>
+<p xml:id="subtitle176" begin="6040034001t" end="6053714334t" region="region0"><span style="style1">En esta relación,</span></p>
+<p xml:id="subtitle177" begin="6054381667t" end="6077738334t" region="region0"><span style="style1">después de un tiempo</span><br/><span style="style1">elegí cambiar mi vida.</span></p>
+<p xml:id="subtitle178" begin="6078405667t" end="6120781334t" region="region0"><span style="style1">Decidí someterme a una cirugía bariátrica</span><br/><span style="style1">y una abdominoplastia,</span></p>
+<p xml:id="subtitle179" begin="6121448667t" end="6139466667t" region="region0"><span style="style1">y empecé a ir al gimnasio.</span></p>
+<p xml:id="subtitle180" begin="6144471667t" end="6186180001t" region="region0"><span style="style1">Él empezó a ver cosas</span><br/><span style="style1">que no estaban pasando,</span></p>
+<p xml:id="subtitle181" begin="6186847334t" end="6208202000t" region="region0"><span style="style1">se puso un poco celoso,</span></p>
+<p xml:id="subtitle182" begin="6208869334t" end="6251578667t" region="region0"><span style="style1">y me enteré de que en realidad</span><br/><span style="style1">me estaba engañando</span></p>
+<p xml:id="subtitle183" begin="6252246000t" end="6282276001t" region="region0"><span style="style1">con alguien que solía ser mi amiga.</span></p>
+<p xml:id="subtitle184" begin="6306633667t" end="6317644667t" region="region0"><span style="style1">En fin…</span></p>
+<p xml:id="subtitle185" begin="6325986334t" end="6359686667t" region="region0"><span style="style1">Fue difícil. No fue fácil, pero…</span></p>
+<p xml:id="subtitle186" begin="6375702667t" end="6398725667t" region="region0"><span style="style1">Al final del túnel, hay una luz.</span></p>
+<p xml:id="subtitle187" begin="6399393000t" end="6415742667t" region="region0"><span style="style1">Por eso estoy aquí hoy.</span></p>
+<p xml:id="subtitle188" begin="6416410000t" end="6432759667t" region="region0"><span style="style1">Sigo creyendo en el amor.</span></p>
+<p xml:id="subtitle189" begin="6445105334t" end="6460454000t" region="region0"><span style="style1">- ¿Cómo te llamas?</span><br/><span style="style1">- Elvis.</span></p>
+<p xml:id="subtitle190" begin="6461121334t" end="6474134334t" region="region0"><span style="style1">- ¡Elvis!</span><br/><span style="style1">- Así es.</span></p>
+<p xml:id="subtitle191" begin="6474801667t" end="6500494000t" region="region0"><span style="style1">¡Dios mío! ¡Amo a Elvis Presley!</span></p>
+<p xml:id="subtitle192" begin="6507167334t" end="6530190334t" region="region0"><span style="style1">Mi nombre real es Michael. Soy belga.</span></p>
+<p xml:id="subtitle193" begin="6530857667t" end="6543203334t" region="region0"><span style="style1">¿Eres belga?</span></p>
+<p xml:id="subtitle194" begin="6543870667t" end="6563223334t" region="region0"><span style="style1">Sí. ¡Sorpresa! Soy de Bélgica.</span></p>
+<p xml:id="subtitle195" begin="6563890667t" end="6602929667t" region="region0"><span style="style1">Mi padre es inglés, gringo,</span></p>
+<p xml:id="subtitle196" begin="6603597000t" end="6626953667t" region="region0"><span style="style1">y habla portugués como tú.</span></p>
+<p xml:id="subtitle197" begin="6635629000t" end="6672332334t" region="region0"><span style="style1">A veces mezclo los idiomas,</span><br/><span style="style1">cada tanto digo palabras en inglés.</span></p>
+<p xml:id="subtitle198" begin="6672999667t" end="6694354334t" region="region0"><span style="style1">- Es muy chic.</span><br/><span style="style1">- ¡Es genial!</span></p>
+<p xml:id="subtitle199" begin="6695021667t" end="6737397334t" region="region0"><span style="style1">Viví un tiempo en Londres,</span><br/><span style="style1">viví allí durante ocho años,</span></p>
+<p xml:id="subtitle200" begin="6738064667t" end="6755081667t" region="region0"><span style="style1">y fui a la universidad allí.</span></p>
+<p xml:id="subtitle201" begin="6755749000t" end="6773099667t" region="region0"><span style="style1">¡Qué genial!</span></p>
+<p xml:id="subtitle202" begin="6773767000t" end="6811471334t" region="region0"><span style="style1">Mis padres regresaron a Brasil,</span><br/><span style="style1">y soy muy cercana a mi familia.</span></p>
+<p xml:id="subtitle203" begin="6812138667t" end="6829489334t" region="region0"><span style="style1">- La familia lo es todo.</span><br/><span style="style1">- Sí.</span></p>
+<p xml:id="subtitle204" begin="6830156667t" end="6874200667t" region="region0"><span style="style1">A veces mezclo el portugués y el inglés.</span></p>
+<p xml:id="subtitle205" begin="6874868000t" end="6895221667t" region="region0"><span style="style1">¿Has estado casada?</span></p>
+<p xml:id="subtitle206" begin="6895889000t" end="6921581334t" region="region0"><span style="style1">Sí. ¿Y tú?</span></p>
+<p xml:id="subtitle207" begin="6922248667t" end="6944270667t" region="region0"><span style="style1">Yo también.</span><br/><span style="style1">Hace nueve meses que estoy soltero.</span></p>
+<p xml:id="subtitle208" begin="6944938000t" end="6965959000t" region="region0"><span style="style1">tengo un hijo</span><br/><span style="style1">que tiene dos años y tres meses.</span></p>
+<p xml:id="subtitle209" begin="6972966000t" end="6986646334t" region="region0"><span style="style1">Es el amor de mi vida.</span></p>
+<p xml:id="subtitle210" begin="6987313667t" end="7037697334t" region="region0"><span style="style1">Estar lejos de él es difícil para mí</span><br/><span style="style1">mientras estoy aquí dentro.</span></p>
+<p xml:id="subtitle211" begin="7038364667t" end="7054714334t" region="region0"><span style="style1">Es difícil. No es fácil.</span></p>
+<p xml:id="subtitle212" begin="7055381667t" end="7074734334t" region="region0"><span style="style1">Sí. Arielle, dime…</span></p>
+<p xml:id="subtitle213" begin="7075401667t" end="7086079000t" region="region0"><span style="style1">¡Ariela!</span></p>
+<p xml:id="subtitle214" begin="7086746334t" end="7100093001t" region="region0"><span style="style1">¿A qué te dedicas?</span></p>
+<p xml:id="subtitle215" begin="7100760334t" end="7117777334t" region="region0"><span style="style1">Trabajo con eventos.</span></p>
+<p xml:id="subtitle216" begin="7118444667t" end="7140800334t" region="region0"><span style="style1">Coincidimos en eso.</span></p>
+<p xml:id="subtitle217" begin="7141467667t" end="7154147000t" region="region0"><span style="style1">¿Por qué? ¿Qué haces?</span></p>
+<p xml:id="subtitle218" begin="7154814334t" end="7172165000t" region="region0"><span style="style1">Tengo una empresa de eventos.</span></p>
+<p xml:id="subtitle219" begin="7172832334t" end="7182842334t" region="region0"><span style="style1">¡No puede ser!</span></p>
+<p xml:id="subtitle220" begin="7190183000t" end="7216542667t" region="region1"><span style="style1">Cuando alguien trabaja</span><br/><span style="style1">en el mismo campo que tú,</span></p>
+<p xml:id="subtitle221" begin="7217210000t" end="7246572667t" region="region1"><span style="style1">creo que es más fácil entenderse.</span></p>
+<p xml:id="subtitle222" begin="7247240001t" end="7269929334t" region="region0"><span style="style1">- Me encantó conocerte.</span><br/><span style="style1">- A mí también.</span></p>
+<p xml:id="subtitle223" begin="7270596667t" end="7279605667t" region="region0"><span style="style1">La misma onda.</span></p>
+<p xml:id="subtitle224" begin="7280273000t" end="7308634667t" region="region0"><span style="style1">Estoy muy interesado</span><br/><span style="style1">en conocer más a Ariela</span></p>
+<p xml:id="subtitle225" begin="7309302000t" end="7323316000t" region="region0"><span style="style1">para saber quién es.</span></p>
+<p xml:id="subtitle226" begin="7323983334t" end="7340666667t" region="region0"><span style="style1">¡Adiós! ¡Fue un placer!</span></p>
+<p xml:id="subtitle227" begin="7341334001t" end="7354680667t" region="region0"><span style="style1">El placer es mío.</span></p>
+<p xml:id="subtitle228" begin="7355348000t" end="7397723667t" region="region0"><span style="style1">La voz ronca de Alexandre</span><br/><span style="style1">es muy sensual, ¿no les parece?</span></p>
+<p xml:id="subtitle229" begin="7418077334t" end="7434093334t" region="region0"><span style="style1">¿Te enamoraste?</span></p>
+<p xml:id="subtitle230" begin="7434760667t" end="7465458000t" region="region0"><span style="style1">¡No! Todavía intento conocer a todos aquí.</span></p>
+<p xml:id="subtitle231" begin="7466125334t" end="7490816667t" region="region0"><span style="style1">¿Qué esperas de una relación hoy en día?</span></p>
+<p xml:id="subtitle232" begin="7491484000t" end="7511837667t" region="region0"><span style="style1">Espero compañía.</span></p>
+<p xml:id="subtitle233" begin="7512505000t" end="7551877667t" region="region0"><span style="style1">No espero que a él le guste</span><br/><span style="style1">todo lo que a mí me gusta.</span></p>
+<p xml:id="subtitle234" begin="7552545000t" end="7577570001t" region="region0"><span style="style1">Creo que salir con alguien</span></p>
+<p xml:id="subtitle235" begin="7578237334t" end="7605598000t" region="region0"><span style="style1">no significa que esa persona</span><br/><span style="style1">sea igualita a ti.</span></p>
+<p xml:id="subtitle236" begin="7606265334t" end="7635961667t" region="region0"><span style="style1">Mi hombre ideal</span><br/><span style="style1">es alguien que sabe acompañarme</span></p>
+<p xml:id="subtitle237" begin="7636629000t" end="7656649000t" region="region0"><span style="style1">en los mejores o peores momentos.</span></p>
+<p xml:id="subtitle238" begin="7657316334t" end="7705030667t" region="region0"><span style="style1">Y tiene que querer construir algo</span><br/><span style="style1">en el futuro.</span></p>
+<p xml:id="subtitle239" begin="7705698000t" end="7738397334t" region="region0"><span style="style1">- ¿Cuándo es tu cumpleaños?</span><br/><span style="style1">- El 18 de mayo. ¿Y tú?</span></p>
+<p xml:id="subtitle240" begin="7744069667t" end="7767426334t" region="region0"><span style="style1">El mío es el cuatro de septiembre.</span></p>
+<p xml:id="subtitle241" begin="7768093667t" end="7788781000t" region="region0"><span style="style1">¡Dios mío! Mi hija cumple el tres.</span></p>
+<p xml:id="subtitle242" begin="7789448334t" end="7806465334t" region="region0"><span style="style1">- ¡No te creo!</span><br/><span style="style1">- Sí.</span></p>
+<p xml:id="subtitle243" begin="7807132667t" end="7838831000t" region="region0"><span style="style1">¿Cuántos años tiene?</span><br/><span style="style1">Hablando de niños, yo también soy mamá.</span></p>
+<p xml:id="subtitle244" begin="7839498334t" end="7881874000t" region="region0"><span style="style1">El mayor tiene ocho años,</span><br/><span style="style1">e Ísis tiene seis.</span></p>
+<p xml:id="subtitle245" begin="7882541334t" end="7909234667t" region="region1"><span style="style1">Encontré el amor a través de mis hijas.</span></p>
+<p xml:id="subtitle246" begin="7909902000t" end="7947940000t" region="region1"><span style="style1">Descubrí que el amor</span><br/><span style="style1">es querer estar cerca de alguien,</span></p>
+<p xml:id="subtitle247" begin="7948607334t" end="7979638334t" region="region1"><span style="style1">extrañar a alguien</span><br/><span style="style1">y querer sentir afecto y cariño.</span></p>
+<p xml:id="subtitle248" begin="7980305667t" end="8005330667t" region="region0"><span style="style1">También puedo encontrar eso en una pareja.</span></p>
+<p xml:id="subtitle249" begin="8049708334t" end="8070729334t" region="region0"><span style="style1">Me criaron a la antigua.</span></p>
+<p xml:id="subtitle250" begin="8071396667t" end="8102761334t" region="region0"><span style="style1">Me gusta cortejar,</span><br/><span style="style1">me gusta regalar flores,</span></p>
+<p xml:id="subtitle251" begin="8103428667t" end="8128453667t" region="region0"><span style="style1">me gusta cocinar,</span><br/><span style="style1">hacer cosas para complacer.</span></p>
+<p xml:id="subtitle252" begin="8129121000t" end="8176501667t" region="region0"><span style="style1">Me gusta dar lo mejor de mí,</span><br/><span style="style1">y espero lo mismo a cambio.</span></p>
+<p xml:id="subtitle253" begin="8177169000t" end="8191183000t" region="region0"><span style="style1">¿Qué edades tienen tus hijos?</span></p>
+<p xml:id="subtitle254" begin="8191850334t" end="8231223000t" region="region0"><span style="style1">Tengo una hija.</span><br/><span style="style1">Tiene nueve años y se llama Victoria.</span></p>
+<p xml:id="subtitle255" begin="8231890334t" end="8252911334t" region="region0"><span style="style1">Ella lo es todo para mí. Todo.</span></p>
+<p xml:id="subtitle256" begin="8253578667t" end="8273932334t" region="region0"><span style="style1">Seguro que tú dirías lo mismo.</span></p>
+<p xml:id="subtitle257" begin="8274599667t" end="8310635667t" region="region0"><span style="style1">Antes pensaba que la gente exageraba</span><br/><span style="style1">cuando hablaba de sus hijos.</span></p>
+<p xml:id="subtitle258" begin="8311303000t" end="8320312000t" region="region0"><span style="style1">Exacto.</span></p>
+<p xml:id="subtitle259" begin="8320979334t" end="8348006334t" region="region0"><span style="style1">Pero ahora tenemos hijos</span><br/><span style="style1">y vemos que es verdad.</span></p>
+<p xml:id="subtitle260" begin="8348673667t" end="8381706667t" region="region0"><span style="style1">- ¿A qué te dedicas?</span><br/><span style="style1">- Trabajaba en seguridad personal.</span></p>
+<p xml:id="subtitle261" begin="8382374000t" end="8400725667t" region="region0"><span style="style1">- Bien.</span><br/><span style="style1">- Pero cambié de camino.</span></p>
+<p xml:id="subtitle262" begin="8401393001t" end="8420745667t" region="region0"><span style="style1">Ya no quería hacer eso.</span></p>
+<p xml:id="subtitle263" begin="8421413000t" end="8456448000t" region="region0"><span style="style1">Hoy trabajo en el mercado financiero</span><br/><span style="style1">y soy vendedor de Internet.</span></p>
+<p xml:id="subtitle264" begin="8457115334t" end="8494152334t" region="region0"><span style="style1">He estado capacitándome en esas áreas.</span></p>
+<p xml:id="subtitle265" begin="8494819667t" end="8524849667t" region="region0"><span style="style1">Busco libertad financiera.</span><br/><span style="style1">Ese es mi objetivo.</span></p>
+<p xml:id="subtitle266" begin="8525517000t" end="8542534001t" region="region0"><span style="style1">Tienes buena energía.</span></p>
+<p xml:id="subtitle267" begin="8543201334t" end="8577569000t" region="region0"><span style="style1">Qué lindo.</span><br/><span style="style1">Tú también tienes una gran energía.</span></p>
+<p xml:id="subtitle268" begin="8578236334t" end="8613271334t" region="region0"><span style="style1">Al hablar, sentimos la energía del otro</span><br/><span style="style1">y quiénes son como personas.</span></p>
+<p xml:id="subtitle269" begin="8613938667t" end="8656314334t" region="region0"><span style="style1">La apariencia viene después</span><br/><span style="style1">de la atracción en la charla.</span></p>
+<p xml:id="subtitle270" begin="8656981667t" end="8680004667t" region="region0"><span style="style1">¡Adiós! ¡Me encantó conocerte, Evandro!</span></p>
+<p xml:id="subtitle271" begin="8680672000t" end="8708700000t" region="region0"><span style="style1">- ¡Piensa que te estoy abrazando!</span><br/><span style="style1">- ¡Igualmente!</span></p>
+<p xml:id="subtitle272" begin="8714706000t" end="8750408334t" region="region0"><span style="style1">Quiero volver a hablar con Ariela.</span><br/><span style="style1">Me gustó mucho.</span></p>
+<p xml:id="subtitle273" begin="8751075667t" end="8766090667t" region="region0"><span style="style1">Me sorprendió.</span></p>
+<p xml:id="subtitle274" begin="8784108667t" end="8793117667t" region="region0"><span style="style1">Es difícil.</span></p>
+<p xml:id="subtitle275" begin="8793785000t" end="8805463334t" region="region0"><span style="style1">Estoy muy sensible.</span></p>
+<p xml:id="subtitle276" begin="8806130667t" end="8823815000t" region="region0"><span style="style1">Tras la charla, pensé: &quot;¡Dios mío!&quot;</span></p>
+<p xml:id="subtitle277" begin="8831489334t" end="8854512334t" region="region0"><span style="style1">Alexandre me gustó,</span><br/><span style="style1">y Evandro me gustó mucho.</span></p>
+<p xml:id="subtitle278" begin="8863187667t" end="8872530334t" region="region0"><span style="style1">Así que estoy…</span></p>
+<p xml:id="subtitle279" begin="8892884000t" end="8901225667t" region="region0"><span style="style1">así.</span></p>
+<p xml:id="subtitle280" begin="8914572334t" end="8928586334t" region="region0"><span style="style1">Estoy jodido.</span></p>
+<p xml:id="subtitle281" begin="8929253667t" end="8951275667t" region="region0"><span style="style1">Solo me gustó una, pero suena gorda.</span></p>
+<p xml:id="subtitle282" begin="8969293667t" end="8982640334t" region="region1"><span style="style1">¡Chicas!</span></p>
+<p xml:id="subtitle283" begin="8983641334t" end="9013337667t" region="region1"><span style="style1">SALA DE MUJERES</span></p>
+<p xml:id="subtitle284" begin="9026684334t" end="9050374667t" region="region1"><span style="style1">¡Dios mío!</span></p>
+<p xml:id="subtitle285" begin="9051042000t" end="9067058000t" region="region0"><span style="style1">¡Fue increíble!</span></p>
+<p xml:id="subtitle286" begin="9067725334t" end="9102426667t" region="region0"><span style="style1">Estaba muy nerviosa, pero fue genial.</span></p>
+<p xml:id="subtitle287" begin="9103094000t" end="9126450667t" region="region0"><span style="style1">¿Se destacó alguno?</span></p>
+<p xml:id="subtitle288" begin="9127118000t" end="9141465667t" region="region0"><span style="style1">Sí. Tengo dos.</span></p>
+<p xml:id="subtitle289" begin="9142133000t" end="9163821334t" region="region0"><span style="style1">- Alexandre.</span><br/><span style="style1">- ¡No! ¡Genial!</span></p>
+<p xml:id="subtitle290" begin="9164488667t" end="9194852334t" region="region0"><span style="style1">Le puse una gran X a Alexandre.</span></p>
+<p xml:id="subtitle291" begin="9200191000t" end="9231222000t" region="region0"><span style="style1">Con el último tipo,</span><br/><span style="style1">me gustó mucho su vibra,</span></p>
+<p xml:id="subtitle292" begin="9231889334t" end="9254912334t" region="region0"><span style="style1">y él dijo:</span><br/><span style="style1">&quot;Me gustó una que sonaba gorda&quot;.</span></p>
+<p xml:id="subtitle293" begin="9255579667t" end="9291615667t" region="region0"><span style="style1">&quot;¿Qué hago ahora?</span><br/><span style="style1">Me gustó una chica, pero sonaba gorda&quot;.</span></p>
+<p xml:id="subtitle294" begin="9292283000t" end="9316307000t" region="region0"><span style="style1">- ¡No puedo creerlo!</span><br/><span style="style1">- ¡Me pareció horrible!</span></p>
+<p xml:id="subtitle295" begin="9316974334t" end="9339663667t" region="region0"><span style="style1">- ¿Cómo se llama?</span><br/><span style="style1">- Alexandre.</span></p>
+<p xml:id="subtitle296" begin="9340331000t" end="9356680667t" region="region0"><span style="style1">¡Encontramos un imbécil!</span></p>
+<p xml:id="subtitle297" begin="9371695667t" end="9411735667t" region="region0"><span style="style1">Es un comentario innecesario,</span><br/><span style="style1">sobre todo porque estamos aquí.</span></p>
+<p xml:id="subtitle298" begin="9412403000t" end="9453110334t" region="region0"><span style="style1">Quiero hablar con él</span><br/><span style="style1">y escuchar sus motivos.</span></p>
+<p xml:id="subtitle299" begin="9541198334t" end="9554878667t" region="region0"><span style="style1">- Hola.</span><br/><span style="style1">- Hola.</span></p>
+<p xml:id="subtitle300" begin="9555546000t" end="9578902667t" region="region0"><span style="style1">- ¿Con quién estoy hablando?</span><br/><span style="style1">- Marcia.</span></p>
+<p xml:id="subtitle301" begin="9579570000t" end="9589246334t" region="region0"><span style="style1">¡Marcia!</span></p>
+<p xml:id="subtitle302" begin="9589913667t" end="9600924667t" region="region0"><span style="style1">¿Tú cómo te llamas?</span></p>
+<p xml:id="subtitle303" begin="9601592000t" end="9619943667t" region="region0"><span style="style1">Soy André. ¿De dónde eres?</span></p>
+<p xml:id="subtitle304" begin="9620611000t" end="9644635000t" region="region0"><span style="style1">Soy de San Pablo.</span><br/><span style="style1">¿Conoces a Barueri en San Pablo?</span></p>
+<p xml:id="subtitle305" begin="9645302334t" end="9677334334t" region="region0"><span style="style1">Sí. Yo vivía en Carapicuíba.</span><br/><span style="style1">Ahora estoy en la Zona Norte.</span></p>
+<p xml:id="subtitle306" begin="9678001667t" end="9691682000t" region="region0"><span style="style1">Tengo una hija.</span></p>
+<p xml:id="subtitle307" begin="9692349334t" end="9731722000t" region="region0"><span style="style1">- ¿En serio? ¿Cuántos años tiene?</span><br/><span style="style1">- Tiene cuatro añitos.</span></p>
+<p xml:id="subtitle308" begin="9732389334t" end="9749072667t" region="region0"><span style="style1">Yo también tengo un hijo.</span></p>
+<p xml:id="subtitle309" begin="9749740000t" end="9778769000t" region="region1"><span style="style1">Tengo un hijo de cinco años.</span><br/><span style="style1">Su nombre es Antony.</span></p>
+<p xml:id="subtitle310" begin="9779436334t" end="9799456334t" region="region1"><span style="style1">Es el amor de mi vida.</span></p>
+<p xml:id="subtitle311" begin="9824481334t" end="9844501334t" region="region0"><span style="style1">No tuve mucha suerte en las relaciones.</span></p>
+<p xml:id="subtitle312" begin="9845168667t" end="9871194667t" region="region0"><span style="style1">Estuve comprometida, terminó.</span><br/><span style="style1">Viví con alguien, se acabó.</span></p>
+<p xml:id="subtitle313" begin="9871862000t" end="9900891000t" region="region0"><span style="style1">Tuve un hijo con alguien</span><br/><span style="style1">con quien solo estaba saliendo.</span></p>
+<p xml:id="subtitle314" begin="9923580334t" end="9942265667t" region="region0"><span style="style1">Mi padre se sorprendió</span></p>
+<p xml:id="subtitle315" begin="9942933000t" end="9976967000t" region="region0"><span style="style1">cuando quedé embarazada sin estar casada.</span></p>
+<p xml:id="subtitle316" begin="9984307667t" end="10014671334t" region="region0"><span style="style1">No me habló durante meses</span></p>
+<p xml:id="subtitle317" begin="10015338667t" end="10048371667t" region="region0"><span style="style1">y tuve que buscarlo</span><br/><span style="style1">para decirle que lo necesitaba.</span></p>
+<p xml:id="subtitle318" begin="10062719334t" end="10095418667t" region="region0"><span style="style1">Más tarde, entendió toda la situación</span></p>
+<p xml:id="subtitle319" begin="10105095000t" end="10122112000t" region="region0"><span style="style1">y me apoyó muchísimo.</span></p>
+<p xml:id="subtitle320" begin="10122779334t" end="10151808334t" region="region0"><span style="style1">Fue a todas mis citas.</span><br/><span style="style1">No se perdió ninguna.</span></p>
+<p xml:id="subtitle321" begin="10156813334t" end="10174164000t" region="region0"><span style="style1">Me emociono…</span></p>
+<p xml:id="subtitle322" begin="10195852334t" end="10207197000t" region="region0"><span style="style1">Mi hijo tiene autismo.</span></p>
+<p xml:id="subtitle323" begin="10207864334t" end="10227550667t" region="region0"><span style="style1">- No puede ser.</span><br/><span style="style1">- Sí. ¿Por qué?</span></p>
+<p xml:id="subtitle324" begin="10228218000t" end="10248238000t" region="region0"><span style="style1">- No. No puede ser. ¿En serio?</span><br/><span style="style1">- ¿Por qué?</span></p>
+<p xml:id="subtitle325" begin="10248905334t" end="10261584667t" region="region0"><span style="style1">Mi hija también.</span></p>
+<p xml:id="subtitle326" begin="10288611667t" end="10304294001t" region="region0"><span style="style1">¡Eso es una locura!</span></p>
+<p xml:id="subtitle327" begin="10304961334t" end="10320977334t" region="region0"><span style="style1">¿Cómo se llama su hija?</span></p>
+<p xml:id="subtitle328" begin="10321644667t" end="10329986334t" region="region0"><span style="style1">Fernanda.</span></p>
+<p xml:id="subtitle329" begin="10330653667t" end="10340663667t" region="region0"><span style="style1">¡Fernanda!</span></p>
+<p xml:id="subtitle330" begin="10341331001t" end="10369359000t" region="region0"><span style="style1">Vaya, amo muchísimo a esa niñita.</span></p>
+<p xml:id="subtitle331" begin="10370026334t" end="10408064334t" region="region0"><span style="style1">Nunca pensé que sería mamá,</span><br/><span style="style1">mucho menos una mamá atípica.</span></p>
+<p xml:id="subtitle332" begin="10408731667t" end="10433423000t" region="region0"><span style="style1">Aprendo mucho de él</span><br/><span style="style1">mientras aprende de mí.</span></p>
+<p xml:id="subtitle333" begin="10434090334t" end="10444100334t" region="region0"><span style="style1">Exacto.</span></p>
+<p xml:id="subtitle334" begin="10460783667t" end="10501824667t" region="region0"><span style="style1">Cuando hay alguien</span><br/><span style="style1">que sabe cómo es, es increíble.</span></p>
+<p xml:id="subtitle335" begin="10502492000t" end="10537193334t" region="region0"><span style="style1">Yo podría ayudarlo, él podría ayudarme.</span><br/><span style="style1">y podríamos ayudar a los niños.</span></p>
+<p xml:id="subtitle336" begin="10544200334t" end="10558548000t" region="region0"><span style="style1">Es una vida un poco…</span></p>
+<p xml:id="subtitle337" begin="10567890667t" end="10576232334t" region="region0"><span style="style1">solitaria,</span></p>
+<p xml:id="subtitle338" begin="10576899667t" end="10605595000t" region="region0"><span style="style1">porque terminas perdiendo algunos amigos.</span></p>
+<p xml:id="subtitle339" begin="10620610000t" end="10644634000t" region="region0"><span style="style1">Y quedas casi restringida a la familia.</span></p>
+<p xml:id="subtitle340" begin="10645301334t" end="10669992667t" region="region0"><span style="style1">Cuando me enteré, quedé muy sorprendido,</span></p>
+<p xml:id="subtitle341" begin="10670660000t" end="10690012667t" region="region0"><span style="style1">pero mi amor se ha multiplicado.</span></p>
+<p xml:id="subtitle342" begin="10690680001t" end="10743399334t" region="region0"><span style="style1">Es importante para ellos</span><br/><span style="style1">que puedo darles todo este apoyo.</span></p>
+<p xml:id="subtitle343" begin="10744066667t" end="10768758000t" region="region0"><span style="style1">Me encanta salir con mi hijo,</span><br/><span style="style1">es muy curioso.</span></p>
+<p xml:id="subtitle344" begin="10769425334t" end="10789445334t" region="region0"><span style="style1">- Es lindo, ¿no?</span><br/><span style="style1">- ¡Sí!</span></p>
+<p xml:id="subtitle345" begin="10790112667t" end="10809465334t" region="region0"><span style="style1">Podemos salir juntos a pasear.</span></p>
+<p xml:id="subtitle346" begin="10810132667t" end="10845167667t" region="region0"><span style="style1">¡Sí! ¡Sería increíble!</span></p>
+<p xml:id="subtitle347" begin="10845835000t" end="10854176667t" region="region0"><span style="style1">Estoy feliz.</span></p>
+<p xml:id="subtitle348" begin="10874864001t" end="10893883000t" region="region1"><span style="style1">Creo que tiene mi corazón.</span></p>
+<p xml:id="subtitle349" begin="10901891000t" end="10923913001t" region="region0"><span style="style1">Me dejaste perplejo. Estoy muy feliz.</span></p>
+<p xml:id="subtitle350" begin="10924580334t" end="10936926000t" region="region0"><span style="style1">Me estás haciendo llorar.</span></p>
+<p xml:id="subtitle351" begin="10937593334t" end="10961951000t" region="region0"><span style="style1">Dios mío. Los dos lloramos juntos.</span></p>
+<p xml:id="subtitle352" begin="10974296667t" end="11001657334t" region="region0"><span style="style1">Parece ser una buena persona.</span></p>
+<p xml:id="subtitle353" begin="11002324667t" end="11034023000t" region="region0"><span style="style1">Estoy ansiosa por saber más sobre su vida.</span></p>
+<p xml:id="subtitle354" begin="11034690334t" end="11084740334t" region="region0"><span style="style1">Soy un tipo cariñoso.</span><br/><span style="style1">Soy romántico. Soy tranquilo.</span></p>
+<p xml:id="subtitle355" begin="11085407667t" end="11098420667t" region="region0"><span style="style1">Soy un tipo leal.</span></p>
+<p xml:id="subtitle356" begin="11099088000t" end="11121110000t" region="region0"><span style="style1">Si estoy a tu lado,</span><br/><span style="style1">me quedaré hasta el final.</span></p>
+<p xml:id="subtitle357" begin="11121777334t" end="11131120000t" region="region0"><span style="style1">Así soy yo.</span></p>
+<p xml:id="subtitle358" begin="11148804334t" end="11167156001t" region="region0"><span style="style1">Estoy soltero desde hace tres años.</span></p>
+<p xml:id="subtitle359" begin="11167823334t" end="11190512667t" region="region0"><span style="style1">Llegó la hora de encontrar</span><br/><span style="style1">a alguien especial.</span></p>
+<p xml:id="subtitle360" begin="11199188000t" end="11231553667t" region="region0"><span style="style1">Creo que eso sea ideal para mí,</span><br/><span style="style1">para mi hija,</span></p>
+<p xml:id="subtitle361" begin="11232221000t" end="11258914334t" region="region0"><span style="style1">y me ayudaría a ser quien soy.</span></p>
+<p xml:id="subtitle362" begin="11270592667t" end="11301957334t" region="region0"><span style="style1">Me gustó mucho conocerte.</span></p>
+<p xml:id="subtitle363" begin="11302624667t" end="11315637667t" region="region0"><span style="style1">Vaya. A mí también.</span></p>
+<p xml:id="subtitle364" begin="11316305001t" end="11351340001t" region="region0"><span style="style1">Estoy colocando 80, 90, 100 estrellas</span><br/><span style="style1">junto a tu nombre.</span></p>
+<p xml:id="subtitle365" begin="11352007334t" end="11377032334t" region="region0"><span style="style1">- ¡Me encanta!</span><br/><span style="style1">- Esto es lindo.</span></p>
+<p xml:id="subtitle366" begin="11387376000t" end="11403392000t" region="region0"><span style="style1">El corazón me salta.</span></p>
+<p xml:id="subtitle367" begin="11418407000t" end="11435757667t" region="region0"><span style="style1">Es ideal para mí.</span></p>
+<p xml:id="subtitle368" begin="11454443000t" end="11463118334t" region="region0"><span style="style1">Vaya.</span></p>
+<p xml:id="subtitle369" begin="11510499001t" end="11529184334t" region="region0"><span style="style1">Estas chicas ya se están enamorando.</span></p>
+<p xml:id="subtitle370" begin="11564219334t" end="11587242334t" region="region1"><span style="style1">SALA DE MUJERES</span></p>
+<p xml:id="subtitle371" begin="11587909667t" end="11619941667t" region="region1"><span style="style1">- ¿Estás llorando?</span><br/><span style="style1">- ¡Sí! ¡Dios mío!</span></p>
+<p xml:id="subtitle372" begin="11625614000t" end="11642964667t" region="region0"><span style="style1">¡Ya tengo corazones aquí!</span></p>
+<p xml:id="subtitle373" begin="11655310334t" end="11674663000t" region="region0"><span style="style1">- Qué lindo.</span><br/><span style="style1">- Es increíble.</span></p>
+<p xml:id="subtitle374" begin="11675330334t" end="11699020667t" region="region0"><span style="style1">Conocí a alguien</span><br/><span style="style1">que tiene un hijo autista.</span></p>
+<p xml:id="subtitle375" begin="11699688000t" end="11711032667t" region="region0"><span style="style1">¿De verdad?</span></p>
+<p xml:id="subtitle376" begin="11717706000t" end="11733054667t" region="region0"><span style="style1">Él es adorable.</span></p>
+<p xml:id="subtitle377" begin="11733722000t" end="11754409334t" region="region0"><span style="style1">¡Qué lindo!</span></p>
+<p xml:id="subtitle378" begin="11765086667t" end="11778099667t" region="region1"><span style="style1">¡Qué experiencia!</span></p>
+<p xml:id="subtitle379" begin="11778767000t" end="11797118667t" region="region1"><span style="style1">Es una locura.</span></p>
+<p xml:id="subtitle380" begin="11804125667t" end="11816805000t" region="region1"><span style="style1">Mierda, es increíble.</span></p>
+<p xml:id="subtitle381" begin="11817472334t" end="11852173667t" region="region1"><span style="style1">Creo que puso mi nombre</span><br/><span style="style1">en el primer lugar.</span></p>
+<p xml:id="subtitle382" begin="11852841000t" end="11871860000t" region="region1"><span style="style1">Si no es así, estaré muy triste.</span></p>
+<p xml:id="subtitle383" begin="11908563334t" end="11961950000t" region="region1"><span style="style1">SEGUNDO DÍA DEL EXPERIMENTO</span></p>
+<p xml:id="subtitle384" begin="12029017000t" end="12044365667t" region="region0"><span style="style1">- Hola.</span><br/><span style="style1">- ¡Hola, André!</span></p>
+<p xml:id="subtitle385" begin="12065386667t" end="12089744334t" region="region0"><span style="style1">- ¿Con quién estoy hablando?</span><br/><span style="style1">- ¡Marcia!</span></p>
+<p xml:id="subtitle386" begin="12090411667t" end="12106094000t" region="region0"><span style="style1">¡No puede ser!</span></p>
+<p xml:id="subtitle387" begin="12118106000t" end="12136791334t" region="region0"><span style="style1">¡No puedo creerlo!</span></p>
+<p xml:id="subtitle388" begin="12143131000t" end="12164819334t" region="region0"><span style="style1">Me quedé despierta</span><br/><span style="style1">toda la noche por tu culpa.</span></p>
+<p xml:id="subtitle389" begin="12171492667t" end="12182503667t" region="region0"><span style="style1">Vaya.</span></p>
+<p xml:id="subtitle390" begin="12183171001t" end="12203858334t" region="region0"><span style="style1">¡Mi corazón late como loco!</span></p>
+<p xml:id="subtitle391" begin="12209864334t" end="12232220001t" region="region0"><span style="style1">Estoy temblando, de verdad.</span></p>
+<p xml:id="subtitle392" begin="12232887334t" end="12244565667t" region="region0"><span style="style1">Es una locura, ¿no?</span></p>
+<p xml:id="subtitle393" begin="12259914334t" end="12283938334t" region="region0"><span style="style1">Estoy sintiendo algo diferente.</span></p>
+<p xml:id="subtitle394" begin="12291279000t" end="12310631667t" region="region1"><span style="style1">¿Qué me hiciste, Marcia?</span></p>
+<p xml:id="subtitle395" begin="12321309000t" end="12353674667t" region="region0"><span style="style1">Ayer hablamos mucho de nuestros hijos.</span></p>
+<p xml:id="subtitle396" begin="12354342000t" end="12364685667t" region="region0"><span style="style1">Así es.</span></p>
+<p xml:id="subtitle397" begin="12365353001t" end="12385706667t" region="region0"><span style="style1">Tu nombre tiene un corazoncito.</span></p>
+<p xml:id="subtitle398" begin="12414735667t" end="12459780667t" region="region1"><span style="style1">Sí, creo que es una señal</span><br/><span style="style1">para que lo elija.</span></p>
+<p xml:id="subtitle399" begin="12466120334t" end="12484472000t" region="region0"><span style="style1">¿Adónde te gusta ir?</span></p>
+<p xml:id="subtitle400" begin="12485139334t" end="12503157334t" region="region0"><span style="style1">- No voy a discotecas.</span><br/><span style="style1">- Yo tampoco.</span></p>
+<p xml:id="subtitle401" begin="12503824667t" end="12547535000t" region="region0"><span style="style1">Puedo salir a un bar,</span><br/><span style="style1">pero llego a casa a las 11:00 p.m.</span></p>
+<p xml:id="subtitle402" begin="12548202334t" end="12584238334t" region="region0"><span style="style1">¿Te dije que disfruto</span><br/><span style="style1">de pasar el rato en la sala de estar,</span></p>
+<p xml:id="subtitle403" begin="12584905667t" end="12620274334t" region="region0"><span style="style1">tomando un poco de vino</span><br/><span style="style1">y escuchando jazz, soul…?</span></p>
+<p xml:id="subtitle404" begin="12620941667t" end="12633287334t" region="region0"><span style="style1">Vaya.</span></p>
+<p xml:id="subtitle405" begin="12633954667t" end="12658979667t" region="region0"><span style="style1">Así soy yo. Soy un tipo tranquilo.</span></p>
+<p xml:id="subtitle406" begin="12659647001t" end="12672993667t" region="region0"><span style="style1">Me gusta ir al cine.</span></p>
+<p xml:id="subtitle407" begin="12673661000t" end="12703023667t" region="region0"><span style="style1">Me gustan los abrazos,</span><br/><span style="style1">me gusta ser cariñoso.</span></p>
+<p xml:id="subtitle408" begin="12703691000t" end="12731051667t" region="region0"><span style="style1">- Entonces, eres un romántico.</span><br/><span style="style1">- Lo soy.</span></p>
+<p xml:id="subtitle409" begin="12731719000t" end="12741395334t" region="region0"><span style="style1">¿Eres cariñosa?</span></p>
+<p xml:id="subtitle410" begin="12742062667t" end="12764752000t" region="region0"><span style="style1">- Sí, pero no soy pegajosa.</span><br/><span style="style1">- Bien.</span></p>
+<p xml:id="subtitle411" begin="12765419334t" end="12797785000t" region="region0"><span style="style1">Me gusta demostrar mi afecto,</span></p>
+<p xml:id="subtitle412" begin="12798452334t" end="12828148667t" region="region0"><span style="style1">me encanta dormir</span><br/><span style="style1">con otra persona y todo eso.</span></p>
+<p xml:id="subtitle413" begin="12828816000t" end="12849837001t" region="region0"><span style="style1">Me gusta ir de la mano.</span></p>
+<p xml:id="subtitle414" begin="12850504334t" end="12869857000t" region="region0"><span style="style1">Así soy, ¿sabes?</span></p>
+<p xml:id="subtitle415" begin="12870524334t" end="12914568334t" region="region0"><span style="style1">Como estoy solo,</span><br/><span style="style1">extraño mucho tener pareja.</span></p>
+<p xml:id="subtitle416" begin="12915235667t" end="12952606334t" region="region0"><span style="style1">Alguien que sea fiel</span><br/><span style="style1">y con quien compartamos los mismos gustos.</span></p>
+<p xml:id="subtitle417" begin="12961281667t" end="12987307667t" region="region0"><span style="style1">Quizá es demasiado pronto,</span><br/><span style="style1">pero me gustas mucho.</span></p>
+<p xml:id="subtitle418" begin="12987975000t" end="13000654334t" region="region0"><span style="style1">No bromees conmigo.</span></p>
+<p xml:id="subtitle419" begin="13001321667t" end="13015669334t" region="region0"><span style="style1">No, es verdad.</span></p>
+<p xml:id="subtitle420" begin="13016336667t" end="13045365667t" region="region0"><span style="style1">Estoy muy feliz</span><br/><span style="style1">y me siento tonto enamorado.</span></p>
+<p xml:id="subtitle421" begin="13046033001t" end="13068055000t" region="region0"><span style="style1">No te preocupes. Yo siento lo mismo.</span></p>
+<p xml:id="subtitle422" begin="13068722334t" end="13092746334t" region="region0"><span style="style1">- ¡No, Marcia! ¿En serio?</span><br/><span style="style1">- Es verdad.</span></p>
+<p xml:id="subtitle423" begin="13099753334t" end="13126780334t" region="region0"><span style="style1">La estoy conociendo.</span><br/><span style="style1">Quiero ir más profundo.</span></p>
+<p xml:id="subtitle424" begin="13127447667t" end="13145132000t" region="region0"><span style="style1">Quiero enamorarme de ella.</span></p>
+<p xml:id="subtitle425" begin="13145799334t" end="13170490667t" region="region0"><span style="style1">- Eres tú, Marcia.</span><br/><span style="style1">- Dios mío.</span></p>
+<p xml:id="subtitle426" begin="13171158000t" end="13192846334t" region="region0"><span style="style1">- Esto es una locura.</span><br/><span style="style1">- ¡Una locura!</span></p>
+<p xml:id="subtitle427" begin="13193513667t" end="13210864334t" region="region0"><span style="style1">Ya me muero por verte.</span></p>
+<p xml:id="subtitle428" begin="13335655667t" end="13358011334t" region="region1"><span style="style1">¿Quién será el primero</span><br/><span style="style1">en proponer matrimonio?</span></p>
+<p xml:id="subtitle429" begin="13358678667t" end="13367020334t" region="region1"><span style="style1">¿Quién?</span></p>
+<p xml:id="subtitle430" begin="13376029334t" end="13415402000t" region="region0"><span style="style1">¡André!</span></p>
+<p xml:id="subtitle431" begin="13477464001t" end="13503823667t" region="region0"><span style="style1">- Hola.</span><br/><span style="style1">- Es Alexandre, ¿no?</span></p>
+<p xml:id="subtitle432" begin="13504491000t" end="13525178334t" region="region0"><span style="style1">Así es. ¿Quién está ahí, Ariele?</span></p>
+<p xml:id="subtitle433" begin="13525845667t" end="13543196334t" region="region0"><span style="style1">- ¡Ariela!</span><br/><span style="style1">- Ariela.</span></p>
+<p xml:id="subtitle434" begin="13543863667t" end="13557877667t" region="region0"><span style="style1">¿Otra vez con Ariele?</span></p>
+<p xml:id="subtitle435" begin="13558545000t" end="13578565000t" region="region1"><span style="style1">No es Ariele. Soy Ariela.</span></p>
+<p xml:id="subtitle436" begin="13579232334t" end="13593246334t" region="region0"><span style="style1">Tenemos mucho de qué hablar.</span></p>
+<p xml:id="subtitle437" begin="13593913667t" end="13622275334t" region="region0"><span style="style1">¿Mucho? ¿Es controvertido o no?</span></p>
+<p xml:id="subtitle438" begin="13622942667t" end="13651971667t" region="region0"><span style="style1">No sé si es controvertido o no,</span></p>
+<p xml:id="subtitle439" begin="13652639000t" end="13685338334t" region="region0"><span style="style1">pero quiero un poco de información.</span></p>
+<p xml:id="subtitle440" begin="13686005667t" end="13705692000t" region="region0"><span style="style1">- De acuerdo.</span><br/><span style="style1">- ¿Serás honesto?</span></p>
+<p xml:id="subtitle441" begin="13706359334t" end="13725712000t" region="region0"><span style="style1">Por supuesto.</span></p>
+<p xml:id="subtitle442" begin="13743062667t" end="13781100667t" region="region0"><span style="style1">Quiero saber</span><br/><span style="style1">si tú hiciste algún comentario</span></p>
+<p xml:id="subtitle443" begin="13781768000t" end="13831818000t" region="region0"><span style="style1">sobre que te gusta alguien,</span><br/><span style="style1">pero esa persona sonaba gorda.</span></p>
+<p xml:id="subtitle444" begin="13832485334t" end="13859512334t" region="region0"><span style="style1">- No, eso no pasó.</span><br/><span style="style1">- ¿Estás seguro?</span></p>
+<p xml:id="subtitle445" begin="13860179667t" end="13870857000t" region="region0"><span style="style1">Totalmente.</span></p>
+<p xml:id="subtitle446" begin="13871524334t" end="13891544334t" region="region0"><span style="style1">Este comentario me afectó mucho</span></p>
+<p xml:id="subtitle447" begin="13892211667t" end="13926579334t" region="region0"><span style="style1">porque he sufrido mucho por este tema.</span></p>
+<p xml:id="subtitle448" begin="13927246667t" end="13952271667t" region="region0"><span style="style1">¿Dijiste algo sobre alguien gordo?</span></p>
+<p xml:id="subtitle449" begin="13985972000t" end="14006993001t" region="region0"><span style="style1">- Rayos, yo…</span><br/><span style="style1">- Sé honesto, porque…</span></p>
+<p xml:id="subtitle450" begin="14007660334t" end="14050369667t" region="region0"><span style="style1">Te diría si lo hubiera hecho,</span><br/><span style="style1">pero no recuerdo haberlo dicho.</span></p>
+<p xml:id="subtitle451" begin="14078064000t" end="14090409667t" region="region0"><span style="style1">No me acuerdo.</span></p>
+<p xml:id="subtitle452" begin="14091077000t" end="14121107000t" region="region0"><span style="style1">No recuerdo haber dicho esto.</span></p>
+<p xml:id="subtitle453" begin="14121774334t" end="14162481667t" region="region0"><span style="style1">Si lo hice, fue totalmente incorrecto</span><br/><span style="style1">de mi parte decir eso.</span></p>
+<p xml:id="subtitle454" begin="14163149000t" end="14174160000t" region="region0"><span style="style1">Ya veo.</span></p>
+<p xml:id="subtitle455" begin="14174827334t" end="14187840334t" region="region0"><span style="style1">Estoy siendo honesto.</span></p>
+<p xml:id="subtitle456" begin="14188507667t" end="14213866334t" region="region0"><span style="style1">Si lo dije, no lo recuerdo.</span></p>
+<p xml:id="subtitle457" begin="14214533667t" end="14260579667t" region="region0"><span style="style1">No juzgaré, porque está mal</span><br/><span style="style1">juzgar basándose en una conversación,</span></p>
+<p xml:id="subtitle458" begin="14266585667t" end="14294947334t" region="region0"><span style="style1">pero Alexandre encaja en un </span><span style="style2">stereotype,</span></p>
+<p xml:id="subtitle459" begin="14295614667t" end="14308961334t" region="region0"><span style="style1">no sé la palabra en español.</span></p>
+<p xml:id="subtitle460" begin="14309628667t" end="14330316000t" region="region0"><span style="style1">Cada persona es hermosa,</span></p>
+<p xml:id="subtitle461" begin="14330983334t" end="14375361000t" region="region0"><span style="style1">pero Alexandre tiene</span><br/><span style="style1">un tipo específico de mujer que le gusta.</span></p>
+<p xml:id="subtitle462" begin="14376028334t" end="14418737667t" region="region0"><span style="style1">Él nunca aceptaría a alguien</span><br/><span style="style1">que no fuese de esta manera.</span></p>
+<p xml:id="subtitle463" begin="14419405000t" end="14430416001t" region="region0"><span style="style1">Adiós.</span></p>
+<p xml:id="subtitle464" begin="14479798667t" end="14492144334t" region="region0"><span style="style1">Una de las chicas dijo</span></p>
+<p xml:id="subtitle465" begin="14492811667t" end="14514166334t" region="region0"><span style="style1">que hice un comentario</span><br/><span style="style1">cuando salí de la cabina.</span></p>
+<p xml:id="subtitle466" begin="14514833667t" end="14541527000t" region="region0"><span style="style1">Que dije algo</span><br/><span style="style1">sobre una persona que suena gorda.</span></p>
+<p xml:id="subtitle467" begin="14542194334t" end="14560879667t" region="region0"><span style="style1">- Sí.</span><br/><span style="style1">- Y dije: &quot;Seré honesto…&quot;</span></p>
+<p xml:id="subtitle468" begin="14561547000t" end="14585237334t" region="region0"><span style="style1">- &quot;Pensé que sonaba gorda&quot;.</span><br/><span style="style1">- &quot;Tomé 15 ginebras&quot;.</span></p>
+<p xml:id="subtitle469" begin="14611263334t" end="14626612001t" region="region0"><span style="style1">No recuerdo haberlo dicho.</span></p>
+<p xml:id="subtitle470" begin="14631950667t" end="14652971667t" region="region0"><span style="style1">Pero si lo dije…</span></p>
+<p xml:id="subtitle471" begin="14667653000t" end="14683001667t" region="region0"><span style="style1">hay estándares.</span></p>
+<p xml:id="subtitle472" begin="14690008667t" end="14702020667t" region="region0"><span style="style1">Pero no lo recuerdo.</span></p>
+<p xml:id="subtitle473" begin="14702688000t" end="14715033667t" region="region1"><span style="style1">Si lo dije,</span></p>
+<p xml:id="subtitle474" begin="14715701000t" end="14746398334t" region="region1"><span style="style1">podría haber ha sido una broma,</span><br/><span style="style1">pero no lo recuerdo.</span></p>
+<p xml:id="subtitle475" begin="14747065667t" end="14793111667t" region="region0"><span style="style1">Es imposible saber</span><br/><span style="style1">cómo se ve alguien por su voz.</span></p>
+<p xml:id="subtitle476" begin="14894880000t" end="14926578334t" region="region0"><span style="style1">- Buenas tardes.</span><br/><span style="style1">- ¡Hola! ¡Buenas tardes!</span></p>
+<p xml:id="subtitle477" begin="14927245667t" end="14937255667t" region="region0"><span style="style1">¡Ariela!</span></p>
+<p xml:id="subtitle478" begin="14948934000t" end="14968620334t" region="region1"><span style="style1">Quiero hablar con Ariela.</span></p>
+<p xml:id="subtitle479" begin="14969287667t" end="15007659334t" region="region1"><span style="style1">Me gustó su vibra,</span><br/><span style="style1">su energía, su personalidad.</span></p>
+<p xml:id="subtitle480" begin="15008326667t" end="15037355667t" region="region0"><span style="style1">¿Cómo te describirías en una palabra?</span></p>
+<p xml:id="subtitle481" begin="15052370667t" end="15072390667t" region="region0"><span style="style1">Vaya. Alguien que no se rinde.</span></p>
+<p xml:id="subtitle482" begin="15073058000t" end="15095080000t" region="region0"><span style="style1">No sé la palabra específica para eso.</span></p>
+<p xml:id="subtitle483" begin="15095747334t" end="15130448667t" region="region0"><span style="style1">Podrían caer rocas, ladrillos,</span><br/><span style="style1">podría llover cuchillos,</span></p>
+<p xml:id="subtitle484" begin="15131116000t" end="15149467667t" region="region0"><span style="style1">pero ahí estaré, no me rindo.</span></p>
+<p xml:id="subtitle485" begin="15150135001t" end="15179164000t" region="region0"><span style="style1">Creo que cuando tienes</span><br/><span style="style1">una gran carga que llevar,</span></p>
+<p xml:id="subtitle486" begin="15179831334t" end="15201519667t" region="region0"><span style="style1">significa que eres un gran guerrero.</span></p>
+<p xml:id="subtitle487" begin="15202187000t" end="15235887334t" region="region0"><span style="style1">Todas las cargas que he llevado</span><br/><span style="style1">me hicieron ser quien soy.</span></p>
+<p xml:id="subtitle488" begin="15236554667t" end="15250902334t" region="region0"><span style="style1">Tu palabra es guerrero.</span></p>
+<p xml:id="subtitle489" begin="15251569667t" end="15270588667t" region="region0"><span style="style1">¡Guerrero! Esa es.</span></p>
+<p xml:id="subtitle490" begin="15271256000t" end="15290608667t" region="region0"><span style="style1">Yo digo que soy un tipo fuerte,</span></p>
+<p xml:id="subtitle491" begin="15291276000t" end="15316301000t" region="region0"><span style="style1">pero hay momentos</span><br/><span style="style1">en que también soy débil.</span></p>
+<p xml:id="subtitle492" begin="15316968334t" end="15346664667t" region="region0"><span style="style1">En esos momentos, busco a mi mamá.</span></p>
+<p xml:id="subtitle493" begin="15358009334t" end="15395380001t" region="region0"><span style="style1">Como hombre, mis cuatro influencias</span><br/><span style="style1">más grandes son mujeres.</span></p>
+<p xml:id="subtitle494" begin="15396047334t" end="15422073334t" region="region0"><span style="style1">Me criaron mi bisabuela y mi mamá,</span></p>
+<p xml:id="subtitle495" begin="15422740667t" end="15434419000t" region="region0"><span style="style1">y tengo dos hijas.</span></p>
+<p xml:id="subtitle496" begin="15435086334t" end="15462113334t" region="region0"><span style="style1">Evandro es una persona increíble.</span></p>
+<p xml:id="subtitle497" begin="15462780667t" end="15472457000t" region="region0"><span style="style1">Es muy familiar.</span></p>
+<p xml:id="subtitle498" begin="15473124334t" end="15504155334t" region="region0"><span style="style1">Habla mucho sobre las mujeres de su vida.</span></p>
+<p xml:id="subtitle499" begin="15504822667t" end="15538856667t" region="region1"><span style="style1">Esto me emociona un poco.</span></p>
+<p xml:id="subtitle500" begin="15539524000t" end="15557875667t" region="region0"><span style="style1">¿Y tú? ¿Qué palabra te define?</span></p>
+<p xml:id="subtitle501" begin="15562880667t" end="15583234334t" region="region0"><span style="style1">Energética. Como energía.</span></p>
+<p xml:id="subtitle502" begin="15583901667t" end="15594912667t" region="region0"><span style="style1">Qué interesante.</span></p>
+<p xml:id="subtitle503" begin="15595580001t" end="15629947667t" region="region0"><span style="style1">Me gusta la energía,</span><br/><span style="style1">y te defines como energía.</span></p>
+<p xml:id="subtitle504" begin="15630615000t" end="15638956667t" region="region0"><span style="style1">Así es.</span></p>
+<p xml:id="subtitle505" begin="15639624000t" end="15677328334t" region="region0"><span style="style1">Nuestras energías se encontraron.</span><br/><span style="style1">Es interesante, es genial.</span></p>
+<p xml:id="subtitle506" begin="15677995667t" end="15708359334t" region="region0"><span style="style1">- Dijiste que te gusta bailar.</span><br/><span style="style1">- Me gusta bailar.</span></p>
+<p xml:id="subtitle507" begin="15709026667t" end="15734719001t" region="region0"><span style="style1">Bailo reguetón, bailo funk,</span></p>
+<p xml:id="subtitle508" begin="15735386334t" end="15746731000t" region="region0"><span style="style1">bailo todo.</span></p>
+<p xml:id="subtitle509" begin="15747398334t" end="15760745000t" region="region0"><span style="style1">Me encanta el reguetón.</span></p>
+<p xml:id="subtitle510" begin="15761412334t" end="15775092667t" region="region0"><span style="style1">¿Te gusta el reggaetón?</span></p>
+<p xml:id="subtitle511" begin="15775760001t" end="15804121667t" region="region0"><span style="style1">Rayos, mi corazón está débil.</span><br/><span style="style1">No hagas eso.</span></p>
+<p xml:id="subtitle512" begin="15804789000t" end="15823808000t" region="region0"><span style="style1">Entonces, si me eliges…</span></p>
+<p xml:id="subtitle513" begin="15835152667t" end="15844161667t" region="region0"><span style="style1">Es broma.</span></p>
+<p xml:id="subtitle514" begin="15844829000t" end="15860511334t" region="region0"><span style="style1">Podemos practicar juntos.</span></p>
+<p xml:id="subtitle515" begin="15881866001t" end="15908559334t" region="region0"><span style="style1">La conexión con Ariela creció hoy.</span></p>
+<p xml:id="subtitle516" begin="15909226667t" end="15920237667t" region="region0"><span style="style1">Me sorprendió.</span></p>
+<p xml:id="subtitle517" begin="15920905001t" end="15945930000t" region="region0"><span style="style1">Bueno, ese es el punto, ser sorprendido.</span></p>
+<p xml:id="subtitle518" begin="15946597334t" end="15968953000t" region="region0"><span style="style1">¡Dios mío! ¡Te extrañaré!</span></p>
+<p xml:id="subtitle519" begin="15969620334t" end="16011996000t" region="region0"><span style="style1">Claro que quiero casarme con alguien</span><br/><span style="style1">que sea valiente, que sea guerrero.</span></p>
+<p xml:id="subtitle520" begin="16044361667t" end="16095746334t" region="region1"><span style="style1">TERCER DÍA DEL EXPERIMENTO</span></p>
+<p xml:id="subtitle521" begin="16149466667t" end="16167818334t" region="region0"><span style="style1">- ¡Bu!</span><br/><span style="style1">- ¿Quién es? ¿Evandro?</span></p>
+<p xml:id="subtitle522" begin="16168485667t" end="16196513667t" region="region0"><span style="style1">- No es Evandro.</span><br/><span style="style1">- ¿Para nada? ¿No es él?</span></p>
+<p xml:id="subtitle523" begin="16197181000t" end="16217201001t" region="region0"><span style="style1">No, soy yo. Regresé.</span></p>
+<p xml:id="subtitle524" begin="16217868334t" end="16231882334t" region="region0"><span style="style1">¡Qué desgraciado!</span></p>
+<p xml:id="subtitle525" begin="16241892334t" end="16273590667t" region="region0"><span style="style1">Ayer estaba muy animada, y hoy estoy más…</span></p>
+<p xml:id="subtitle526" begin="16274258001t" end="16292609667t" region="region0"><span style="style1">Estoy aquí para animarte.</span></p>
+<p xml:id="subtitle527" begin="16293277000t" end="16309960334t" region="region0"><span style="style1">¿Quieres que vaya para allá?</span></p>
+<p xml:id="subtitle528" begin="16316967334t" end="16334985334t" region="region0"><span style="style1">Tocaré las paredes.</span></p>
+<p xml:id="subtitle529" begin="16335652667t" end="16354671667t" region="region0"><span style="style1">¡Dije que abrazaría la pantalla hoy!</span></p>
+<p xml:id="subtitle530" begin="16375692667t" end="16395712667t" region="region0"><span style="style1">Me hizo sentir muchas mariposas.</span></p>
+<p xml:id="subtitle531" begin="16401385001t" end="16428745667t" region="region0"><span style="style1">Sentí muchas cosas cuando hablé con él.</span></p>
+<p xml:id="subtitle532" begin="16429413000t" end="16450767667t" region="region0"><span style="style1">¿Cómo es la relación con tus padres?</span></p>
+<p xml:id="subtitle533" begin="16451435000t" end="16477461000t" region="region0"><span style="style1">Estoy viviendo con mis padres.</span></p>
+<p xml:id="subtitle534" begin="16478128334t" end="16510827667t" region="region0"><span style="style1">Mis padres están casados</span><br/><span style="style1">desde hace más de 30 años.</span></p>
+<p xml:id="subtitle535" begin="16511495001t" end="16549866667t" region="region0"><span style="style1">Mi padre es increíble. Es abierto, habla.</span></p>
+<p xml:id="subtitle536" begin="16550534001t" end="16576560000t" region="region0"><span style="style1">Cuando conozca a mi suegro, ¿se asustará?</span></p>
+<p xml:id="subtitle537" begin="16596913667t" end="16638288334t" region="region0"><span style="style1">Creo que mi familia</span><br/><span style="style1">puede tener muchas opiniones</span></p>
+<p xml:id="subtitle538" begin="16638955667t" end="16679663000t" region="region0"><span style="style1">de lo que quieren para mí,</span><br/><span style="style1">para mi futuro, para mi vida,</span></p>
+<p xml:id="subtitle539" begin="16680330334t" end="16710026667t" region="region0"><span style="style1">pero yo soy la que toma esta decisión.</span></p>
+<p xml:id="subtitle540" begin="16710694000t" end="16732048667t" region="region0"><span style="style1">Yo y la persona con la que estoy.</span></p>
+<p xml:id="subtitle541" begin="16737721000t" end="16763413334t" region="region0"><span style="style1">¿Te quedas con tus hijas cada 15 días o…?</span></p>
+<p xml:id="subtitle542" begin="16764080667t" end="16782766000t" region="region0"><span style="style1">- Sí.</span><br/><span style="style1">- ¿Tienen la misma madre?</span></p>
+<p xml:id="subtitle543" begin="16783433334t" end="16793443334t" region="region0"><span style="style1">Sí, estuvimos casados.</span></p>
+<p xml:id="subtitle544" begin="16794110667t" end="16817467334t" region="region0"><span style="style1">¿Cómo es tu relación con ella?</span></p>
+<p xml:id="subtitle545" begin="16818134667t" end="16836486334t" region="region0"><span style="style1">- ¿Con ellas y con ella?</span><br/><span style="style1">- Hoy en día…</span></p>
+<p xml:id="subtitle546" begin="16837153667t" end="16867183667t" region="region0"><span style="style1">Hoy, todos lo hacemos</span><br/><span style="style1">lo que hay que hacer. ¿Sabes?</span></p>
+<p xml:id="subtitle547" begin="16867851000t" end="16882532334t" region="region0"><span style="style1">Todo lo que dice la ley.</span></p>
+<p xml:id="subtitle548" begin="16883199667t" end="16910894000t" region="region0"><span style="style1">No hablamos mucho.</span><br/><span style="style1">Hacemos lo que hay que hacer.</span></p>
+<p xml:id="subtitle549" begin="16911561334t" end="16940924001t" region="region0"><span style="style1">Los tiempos también están establecidos.</span><br/><span style="style1">No hablamos mucho.</span></p>
+<p xml:id="subtitle550" begin="16941591334t" end="16971955000t" region="region0"><span style="style1">Estuve casada siete años, más o menos.</span></p>
+<p xml:id="subtitle551" begin="16972622334t" end="17001985000t" region="region0"><span style="style1">Creo que es importante</span><br/><span style="style1">que puedas hablar bien con ella.</span></p>
+<p xml:id="subtitle552" begin="17002652334t" end="17022672334t" region="region0"><span style="style1">Soy madre y sé cómo es.</span></p>
+<p xml:id="subtitle553" begin="17023339667t" end="17063713334t" region="region0"><span style="style1">Nunca me opondría</span><br/><span style="style1">a que tengas una relación con ella.</span></p>
+<p xml:id="subtitle554" begin="17064380667t" end="17085068000t" region="region0"><span style="style1">- Debería haber un vínculo, ¿no?</span><br/><span style="style1">- Sí.</span></p>
+<p xml:id="subtitle555" begin="17085735334t" end="17110093000t" region="region0"><span style="style1">Fue muy difícil apenas nos divorciamos.</span></p>
+<p xml:id="subtitle556" begin="17110760334t" end="17140123000t" region="region0"><span style="style1">No nos entendíamos,</span><br/><span style="style1">y eso fue bastante difícil.</span></p>
+<p xml:id="subtitle557" begin="17140790334t" end="17163146000t" region="region0"><span style="style1">Ahora nos estamos adaptando y es mejor.</span></p>
+<p xml:id="subtitle558" begin="17163813334t" end="17188838334t" region="region0"><span style="style1">¿Qué es lo más importante en una relación?</span></p>
+<p xml:id="subtitle559" begin="17189505667t" end="17224207000t" region="region0"><span style="style1">¿Crees que es el aspecto financiero,</span><br/><span style="style1">el compañerismo,</span></p>
+<p xml:id="subtitle560" begin="17224874334t" end="17255571667t" region="region0"><span style="style1">o crees que es algo más?</span></p>
+<p xml:id="subtitle561" begin="17261244000t" end="17292275000t" region="region0"><span style="style1">Creo que construimos juntos</span><br/><span style="style1">el aspecto financiero.</span></p>
+<p xml:id="subtitle562" begin="17292942334t" end="17304954334t" region="region0"><span style="style1">De acuerdo.</span></p>
+<p xml:id="subtitle563" begin="17305621667t" end="17336652667t" region="region0"><span style="style1">O nos va mal juntos</span><br/><span style="style1">o tenemos éxito juntos.</span></p>
+<p xml:id="subtitle564" begin="17337320000t" end="17358007334t" region="region0"><span style="style1">Exacto. Esto es bueno.</span></p>
+<p xml:id="subtitle565" begin="17358674667t" end="17368017334t" region="region0"><span style="style1">Lo sé.</span></p>
+<p xml:id="subtitle566" begin="17368684667t" end="17384033334t" region="region0"><span style="style1">- ¿Lo sabes?</span><br/><span style="style1">- Sí.</span></p>
+<p xml:id="subtitle567" begin="17384700667t" end="17393376000t" region="region0"><span style="style1">Perfecto.</span></p>
+<p xml:id="subtitle568" begin="17394043334t" end="17411060334t" region="region0"><span style="style1">Es un tipo increíble.</span></p>
+<p xml:id="subtitle569" begin="17411727667t" end="17451767667t" region="region0"><span style="style1">Es muy tranquilo, muy amigable, alegre.</span></p>
+<p xml:id="subtitle570" begin="17452435000t" end="17473789667t" region="region0"><span style="style1">¿Cómo es una cita ideal para ti?</span></p>
+<p xml:id="subtitle571" begin="17474457000t" end="17504487000t" region="region0"><span style="style1">Un restaurante bonito</span><br/><span style="style1">con un ambiente agradable.</span></p>
+<p xml:id="subtitle572" begin="17505154334t" end="17528177334t" region="region0"><span style="style1">Muchas risas, intercambio de energía.</span></p>
+<p xml:id="subtitle573" begin="17528844667t" end="17547196334t" region="region0"><span style="style1">Ser sorprendido constantemente.</span></p>
+<p xml:id="subtitle574" begin="17547863667t" end="17579895667t" region="region0"><span style="style1">Y al final de la noche, un beso muy lindo.</span></p>
+<p xml:id="subtitle575" begin="17593242334t" end="17610926667t" region="region0"><span style="style1">- Maldición.</span><br/><span style="style1">- Me gusta.</span></p>
+<p xml:id="subtitle576" begin="17617600000t" end="17647963667t" region="region0"><span style="style1">El deseo de besarla aumenta cada minuto.</span></p>
+<p xml:id="subtitle577" begin="17648631000t" end="17673656000t" region="region0"><span style="style1">Me invade la necesidad</span><br/><span style="style1">de abrazarla para olerla.</span></p>
+<p xml:id="subtitle578" begin="17674323334t" end="17691340334t" region="region0"><span style="style1">Sí, tengo ganas de besarte.</span></p>
+<p xml:id="subtitle579" begin="17716365334t" end="17725040667t" region="region0"><span style="style1">Santo Dios.</span></p>
+<p xml:id="subtitle580" begin="17725708000t" end="17761076667t" region="region0"><span style="style1">Tiene una forma de hablar.</span></p>
+<p xml:id="subtitle581" begin="17761744000t" end="17790439334t" region="region0"><span style="style1">Dice algo serio y luego algo gracioso.</span></p>
+<p xml:id="subtitle582" begin="17791106667t" end="17814463334t" region="region0"><span style="style1">Me llega al corazón, de verdad.</span></p>
+<p xml:id="subtitle583" begin="17851166667t" end="17868851000t" region="region1"><span style="style1">Vamos muy profundo.</span></p>
+<p xml:id="subtitle584" begin="17869518334t" end="17894543334t" region="region1"><span style="style1">- ¿Con quién hablaste?</span><br/><span style="style1">- Hablé con Ariela.</span></p>
+<p xml:id="subtitle585" begin="17895210667t" end="17904219667t" region="region1"><span style="style1">¿Cómo te fue?</span></p>
+<p xml:id="subtitle586" begin="17904887000t" end="17930579334t" region="region0"><span style="style1">Es genial. Tuvimos una conexión muy linda.</span></p>
+<p xml:id="subtitle587" begin="17931246667t" end="17943258667t" region="region0"><span style="style1">¿Una buena conexión?</span></p>
+<p xml:id="subtitle588" begin="17943926000t" end="17962611334t" region="region0"><span style="style1">Sí. No lo esperaba, como…</span></p>
+<p xml:id="subtitle589" begin="17963278667t" end="17974623334t" region="region0"><span style="style1">Me dejo llevar.</span></p>
+<p xml:id="subtitle590" begin="17975290667t" end="17998647334t" region="region0"><span style="style1">Le dije que era mi favorita.</span><br/><span style="style1">Haré que funcione.</span></p>
+<p xml:id="subtitle591" begin="17999314667t" end="18015998000t" region="region0"><span style="style1">Imagíname en Inglaterra.</span></p>
+<p xml:id="subtitle592" begin="18016665334t" end="18035350667t" region="region0"><span style="style1">- Hombre…</span><br/><span style="style1">- En Londres.</span></p>
+<p xml:id="subtitle593" begin="18040355667t" end="18072054000t" region="region0"><span style="style1">Mi inglés está bien,</span><br/><span style="style1">pero esto lo pulirá un poco más.</span></p>
+<p xml:id="subtitle594" begin="18255237000t" end="18263578667t" region="region0"><span style="style1">Hola.</span></p>
+<p xml:id="subtitle595" begin="18264246000t" end="18289938334t" region="region0"><span style="style1">- ¿Cómo estás?</span><br/><span style="style1">- Bien, ¿y tú?</span></p>
+<p xml:id="subtitle596" begin="18290605667t" end="18302617667t" region="region0"><span style="style1">¿Dormiste bien?</span></p>
+<p xml:id="subtitle597" begin="18303285000t" end="18327976334t" region="region0"><span style="style1">Me desperté varias veces anoche.</span></p>
+<p xml:id="subtitle598" begin="18328643667t" end="18337319000t" region="region0"><span style="style1">¿De verdad?</span></p>
+<p xml:id="subtitle599" begin="18350665667t" end="18375357000t" region="region0"><span style="style1">- Yo estuve un poco aprensivo.</span><br/><span style="style1">- ¿Por qué?</span></p>
+<p xml:id="subtitle600" begin="18376024334t" end="18388370000t" region="region0"><span style="style1">Varias cosas.</span></p>
+<p xml:id="subtitle601" begin="18396711667t" end="18428076334t" region="region0"><span style="style1">Todo lo que digo viene del corazón.</span></p>
+<p xml:id="subtitle602" begin="18434082334t" end="18459774667t" region="region0"><span style="style1">Así es como me siento. ¿Sabes?</span></p>
+<p xml:id="subtitle603" begin="18466448000t" end="18496811667t" region="region0"><span style="style1">Debo ser franco y preguntarte algo,</span><br/><span style="style1">si no, no sería yo mismo.</span></p>
+<p xml:id="subtitle604" begin="18497479000t" end="18519834667t" region="region0"><span style="style1">- Adelante.</span><br/><span style="style1">- Te haré una pregunta.</span></p>
+<p xml:id="subtitle605" begin="18520502000t" end="18549197334t" region="region0"><span style="style1">Socialmente, ¿tienes algún problema?</span></p>
+<p xml:id="subtitle606" begin="18549864667t" end="18568216334t" region="region0"><span style="style1">¿Ricos, pobres, cosas así?</span></p>
+<p xml:id="subtitle607" begin="18613595000t" end="18634282334t" region="region0"><span style="style1">Perdón.</span></p>
+<p xml:id="subtitle608" begin="18634949667t" end="18652967667t" region="region0"><span style="style1">¡No, yo también soy pobre!</span></p>
+<p xml:id="subtitle609" begin="18653635000t" end="18669651000t" region="region0"><span style="style1">Entonces, está bien.</span></p>
+<p xml:id="subtitle610" begin="18670318334t" end="18707355334t" region="region0"><span style="style1">Vengo de una familia humilde.</span><br/><span style="style1">No te preocupes por esto.</span></p>
+<p xml:id="subtitle611" begin="18708022667t" end="18733047667t" region="region0"><span style="style1">- Estaba preocupado.</span><br/><span style="style1">- Creí que era…</span></p>
+<p xml:id="subtitle612" begin="18733715000t" end="18760742000t" region="region0"><span style="style1">Lo siento. Eso fue un poco estúpido.</span></p>
+<p xml:id="subtitle613" begin="18761409334t" end="18783097667t" region="region0"><span style="style1">¡No! Para nada, no te preocupes.</span></p>
+<p xml:id="subtitle614" begin="18783765000t" end="18827809000t" region="region0"><span style="style1">Incluso si fuera de clase alta,</span><br/><span style="style1">no sería un problema, de ninguna manera.</span></p>
+<p xml:id="subtitle615" begin="18828476334t" end="18845827000t" region="region0"><span style="style1">Te contaré qué me pasó.</span></p>
+<p xml:id="subtitle616" begin="18846494334t" end="18865179667t" region="region0"><span style="style1">Tenía una vida muy buena,</span></p>
+<p xml:id="subtitle617" begin="18865847000t" end="18898546334t" region="region0"><span style="style1">pero perdí todo</span><br/><span style="style1">en el lapso de cuatro meses.</span></p>
+<p xml:id="subtitle618" begin="18916230667t" end="18949263667t" region="region0"><span style="style1">Había perdido a mi padre</span><br/><span style="style1">por consumo de alcohol y drogas,</span></p>
+<p xml:id="subtitle619" begin="18949931000t" end="18960274667t" region="region0"><span style="style1">cosas así.</span></p>
+<p xml:id="subtitle620" begin="18966948000t" end="18987969000t" region="region0"><span style="style1">Perdí mi relación,</span></p>
+<p xml:id="subtitle621" begin="18988636334t" end="19008990000t" region="region0"><span style="style1">perdí a mi mamá, perdí mi trabajo,</span></p>
+<p xml:id="subtitle622" begin="19009657334t" end="19029677334t" region="region0"><span style="style1">perdí mi auto, perdí todo.</span></p>
+<p xml:id="subtitle623" begin="19036684334t" end="19085066000t" region="region1"><span style="style1">En 2022, nos enteramos</span><br/><span style="style1">de que mi mamá tenía cáncer de páncreas.</span></p>
+<p xml:id="subtitle624" begin="19085733334t" end="19113761334t" region="region1"><span style="style1">Me quedé con ella</span><br/><span style="style1">en el hospital durante días.</span></p>
+<p xml:id="subtitle625" begin="19114428667t" end="19136117000t" region="region0"><span style="style1">Mi relación no iba muy bien.</span></p>
+<p xml:id="subtitle626" begin="19141455667t" end="19174155000t" region="region0"><span style="style1">Perdí mi trabajo, mi mamá murió.</span></p>
+<p xml:id="subtitle627" begin="19174822334t" end="19186834334t" region="region0"><span style="style1">Me hizo pedazos.</span></p>
+<p xml:id="subtitle628" begin="19194175000t" end="19213194000t" region="region0"><span style="style1">Yo estaba muy mal.</span></p>
+<p xml:id="subtitle629" begin="19213861334t" end="19231879334t" region="region0"><span style="style1">Estuve deprimido.</span></p>
+<p xml:id="subtitle630" begin="19232546667t" end="19252900334t" region="region0"><span style="style1">Cielos, estoy por llorar.</span></p>
+<p xml:id="subtitle631" begin="19277258000t" end="19315629667t" region="region0"><span style="style1">Mi corazón está cerrado</span><br/><span style="style1">y siento una mezcla de sentimientos.</span></p>
+<p xml:id="subtitle632" begin="19316297000t" end="19344325000t" region="region0"><span style="style1">Tengo miedo, pero no sé de qué.</span></p>
+<p xml:id="subtitle633" begin="19344992334t" end="19359673667t" region="region0"><span style="style1">Algo me bloquea.</span></p>
+<p xml:id="subtitle634" begin="19360341000t" end="19394041334t" region="region0"><span style="style1">Hoy me siento muy pequeño.</span><br/><span style="style1">Estoy deprimido.</span></p>
+<p xml:id="subtitle635" begin="19407721667t" end="19426740667t" region="region0"><span style="style1">Esto es horrible, es una mierda.</span></p>
+<p xml:id="subtitle636" begin="19433080334t" end="19465446000t" region="region1"><span style="style1">Me dijo algo que podría haberse guardado</span><br/><span style="style1">para decirme luego,</span></p>
+<p xml:id="subtitle637" begin="19466113334t" end="19481128334t" region="region1"><span style="style1">pero me lo dijo ahora.</span></p>
+<p xml:id="subtitle638" begin="19481795667t" end="19525839667t" region="region0"><span style="style1">Es como una cebolla,</span><br/><span style="style1">nos seguimos quitando las capas.</span></p>
+<p xml:id="subtitle639" begin="19526507000t" end="19564545000t" region="region0"><span style="style1">Se está abriendo,</span><br/><span style="style1">y eso es genial porque confía en mí.</span></p>
+<p xml:id="subtitle640" begin="19578559000t" end="19614595000t" region="region0"><span style="style1">- Hablaste de tu padre.</span><br/><span style="style1">- Siéntete libre de hablar de eso.</span></p>
+<p xml:id="subtitle641" begin="19615262334t" end="19646960667t" region="region0"><span style="style1">Si te sientes cómodo</span><br/><span style="style1">contando esa historia…</span></p>
+<p xml:id="subtitle642" begin="19647628000t" end="19689002667t" region="region0"><span style="style1">Hace años, mi padre empezó a beber mucho.</span></p>
+<p xml:id="subtitle643" begin="19689670000t" end="19703350334t" region="region0"><span style="style1">Y empezó a consumir drogas.</span></p>
+<p xml:id="subtitle644" begin="19704017667t" end="19733380334t" region="region0"><span style="style1">Entonces, le dije:</span><br/><span style="style1">&quot;Papá, debes ir a Campinas.</span></p>
+<p xml:id="subtitle645" begin="19734047667t" end="19750397334t" region="region0"><span style="style1">Debes vivir con tus padres&quot;.</span></p>
+<p xml:id="subtitle646" begin="19751064667t" end="19792105667t" region="region0"><span style="style1">Mis abuelos culparon a mi madre.</span></p>
+<p xml:id="subtitle647" begin="19792773000t" end="19823804000t" region="region0"><span style="style1">No podía aceptarlo, y me empecé a enojar,</span></p>
+<p xml:id="subtitle648" begin="19824471334t" end="19839486334t" region="region0"><span style="style1">y discutí mucho.</span></p>
+<p xml:id="subtitle649" begin="19840153667t" end="19878525334t" region="region0"><span style="style1">Ellos me atacaban,</span><br/><span style="style1">y mi papá no decía nada, no me defendía.</span></p>
+<p xml:id="subtitle650" begin="19879192667t" end="19899880000t" region="region0"><span style="style1">Llamaba a la casa de mi abuela</span></p>
+<p xml:id="subtitle651" begin="19911892000t" end="19940921000t" region="region0"><span style="style1">y no querían que hablara con mi padre.</span></p>
+<p xml:id="subtitle652" begin="19941588334t" end="19968949000t" region="region0"><span style="style1">¿Ya no hablas con tu padre ahora?</span></p>
+<p xml:id="subtitle653" begin="19969616334t" end="19992639334t" region="region0"><span style="style1">No lo he visto</span><br/><span style="style1">ni hablé con él en cinco años.</span></p>
+<p xml:id="subtitle654" begin="19993306667t" end="20014995000t" region="region0"><span style="style1">- Cielos.</span><br/><span style="style1">- No conoce a mi hija.</span></p>
+<p xml:id="subtitle655" begin="20021001000t" end="20029342667t" region="region0"><span style="style1">Vaya.</span></p>
+<p xml:id="subtitle656" begin="20072385667t" end="20110090000t" region="region0"><span style="style1">Ni siquiera vi a mi padre</span><br/><span style="style1">en el funeral de mi madre.</span></p>
+<p xml:id="subtitle657" begin="20132445667t" end="20145792334t" region="region0"><span style="style1">Es como…</span></p>
+<p xml:id="subtitle658" begin="20174821334t" end="20197177000t" region="region0"><span style="style1">Busqué a mi familia y no había nadie.</span></p>
+<p xml:id="subtitle659" begin="20242222000t" end="20272585667t" region="region0"><span style="style1">No tenía un solo sostén. No tenía nada.</span></p>
+<p xml:id="subtitle660" begin="20277924334t" end="20294941334t" region="region0"><span style="style1">Fue muy difícil.</span></p>
+<p xml:id="subtitle661" begin="20405051334t" end="20421734667t" region="region0"><span style="style1">Ya no estás solo.</span></p>
+<p xml:id="subtitle662" begin="20422402000t" end="20439752667t" region="region0"><span style="style1">Exacto.</span></p>
+<p xml:id="subtitle663" begin="20440420000t" end="20471451000t" region="region0"><span style="style1">Mi familia será tu familia, estoy seguro.</span></p>
+<p xml:id="subtitle664" begin="20534847667t" end="20563543000t" region="region0"><span style="style1">- ¿Ya somos novios?</span><br/><span style="style1">- Creo que podríamos decir que sí.</span></p>
+<p xml:id="subtitle665" begin="20564210334t" end="20587900667t" region="region0"><span style="style1">- Somos novios.</span><br/><span style="style1">- ¡Santo cielo!</span></p>
+<p xml:id="subtitle666" begin="20601914667t" end="20627940667t" region="region0"><span style="style1">Estoy enamorada. Me siento mareada.</span></p>
+<p xml:id="subtitle667" begin="20628608000t" end="20646292334t" region="region0"><span style="style1">Estoy por volver a llorar.</span></p>
+<p xml:id="subtitle668" begin="20671317334t" end="20698010667t" region="region0"><span style="style1">Te traigo algo muy especial.</span></p>
+<p xml:id="subtitle669" begin="20698678000t" end="20733713000t" region="region0"><span style="style1">y ya sé lo que voy a hacer.</span></p>
+<p xml:id="subtitle670" begin="20764076667t" end="20782428334t" region="region0"><span style="style1">¡Encontré a mi alma gemela!</span></p>
+<p xml:id="subtitle671" begin="20838484334t" end="20887867000t" region="region1"><span style="style1">CUARTO DÍA DEL EXPERIMENTO</span></p>
+<p xml:id="subtitle672" begin="20908554334t" end="20939919000t" region="region0"><span style="style1">No veo la hora</span><br/><span style="style1">de volver a hablar con Evandro.</span></p>
+<p xml:id="subtitle673" begin="20940586334t" end="20975955001t" region="region1"><span style="style1">Quiero que nuestras conversaciones</span><br/><span style="style1">sean más profundas.</span></p>
+<p xml:id="subtitle674" begin="20976622334t" end="20993973000t" region="region0"><span style="style1">Me preocupa una cosa.</span></p>
+<p xml:id="subtitle675" begin="20994640334t" end="21024336667t" region="region0"><span style="style1">- ¿Qué pasa? Dime.</span><br/><span style="style1">- Mi vida diaria no es fácil.</span></p>
+<p xml:id="subtitle676" begin="21025004001t" end="21055034000t" region="region0"><span style="style1">Mi familia tampoco es fácil de tratar.</span></p>
+<p xml:id="subtitle677" begin="21055701334t" end="21086398667t" region="region0"><span style="style1">Las mujeres de mi familia,</span><br/><span style="style1">mi abuela y mi madre,</span></p>
+<p xml:id="subtitle678" begin="21087066000t" end="21114760334t" region="region0"><span style="style1">son gente muy tensa.</span></p>
+<p xml:id="subtitle679" begin="21115427667t" end="21139118001t" region="region0"><span style="style1">Mi abuela tiene 93 años.</span></p>
+<p xml:id="subtitle680" begin="21139785334t" end="21161473667t" region="region0"><span style="style1">Cualquier cosa puede escandalizarla.</span></p>
+<p xml:id="subtitle681" begin="21162141000t" end="21196842334t" region="region0"><span style="style1">No le dije que vendría aquí.</span></p>
+<p xml:id="subtitle682" begin="21206518667t" end="21256568667t" region="region0"><span style="style1">Me preguntaba</span><br/><span style="style1">si estás preparado para lidiar con esto.</span></p>
+<p xml:id="subtitle683" begin="21281593667t" end="21323635667t" region="region0"><span style="style1">Algunas cosas que hacemos</span><br/><span style="style1">por la otra persona son válidas</span></p>
+<p xml:id="subtitle684" begin="21324303000t" end="21353999334t" region="region0"><span style="style1">cuando hay una conexión y es recíproca.</span></p>
+<p xml:id="subtitle685" begin="21354666667t" end="21398043334t" region="region0"><span style="style1">Por supuesto, quiero que mi familia</span><br/><span style="style1">esté feliz y tranquila.</span></p>
+<p xml:id="subtitle686" begin="21405717667t" end="21456101334t" region="region0"><span style="style1">Pero yo soy quien pasará la vida con él,</span><br/><span style="style1">yo debo tomar esta decisión.</span></p>
+<p xml:id="subtitle687" begin="21503148334t" end="21537849667t" region="region0"><span style="style1">Te has apoderado de mis pensamientos.</span></p>
+<p xml:id="subtitle688" begin="21538517000t" end="21574886667t" region="region0"><span style="style1">Lo siento, estoy un poco sensible.</span></p>
+<p xml:id="subtitle689" begin="21582561000t" end="21610922667t" region="region0"><span style="style1">¿En serio? Yo también estoy sensible.</span></p>
+<p xml:id="subtitle690" begin="21611590000t" end="21643288334t" region="region0"><span style="style1">Seré honesta.</span><br/><span style="style1">Cuando me fui, salí llorando un poco.</span></p>
+<p xml:id="subtitle691" begin="21643955667t" end="21677989667t" region="region0"><span style="style1">- Sentí una energía…</span><br/><span style="style1">- Me haces llorar.</span></p>
+<p xml:id="subtitle692" begin="21678657000t" end="21707018667t" region="region0"><span style="style1">- Yo también la sentí.</span><br/><span style="style1">- Sentí una conexión diferente.</span></p>
+<p xml:id="subtitle693" begin="21707686001t" end="21721366334t" region="region0"><span style="style1">Soy muy sentimental.</span></p>
+<p xml:id="subtitle694" begin="21722033667t" end="21747058667t" region="region0"><span style="style1">Y me conecté mucho con él</span></p>
+<p xml:id="subtitle695" begin="21747726000t" end="21780425334t" region="region0"><span style="style1">porque se abrió conmigo,</span><br/><span style="style1">porque fue él mismo.</span></p>
+<p xml:id="subtitle696" begin="21781092667t" end="21807786000t" region="region0"><span style="style1">¡Dios mío! Tenemos mucho en común.</span></p>
+<p xml:id="subtitle697" begin="21815126667t" end="21838483334t" region="region0"><span style="style1">Rayos, estoy llorando.</span><br/><span style="style1">No quería hacerlo, pero…</span></p>
+<p xml:id="subtitle698" begin="21839150667t" end="21858503334t" region="region0"><span style="style1">Llora. Está bien.</span></p>
+<p xml:id="subtitle699" begin="21859170667t" end="21892537334t" region="region0"><span style="style1">Yo también me emociono</span><br/><span style="style1">porque he pasado por muchas cosas,</span></p>
+<p xml:id="subtitle700" begin="21893204667t" end="21909888000t" region="region0"><span style="style1">muchas, muchas cosas.</span></p>
+<p xml:id="subtitle701" begin="21910555334t" end="21934579334t" region="region0"><span style="style1">Descubrí una traición.</span></p>
+<p xml:id="subtitle702" begin="21951262667t" end="21985964001t" region="region0"><span style="style1">Y yo me dejo guiar mucho por el corazón.</span></p>
+<p xml:id="subtitle703" begin="22012657334t" end="22053031000t" region="region0"><span style="style1">Todos tenemos que atravesar la oscuridad</span><br/><span style="style1">para ver la luz,</span></p>
+<p xml:id="subtitle704" begin="22053698334t" end="22072717334t" region="region0"><span style="style1">tener una llamada de atención.</span></p>
+<p xml:id="subtitle705" begin="22073384667t" end="22108753334t" region="region0"><span style="style1">Para llegar aquí,</span><br/><span style="style1">todos tuvimos que superar muchas barreras.</span></p>
+<p xml:id="subtitle706" begin="22109420667t" end="22127438667t" region="region0"><span style="style1">Yo superé muchas cosas.</span></p>
+<p xml:id="subtitle707" begin="22128106000t" end="22147458667t" region="region0"><span style="style1">Sí, yo también.</span></p>
+<p xml:id="subtitle708" begin="22148126000t" end="22176154000t" region="region0"><span style="style1">Estaba muy preocupada</span><br/><span style="style1">por cuestiones familiares,</span></p>
+<p xml:id="subtitle709" begin="22176821334t" end="22202847334t" region="region0"><span style="style1">pero estoy siguiendo mi corazón.</span></p>
+<p xml:id="subtitle710" begin="22221532667t" end="22250561667t" region="region0"><span style="style1">Es como si mi corazón dijera:</span><br/><span style="style1">&quot;Deja que pase&quot;.</span></p>
+<p xml:id="subtitle711" begin="22251229000t" end="22276921334t" region="region1"><span style="style1">Es genial que tengamos</span><br/><span style="style1">la experiencia y la madurez</span></p>
+<p xml:id="subtitle712" begin="22277588667t" end="22302947334t" region="region1"><span style="style1">para entender lo que sentimos por dentro.</span></p>
+<p xml:id="subtitle713" begin="22303614667t" end="22320631667t" region="region1"><span style="style1">Es hermoso sentir esto.</span></p>
+<p xml:id="subtitle714" begin="22321299001t" end="22350328000t" region="region0"><span style="style1">Creo que despertaste algo</span><br/><span style="style1">dentro de mí que estaba dormido.</span></p>
+<p xml:id="subtitle715" begin="22350995334t" end="22383361000t" region="region0"><span style="style1">Me estás haciendo ser alguien</span><br/><span style="style1">que realmente quería volver a ser.</span></p>
+<p xml:id="subtitle716" begin="22384028334t" end="22399377000t" region="region0"><span style="style1">Gracias, de verdad.</span></p>
+<p xml:id="subtitle717" begin="22400044334t" end="22422066334t" region="region0"><span style="style1">Sí, siento que estoy enamorada de él.</span></p>
+<p xml:id="subtitle718" begin="22422733667t" end="22453431000t" region="region0"><span style="style1">No hay nadie más</span><br/><span style="style1">con quien quiero hablar de mi vida,</span></p>
+<p xml:id="subtitle719" begin="22454098334t" end="22469113334t" region="region0"><span style="style1">de mi familia.</span></p>
+<p xml:id="subtitle720" begin="22469780667t" end="22495473000t" region="region0"><span style="style1">Solo quiero</span><br/><span style="style1">estas conversaciones profundas con él.</span></p>
+<p xml:id="subtitle721" begin="22507818667t" end="22520498000t" region="region0"><span style="style1">Y tengo muchas ganas…</span></p>
+<p xml:id="subtitle722" begin="22531175334t" end="22539850667t" region="region0"><span style="style1">de agarrarlo.</span></p>
+<p xml:id="subtitle723" begin="22572883667t" end="22588899667t" region="region0"><span style="style1">¡Vamos a casarnos!</span></p>
+<p xml:id="subtitle724" begin="22621265334t" end="22641285334t" region="region0"><span style="style1">- ¿Quién se casa?</span><br/><span style="style1">- ¿Quién se casa?</span></p>
+<p xml:id="subtitle725" begin="22660304334t" end="22679657000t" region="region0"><span style="style1">- Estoy enamorado.</span><br/><span style="style1">- ¿De Ariela?</span></p>
+<p xml:id="subtitle726" begin="22680324334t" end="22696674000t" region="region0"><span style="style1">- ¿Te fue bien?</span><br/><span style="style1">- Muy bien.</span></p>
+<p xml:id="subtitle727" begin="22697341334t" end="22718362334t" region="region0"><span style="style1">- Asombroso.</span><br/><span style="style1">- ¿De qué hablaron?</span></p>
+<p xml:id="subtitle728" begin="22719029667t" end="22757067667t" region="region1"><span style="style1">Me entregué y dije cosas</span><br/><span style="style1">que decía cuando tenía 15 años.</span></p>
+<p xml:id="subtitle729" begin="22757735000t" end="22773417334t" region="region1"><span style="style1">Es una locura.</span></p>
+<p xml:id="subtitle730" begin="22774084667t" end="22810788000t" region="region1"><span style="style1">- Él también lloró.</span><br/><span style="style1">- No me gustan los hombres sensibles.</span></p>
+<p xml:id="subtitle731" begin="22811455334t" end="22839483334t" region="region1"><span style="style1">Este es tu problema, ¿no?</span></p>
+<p xml:id="subtitle732" begin="22840150667t" end="22871181667t" region="region1"><span style="style1">No arruines su felicidad,</span><br/><span style="style1">por favor te lo pido.</span></p>
+<p xml:id="subtitle733" begin="22871849000t" end="22896206667t" region="region0"><span style="style1">Es genial que sea sensible como tú,</span><br/><span style="style1">bien hecho.</span></p>
+<p xml:id="subtitle734" begin="22896874000t" end="22913891001t" region="region0"><span style="style1">Él te ama, es lo que importa.</span></p>
+<p xml:id="subtitle735" begin="22914558334t" end="22926236667t" region="region0"><span style="style1">Hay uno para cada una.</span></p>
+<p xml:id="subtitle736" begin="22988966000t" end="22999643334t" region="region0"><span style="style1">¡Muy bien!</span></p>
+<p xml:id="subtitle737" begin="23012656334t" end="23033010000t" region="region0"><span style="style1">Pasaron cinco meses desde que me dejaron.</span></p>
+<p xml:id="subtitle738" begin="23033677334t" end="23055032000t" region="region1"><span style="style1">¿Pueden creerlo?</span></p>
+<p xml:id="subtitle739" begin="23061038001t" end="23090400667t" region="region1"><span style="style1">Mi ex me dejó para ir a vivir a otro país.</span></p>
+<p xml:id="subtitle740" begin="23099409667t" end="23126103000t" region="region0"><span style="style1">Pero estoy aquí firme y fuerte,</span></p>
+<p xml:id="subtitle741" begin="23126770334t" end="23151795334t" region="region0"><span style="style1">y nunca renunciaré a buscar un nuevo amor.</span></p>
+<p xml:id="subtitle742" begin="23199509667t" end="23228538667t" region="region0"><span style="style1">Me gusta mucho estar en una relación.</span></p>
+<p xml:id="subtitle743" begin="23236546667t" end="23261238001t" region="region0"><span style="style1">No soy una persona para una sola noche.</span></p>
+<p xml:id="subtitle744" begin="23267244000t" end="23309953334t" region="region0"><span style="style1">Me gustan las mujeres bajitas,</span><br/><span style="style1">molestas, malcriadas, peleonas.</span></p>
+<p xml:id="subtitle745" begin="23320297000t" end="23350994334t" region="region0"><span style="style1">Estas chicas tienen mucho que aprender.</span></p>
+<p xml:id="subtitle746" begin="23351661667t" end="23378021334t" region="region0"><span style="style1">Mostrarles que la vida</span></p>
+<p xml:id="subtitle747" begin="23378688667t" end="23422732667t" region="region0"><span style="style1">puede ser mejor sin todas las cosas</span><br/><span style="style1">a las que están acostumbradas</span></p>
+<p xml:id="subtitle748" begin="23423400000t" end="23453430001t" region="region0"><span style="style1">es un desafío y siempre funciona.</span></p>
+<p xml:id="subtitle749" begin="23509819667t" end="23528171334t" region="region0"><span style="style1">- ¡Hola!</span><br/><span style="style1">- Hola.</span></p>
+<p xml:id="subtitle750" begin="23528838667t" end="23538181334t" region="region0"><span style="style1">¿Qué tal?</span></p>
+<p xml:id="subtitle751" begin="23538848667t" end="23556866667t" region="region0"><span style="style1">- ¿Cómo estás?</span><br/><span style="style1">- ¡Muy bien! ¿Y tú?</span></p>
+<p xml:id="subtitle752" begin="23557534000t" end="23568878667t" region="region0"><span style="style1">Muy bien también.</span></p>
+<p xml:id="subtitle753" begin="23569546000t" end="23583226334t" region="region0"><span style="style1">Vaya, qué energía.</span></p>
+<p xml:id="subtitle754" begin="23583893667t" end="23611254334t" region="region0"><span style="style1">- Tú también.</span><br/><span style="style1">- Eso es lo que me gusta.</span></p>
+<p xml:id="subtitle755" begin="23611921667t" end="23624267334t" region="region0"><span style="style1">Buenas vibras.</span></p>
+<p xml:id="subtitle756" begin="23624934667t" end="23655298334t" region="region0"><span style="style1">- Ya me gustas.</span><br/><span style="style1">- ¡Dios! ¿Cómo te llamas?</span></p>
+<p xml:id="subtitle757" begin="23655965667t" end="23686996667t" region="region0"><span style="style1">- Soy Patrick. ¿Tú?</span><br/><span style="style1">- ¿Patrick? Marilia.</span></p>
+<p xml:id="subtitle758" begin="23687664000t" end="23715024667t" region="region0"><span style="style1">- ¿Cómo estás, Marilia?</span><br/><span style="style1">- ¿Qué tal, Patrick?</span></p>
+<p xml:id="subtitle759" begin="23715692001t" end="23734711000t" region="region0"><span style="style1">¡Suenas muy joven, Marilia!</span></p>
+<p xml:id="subtitle760" begin="23735378334t" end="23746389334t" region="region0"><span style="style1">¡Ojalá!</span></p>
+<p xml:id="subtitle761" begin="23747056667t" end="23777086667t" region="region0"><span style="style1">¡De verdad, suenas muy joven!</span><br/><span style="style1">¿Cuántos años tienes?</span></p>
+<p xml:id="subtitle762" begin="23777754000t" end="23795772000t" region="region0"><span style="style1">No me ves la cara.</span></p>
+<p xml:id="subtitle763" begin="23796439334t" end="23819462334t" region="region0"><span style="style1">Bueno, pero puedo escucharte.</span></p>
+<p xml:id="subtitle764" begin="23820129667t" end="23853496334t" region="region0"><span style="style1">- Tengo 37 años, Patrick.</span><br/><span style="style1">- ¿Treinta y siete?</span></p>
+<p xml:id="subtitle765" begin="23854163667t" end="23875852000t" region="region0"><span style="style1">Definitivamente no soy joven.</span></p>
+<p xml:id="subtitle766" begin="23876519334t" end="23928905000t" region="region0"><span style="style1">No es un problema para mí,</span><br/><span style="style1">a menos que tuviera 75 u 80 años.</span></p>
+<p xml:id="subtitle767" begin="23929572334t" end="23949258667t" region="region0"><span style="style1">En ese caso, lo pensaría.</span></p>
+<p xml:id="subtitle768" begin="23959268667t" end="23989966000t" region="region0"><span style="style1">- ¿Cuántos años tienes?</span><br/><span style="style1">- Tengo 32 años.</span></p>
+<p xml:id="subtitle769" begin="23990633334t" end="24006315667t" region="region0"><span style="style1">¡Eres muy joven!</span></p>
+<p xml:id="subtitle770" begin="24006983000t" end="24024667334t" region="region0"><span style="style1">- ¿Y tú?</span><br/><span style="style1">- Tengo 33 años.</span></p>
+<p xml:id="subtitle771" begin="24025334667t" end="24045688334t" region="region0"><span style="style1">¿De qué hablas, amiga?</span></p>
+<p xml:id="subtitle772" begin="24052361667t" end="24069045000t" region="region0"><span style="style1">&quot;¿De qué hablas, amiga?&quot;.</span></p>
+<p xml:id="subtitle773" begin="24069712334t" end="24093736334t" region="region0"><span style="style1">¿De qué signo eres?</span></p>
+<p xml:id="subtitle774" begin="24094403667t" end="24103746334t" region="region0"><span style="style1">Soy Géminis.</span></p>
+<p xml:id="subtitle775" begin="24104413667t" end="24127436667t" region="region0"><span style="style1">Tengo una gemela que es DJ y es hermosa.</span></p>
+<p xml:id="subtitle776" begin="24128104000t" end="24143452667t" region="region0"><span style="style1">¡Vaya! ¿Tienes una gemela?</span></p>
+<p xml:id="subtitle777" begin="24144120000t" end="24180156000t" region="region0"><span style="style1">Sí, una Géminis con una gemela.</span><br/><span style="style1">Estoy muy bien. ¡Es broma!</span></p>
+<p xml:id="subtitle778" begin="24203179000t" end="24223866334t" region="region1"><span style="style1">Creo que soy genial, divertida.</span></p>
+<p xml:id="subtitle779" begin="24224533667t" end="24243886334t" region="region1"><span style="style1">Me casaría conmigo misma, pero no puedo.</span></p>
+<p xml:id="subtitle780" begin="24283592667t" end="24301277000t" region="region0"><span style="style1">¿Por qué quiero casarme de nuevo?</span></p>
+<p xml:id="subtitle781" begin="24301944334t" end="24335644667t" region="region0"><span style="style1">Estoy triste por los que me perdieron</span><br/><span style="style1">y feliz por quien me encontrará.</span></p>
+<p xml:id="subtitle782" begin="24350659667t" end="24382358000t" region="region0"><span style="style1">Siempre quise casarme</span><br/><span style="style1">con una ceremonia adecuada.</span></p>
+<p xml:id="subtitle783" begin="24383025334t" end="24408050334t" region="region0"><span style="style1">Mis padres están casados</span><br/><span style="style1">desde hace 40 años.</span></p>
+<p xml:id="subtitle784" begin="24408717667t" end="24448424000t" region="region0"><span style="style1">Tengo este gran ejemplo de amor en casa.</span></p>
+<p xml:id="subtitle785" begin="24474783667t" end="24505481000t" region="region0"><span style="style1">Entonces, no tengo miedo</span><br/><span style="style1">de entablar relaciones.</span></p>
+<p xml:id="subtitle786" begin="24514156334t" end="24557533001t" region="region0"><span style="style1">Estoy segura de que es aquí</span><br/><span style="style1">donde encontraré el amor de mi vida</span></p>
+<p xml:id="subtitle787" begin="24558200334t" end="24573549000t" region="region0"><span style="style1">y el padre de mis hijos.</span></p>
+<p xml:id="subtitle788" begin="24587563000t" end="24623932667t" region="region0"><span style="style1">- ¿Eres de San Pablo?</span><br/><span style="style1">- Sí, ¿y tú?</span></p>
+<p xml:id="subtitle789" begin="24624600000t" end="24642618000t" region="region0"><span style="style1">- Soy de la Zona Sur.</span><br/><span style="style1">- ¡Dios mío!</span></p>
+<p xml:id="subtitle790" begin="24643285334t" end="24671313334t" region="region0"><span style="style1">- ¿Dónde vives?</span><br/><span style="style1">- ¡En Campo Belo!</span></p>
+<p xml:id="subtitle791" begin="24671980667t" end="24684660001t" region="region0"><span style="style1">¡Cásate conmigo!</span></p>
+<p xml:id="subtitle792" begin="24709017667t" end="24740048667t" region="region0"><span style="style1">Toda mi familia vive</span><br/><span style="style1">en la Zona Sur de San Pablo,</span></p>
+<p xml:id="subtitle793" begin="24740716000t" end="24779421334t" region="region0"><span style="style1">así que si viviera en la Zona Este,</span><br/><span style="style1">sería un problema.</span></p>
+<p xml:id="subtitle794" begin="24780088667t" end="24815123667t" region="region0"><span style="style1">¿Conoces la frase</span><br/><span style="style1">&quot;El amor está a tu lado y no lo ves&quot;?</span></p>
+<p xml:id="subtitle795" begin="24827803001t" end="24851493334t" region="region0"><span style="style1">¡Vivo en Vila Bela Conceição, Itaim!</span></p>
+<p xml:id="subtitle796" begin="24852160667t" end="24871513334t" region="region0"><span style="style1">¡Eres mi vecina!</span></p>
+<p xml:id="subtitle797" begin="24872180667t" end="24888864001t" region="region0"><span style="style1">- Empezamos bien.</span><br/><span style="style1">- Campo Belo.</span></p>
+<p xml:id="subtitle798" begin="24889531334t" end="24905547334t" region="region0"><span style="style1">- No. ¿Qué?</span><br/><span style="style1">- ¿Y tú?</span></p>
+<p xml:id="subtitle799" begin="24906214667t" end="24939915000t" region="region0"><span style="style1">- Yo también.</span><br/><span style="style1">- Asombroso. Ya me gustas.</span></p>
+<p xml:id="subtitle800" begin="24940582334t" end="24986962001t" region="region1"><span style="style1">¡Maldición! ¡No es posible!</span><br/><span style="style1">Vine a ver a mi vecino.</span></p>
+<p xml:id="subtitle801" begin="25021663334t" end="25039681334t" region="region0"><span style="style1">Para mí, la relación perfecta</span></p>
+<p xml:id="subtitle802" begin="25040348667t" end="25071713334t" region="region0"><span style="style1">requiere que tengamos</span><br/><span style="style1">gustos y objetivos similares.</span></p>
+<p xml:id="subtitle803" begin="25072380667t" end="25085060001t" region="region0"><span style="style1">No se engañen.</span></p>
+<p xml:id="subtitle804" begin="25091733334t" end="25137445667t" region="region0"><span style="style1">Si salen con alguien totalmente diferente,</span><br/><span style="style1">en dos meses estarán peleando.</span></p>
+<p xml:id="subtitle805" begin="25138113001t" end="25155463667t" region="region0"><span style="style1">Hablo por experiencia propia.</span></p>
+<p xml:id="subtitle806" begin="25165140000t" end="25200175000t" region="region0"><span style="style1">No es que los opuestos se atraigan,</span><br/><span style="style1">es la voluntad lo que atrae.</span></p>
+<p xml:id="subtitle807" begin="25205513667t" end="25228536667t" region="region0"><span style="style1">¿Vivían juntos? ¿Estaban casados?</span></p>
+<p xml:id="subtitle808" begin="25229204000t" end="25248890334t" region="region0"><span style="style1">Mi relación más larga duró siete años.</span></p>
+<p xml:id="subtitle809" begin="25249557667t" end="25282590667t" region="region0"><span style="style1">Íbamos y veníamos,</span><br/><span style="style1">y quedó embarazada de otro hombre.</span></p>
+<p xml:id="subtitle810" begin="25283258000t" end="25299274000t" region="region0"><span style="style1">- ¡Diablos!</span><br/><span style="style1">- Sí.</span></p>
+<p xml:id="subtitle811" begin="25304279000t" end="25338980334t" region="region0"><span style="style1">Fui un tonto, pero no guardo rencor.</span></p>
+<p xml:id="subtitle812" begin="25339647667t" end="25382690667t" region="region0"><span style="style1">Por supuesto, todos hemos pasado</span><br/><span style="style1">por distintas situaciones.</span></p>
+<p xml:id="subtitle813" begin="25383358000t" end="25396371001t" region="region0"><span style="style1">Ya ha pasado un tiempo.</span></p>
+<p xml:id="subtitle814" begin="25397038334t" end="25425400000t" region="region0"><span style="style1">He tenido</span><br/><span style="style1">varias relaciones desde entonces,</span></p>
+<p xml:id="subtitle815" begin="25426067334t" end="25456097334t" region="region0"><span style="style1">y he estado soltero</span><br/><span style="style1">desde hace cuatro o cinco meses.</span></p>
+<p xml:id="subtitle816" begin="25456764667t" end="25487462000t" region="region0"><span style="style1">- ¿Tienes hijos, Patrick?</span><br/><span style="style1">- Tengo cero hijos.</span></p>
+<p xml:id="subtitle817" begin="25488129334t" end="25498139334t" region="region0"><span style="style1">Yo igual.</span></p>
+<p xml:id="subtitle818" begin="25528169334t" end="25551526001t" region="region0"><span style="style1">&quot;Tengo cero hijos&quot;. Genial.</span></p>
+<p xml:id="subtitle819" begin="25552193334t" end="25603578000t" region="region0"><span style="style1">Sueño con tener hijos. No uno, sino dos.</span></p>
+<p xml:id="subtitle820" begin="25604245334t" end="25618593000t" region="region0"><span style="style1">Porque odio ser hijo único.</span></p>
+<p xml:id="subtitle821" begin="25626601000t" end="25652960667t" region="region0"><span style="style1">- ¿Te gustan los perros?</span><br/><span style="style1">- ¡Me encantan!</span></p>
+<p xml:id="subtitle822" begin="25653628001t" end="25680321334t" region="region0"><span style="style1">¡Genial! ¡Eso es muy importante!</span></p>
+<p xml:id="subtitle823" begin="25680988667t" end="25731706001t" region="region0"><span style="style1">Tengo una perrita que duerme conmigo</span><br/><span style="style1">en la cama todas las noches.</span></p>
+<p xml:id="subtitle824" begin="25732373334t" end="25765740000t" region="region0"><span style="style1">Me empuja, duerme encima de mí.</span></p>
+<p xml:id="subtitle825" begin="25766407334t" end="25783424334t" region="region0"><span style="style1">No quiero quejas.</span></p>
+<p xml:id="subtitle826" begin="25789764000t" end="25816123667t" region="region0"><span style="style1">La llevo conmigo a donde quiera que vaya.</span></p>
+<p xml:id="subtitle827" begin="25816791000t" end="25841816001t" region="region0"><span style="style1">Dejé de salir con varias mujeres</span></p>
+<p xml:id="subtitle828" begin="25847822000t" end="25879520334t" region="region0"><span style="style1">porque le pidieron a mi perra</span><br/><span style="style1">que saliera del cuarto.</span></p>
+<p xml:id="subtitle829" begin="25880187667t" end="25913554334t" region="region0"><span style="style1">Tu voz realmente suena</span><br/><span style="style1">como alguien de San Pablo.</span></p>
+<p xml:id="subtitle830" begin="25914221667t" end="25940581334t" region="region0"><span style="style1">Y tú suenas como una niña malcriada.</span></p>
+<p xml:id="subtitle831" begin="25950925000t" end="25974615334t" region="region0"><span style="style1">Sí, pero soy muy amable.</span></p>
+<p xml:id="subtitle832" begin="25975282667t" end="25991298667t" region="region0"><span style="style1">Nuestras energías coinciden.</span></p>
+<p xml:id="subtitle833" begin="25991966000t" end="26019994000t" region="region0"><span style="style1">Sí, pon muchas estrellas</span><br/><span style="style1">y vuelve a hablar conmigo.</span></p>
+<p xml:id="subtitle834" begin="26020661334t" end="26042016001t" region="region0"><span style="style1">Seguro. Ya lo hice.</span></p>
+<p xml:id="subtitle835" begin="26042683334t" end="26074048000t" region="region0"><span style="style1">En este momento, San Antonio diría:</span></p>
+<p xml:id="subtitle836" begin="26074715334t" end="26110751334t" region="region0"><span style="style1">&quot;Encontraste a alguien.</span><br/><span style="style1">Ahora es tu momento de brillar.</span></p>
+<p xml:id="subtitle837" begin="26111418667t" end="26122763334t" region="region0"><span style="style1">Ve a casarte&quot;.</span></p>
+<p xml:id="subtitle838" begin="26123430667t" end="26150457667t" region="region0"><span style="style1">- Me encantó hablar contigo.</span><br/><span style="style1">- Quiero volver a verte.</span></p>
+<p xml:id="subtitle839" begin="26151125000t" end="26165472667t" region="region0"><span style="style1">¡Yo también! ¡Adiós!</span></p>
+<p xml:id="subtitle840" begin="26186827334t" end="26207514667t" region="region0"><span style="style1">¿Quiero volver a hablar con él? Sí.</span></p>
+<p xml:id="subtitle841" begin="26208182000t" end="26254228000t" region="region0"><span style="style1">Teníamos muy poco tiempo</span><br/><span style="style1">y muchas preguntas para hacerle.</span></p>
+<p xml:id="subtitle842" begin="26266573667t" end="26285926334t" region="region0"><span style="style1">Ya estoy enamorado.</span></p>
+<p xml:id="subtitle843" begin="26304278000t" end="26326300000t" region="region0"><span style="style1">- ¿Qué me querías decir?</span><br/><span style="style1">- No sé.</span></p>
+<p xml:id="subtitle844" begin="26331972334t" end="26367674667t" region="region0"><span style="style1">Estoy muy triste</span><br/><span style="style1">y tengo mucho miedo de lastimarme.</span></p>
+<p xml:id="subtitle845" begin="26368342000t" end="26409049334t" region="region0"><span style="style1">Hay algo que me impide avanzar.</span></p>
+<p xml:id="subtitle846" begin="26409716667t" end="26429069334t" region="region0"><span style="style1">Es probable que sea un bloque que tengo.</span></p>
+<p xml:id="subtitle847" begin="26429736667t" end="26458432000t" region="region0"><span style="style1">No recuerdo si fui claro con Marcia</span><br/><span style="style1">sobre mi confusión.</span></p>
+<p xml:id="subtitle848" begin="26467107334t" end="26494134334t" region="region1"><span style="style1">Pero dejé en claro que mi corazón</span></p>
+<p xml:id="subtitle849" begin="26494801667t" end="26525165334t" region="region1"><span style="style1">quiere darle</span><br/><span style="style1">una segunda oportunidad al amor.</span></p>
+<p xml:id="subtitle850" begin="26532506001t" end="26550857667t" region="region0"><span style="style1">No quiero apurar las cosas.</span></p>
+<p xml:id="subtitle851" begin="26551525000t" end="26586893667t" region="region0"><span style="style1">Pero es horrible porque no me permito</span><br/><span style="style1">expresar mis emociones.</span></p>
+<p xml:id="subtitle852" begin="26593900667t" end="26617924667t" region="region0"><span style="style1">Creo que es una mujer increíble.</span></p>
+<p xml:id="subtitle853" begin="26618592001t" end="26639279334t" region="region0"><span style="style1">Si estuviéramos afuera,</span><br/><span style="style1">no los encontraríamos.</span></p>
+<p xml:id="subtitle854" begin="26639946667t" end="26655295334t" region="region0"><span style="style1">Son muy parecidos a nosotros.</span></p>
+<p xml:id="subtitle855" begin="26655962667t" end="26705345334t" region="region0"><span style="style1">Pero el miedo me hace retroceder.</span></p>
+<p xml:id="subtitle856" begin="26706012667t" end="26738712000t" region="region0"><span style="style1">Vine aquí pensando</span><br/><span style="style1">que había resuelto mis problemas,</span></p>
+<p xml:id="subtitle857" begin="26739379334t" end="26757397334t" region="region0"><span style="style1">mis confusiones,</span></p>
+<p xml:id="subtitle858" begin="26758064667t" end="26790430334t" region="region0"><span style="style1">y en cuanto me encuentro</span><br/><span style="style1">solo en una habitación,</span></p>
+<p xml:id="subtitle859" begin="26791097667t" end="26842816000t" region="region0"><span style="style1">todas esas inseguridades regresan.</span></p>
+<p xml:id="subtitle860" begin="26843483334t" end="26867173667t" region="region0"><span style="style1">Mi relación terminó de manera caótica.</span></p>
+<p xml:id="subtitle861" begin="26867841001t" end="26884190667t" region="region0"><span style="style1">Fue traumático para mí.</span></p>
+<p xml:id="subtitle862" begin="26884858001t" end="26923563334t" region="region0"><span style="style1">Ella era muy explosiva,</span><br/><span style="style1">y no podíamos entendernos.</span></p>
+<p xml:id="subtitle863" begin="26924230667t" end="26943249667t" region="region0"><span style="style1">Y finalmente, llegó a su fin.</span></p>
+<p xml:id="subtitle864" begin="26943917000t" end="26959265667t" region="region0"><span style="style1">El pasado siempre regresa.</span></p>
+<p xml:id="subtitle865" begin="26959933000t" end="26979619334t" region="region0"><span style="style1">Siempre hay un gatillo que lo hace volver.</span></p>
+<p xml:id="subtitle866" begin="26980286667t" end="27010316667t" region="region0"><span style="style1">Sin embargo,</span><br/><span style="style1">cuanto más alimentas este gatillo,</span></p>
+<p xml:id="subtitle867" begin="27010984001t" end="27022662334t" region="region0"><span style="style1">será cada vez peor.</span></p>
+<p xml:id="subtitle868" begin="27023329667t" end="27047687334t" region="region0"><span style="style1">Y no podrás estar con nadie.</span></p>
+<p xml:id="subtitle869" begin="27048354667t" end="27073713334t" region="region0"><span style="style1">Él se contiene demasiado.</span></p>
+<p xml:id="subtitle870" begin="27074380667t" end="27108081000t" region="region1"><span style="style1">Lo que sea que le haya pasado</span><br/><span style="style1">en sus relaciones está en el pasado.</span></p>
+<p xml:id="subtitle871" begin="27108748334t" end="27132772334t" region="region1"><span style="style1">Lo que tiene con Marcia</span><br/><span style="style1">es algo completamente nuevo.</span></p>
+<p xml:id="subtitle872" begin="27133439667t" end="27145451667t" region="region1"><span style="style1">Y Marcia no es igual.</span></p>
+<p xml:id="subtitle873" begin="27146119001t" end="27180486667t" region="region0"><span style="style1">Cuando mueras, tu lápida dirá:</span></p>
+<p xml:id="subtitle874" begin="27181154000t" end="27190496667t" region="region0"><span style="style1">&quot;André…</span></p>
+<p xml:id="subtitle875" begin="27202842334t" end="27212518667t" region="region0"><span style="style1">¿Y si…?&quot;.</span></p>
+<p xml:id="subtitle876" begin="27335975334t" end="27353326000t" region="region0"><span style="style1">No hay nadie aquí. Soy yo.</span></p>
+<p xml:id="subtitle877" begin="27383022334t" end="27408381000t" region="region0"><span style="style1">No me sentía bien. Lo pensé mucho.</span></p>
+<p xml:id="subtitle878" begin="27409048334t" end="27438744667t" region="region0"><span style="style1">Además de estas emociones,</span></p>
+<p xml:id="subtitle879" begin="27439412000t" end="27477783667t" region="region0"><span style="style1">tenía que ser real</span><br/><span style="style1">o podría lastimar a alguien en el futuro.</span></p>
+<p xml:id="subtitle880" begin="27534173334t" end="27546185334t" region="region0"><span style="style1">Es difícil.</span></p>
+<p xml:id="subtitle881" begin="27679318334t" end="27692665000t" region="region0"><span style="style1">Tomé una decisión.</span></p>
+<p xml:id="subtitle882" begin="27707346334t" end="27728367334t" region="region0"><span style="style1">¡Buenos días!</span></p>
+<p xml:id="subtitle883" begin="27735040667t" end="27748721000t" region="region0"><span style="style1">Buen día. ¿Cómo estás?</span></p>
+<p xml:id="subtitle884" begin="27749388334t" end="27765404334t" region="region0"><span style="style1">Estoy bien. ¿Y tú?</span></p>
+<p xml:id="subtitle885" begin="27782087667t" end="27802441334t" region="region0"><span style="style1">No estoy muy bien.</span></p>
+<p xml:id="subtitle886" begin="27803108667t" end="27824463334t" region="region0"><span style="style1">Cuéntame. ¿Tienes novedades?</span></p>
+<p xml:id="subtitle887" begin="27825130667t" end="27840479334t" region="region0"><span style="style1">No sé. Tal vez.</span></p>
+<p xml:id="subtitle888" begin="27846819000t" end="27855160667t" region="region0"><span style="style1">Sí.</span></p>
+<p xml:id="subtitle889" begin="27905544334t" end="27939912000t" region="region0"><span style="style1">Disfruto mucho de hablar contigo.</span><br/><span style="style1">Me gustas mucho.</span></p>
+<p xml:id="subtitle890" begin="27957596334t" end="27987626334t" region="region0"><span style="style1">Pero no me siento listo, ¿sabes?</span></p>
+<p xml:id="subtitle891" begin="28004643334t" end="28044349667t" region="region0"><span style="style1">Como dije, trato de ser</span><br/><span style="style1">más racional que emocional,</span></p>
+<p xml:id="subtitle892" begin="28045017000t" end="28067372667t" region="region0"><span style="style1">porque cuando dejo</span><br/><span style="style1">que mis emociones me controlen,</span></p>
+<p xml:id="subtitle893" begin="28068040000t" end="28108747334t" region="region0"><span style="style1">decepciono a alguien, lastimo a alguien,</span><br/><span style="style1">o termino jodido.</span></p>
+<p xml:id="subtitle894" begin="28109414667t" end="28151790334t" region="region0"><span style="style1">No sé por qué,</span><br/><span style="style1">pero mi lado racional toma el control.</span></p>
+<p xml:id="subtitle895" begin="28177149000t" end="28204843334t" region="region0"><span style="style1">Me gustó mucho conocerte,</span><br/><span style="style1">quiero verte afuera,</span></p>
+<p xml:id="subtitle896" begin="28205510667t" end="28225864334t" region="region0"><span style="style1">quiero conocerte en persona, si quieres.</span></p>
+<p xml:id="subtitle897" begin="28226531667t" end="28243548667t" region="region0"><span style="style1">Pero ahora me siento inseguro.</span></p>
+<p xml:id="subtitle898" begin="28255560667t" end="28301940334t" region="region0"><span style="style1">Todavía estoy muy confundido.</span><br/><span style="style1">Sabía que aún no estaba al 100 %.</span></p>
+<p xml:id="subtitle899" begin="28306945334t" end="28329968334t" region="region0"><span style="style1">¿Qué estás diciendo? ¿Terminamos?</span></p>
+<p xml:id="subtitle900" begin="28365003334t" end="28376014334t" region="region0"><span style="style1">No puedo mentirte.</span></p>
+<p xml:id="subtitle901" begin="28376681667t" end="28413385000t" region="region0"><span style="style1">Estoy muy triste por esta decisión.</span></p>
+<p xml:id="subtitle902" begin="28414052334t" end="28430402001t" region="region0"><span style="style1">¿Me perdonas?</span></p>
+<p xml:id="subtitle903" begin="28431069334t" end="28451423000t" region="region0"><span style="style1">No diré lo que quieres oír.</span></p>
+<p xml:id="subtitle904" begin="28452090334t" end="28471443001t" region="region0"><span style="style1">Me entregué en cuerpo y alma a ti.</span></p>
+<p xml:id="subtitle905" begin="28472110334t" end="28509481000t" region="region0"><span style="style1">Si tienes dudas</span><br/><span style="style1">y si no quieres continuar, está bien.</span></p>
+<p xml:id="subtitle906" begin="28510148334t" end="28529834667t" region="region0"><span style="style1">Pero no sé si te perdonaré.</span></p>
+<p xml:id="subtitle907" begin="28554192334t" end="28573878667t" region="region0"><span style="style1">La verdad, me sorprendió,</span></p>
+<p xml:id="subtitle908" begin="28574546000t" end="28630602001t" region="region0"><span style="style1">porque fui</span><br/><span style="style1">completamente sincera y abierta con todo.</span></p>
+<p xml:id="subtitle909" begin="28638943667t" end="28657629000t" region="region1"><span style="style1">Pensé que él sentía lo mismo.</span></p>
+<p xml:id="subtitle910" begin="28658296334t" end="28685657000t" region="region1"><span style="style1">Ayer actuó de una manera, y hoy dice esto.</span></p>
+<p xml:id="subtitle911" begin="28686324334t" end="28715019667t" region="region1"><span style="style1">Me sorprendió muchísimo.</span></p>
+<p xml:id="subtitle912" begin="28742380334t" end="28762400334t" region="region0"><span style="style1">- Gracias, adiós.</span><br/><span style="style1">- Adiós.</span></p>
+<p xml:id="subtitle913" begin="28858830000t" end="28880852000t" region="region0"><span style="style1">La verdad, sentí que era débil.</span></p>
+<p xml:id="subtitle914" begin="28923895000t" end="28948252667t" region="region0"><span style="style1">Vaya, no sé.</span></p>
+<p xml:id="subtitle915" begin="28948920000t" end="28972610334t" region="region0"><span style="style1">Solo él sabe qué pensamientos tuvo.</span></p>
+<p xml:id="subtitle916" begin="28991963000t" end="29017655334t" region="region0"><span style="style1">Intenté darle otra oportunidad al amor,</span></p>
+<p xml:id="subtitle917" begin="29018322667t" end="29047351667t" region="region0"><span style="style1">de verdad, pero esta vez no tenía que ser.</span></p>
+<p xml:id="subtitle918" begin="29127431667t" end="29170141001t" region="region1"><span style="style1">SALA DE HOMBRES</span></p>
+<p xml:id="subtitle919" begin="29199170001t" end="29212516667t" region="region0"><span style="style1">Estoy nervioso.</span></p>
+<p xml:id="subtitle920" begin="29268239001t" end="29305609667t" region="region1"><span style="style1">Estoy listo para vivir esto.</span><br/><span style="style1">Que todo sea como el amor quiera.</span></p>
+<p xml:id="subtitle921" begin="29343314000t" end="29384355000t" region="region0"><span style="style1">Me entregué por completo a todo esto.</span></p>
+<p xml:id="subtitle922" begin="29385022334t" end="29419056334t" region="region0"><span style="style1">- Me encanta lo que hemos construido.</span><br/><span style="style1">- Sí.</span></p>
+<p xml:id="subtitle923" begin="29419723667t" end="29457094334t" region="region0"><span style="style1">Me encanta tu forma de ser,</span><br/><span style="style1">me encanta tu personalidad.</span></p>
+<p xml:id="subtitle924" begin="29464435001t" end="29505809667t" region="region0"><span style="style1">No puedo decir que no te amo,</span><br/><span style="style1">eso sería negar lo que hay en mí.</span></p>
+<p xml:id="subtitle925" begin="29506477000t" end="29523494000t" region="region0"><span style="style1">Así que te amo.</span></p>
+<p xml:id="subtitle926" begin="29528499000t" end="29563534000t" region="region0"><span style="style1">Es lo que siento en mi corazón.</span><br/><span style="style1">Es lo que me pasa, es una locura.</span></p>
+<p xml:id="subtitle927" begin="29569540000t" end="29610247334t" region="region0"><span style="style1">Yo también te amo.</span><br/><span style="style1">De hecho, cada día te amo más.</span></p>
+<p xml:id="subtitle928" begin="29610914667t" end="29631268334t" region="region0"><span style="style1">Es un sentimiento puro.</span></p>
+<p xml:id="subtitle929" begin="29631935667t" end="29657294334t" region="region1"><span style="style1">Estoy feliz de permitirme sentir esto.</span></p>
+<p xml:id="subtitle930" begin="29657961667t" end="29692329334t" region="region0"><span style="style1">Yo creo que el amor existe,</span><br/><span style="style1">y por eso quería estar aquí.</span></p>
+<p xml:id="subtitle931" begin="29692996667t" end="29717354334t" region="region0"><span style="style1">Después de tantas historias fallidas,</span></p>
+<p xml:id="subtitle932" begin="29718021667t" end="29741378334t" region="region0"><span style="style1">permitirme sentir</span><br/><span style="style1">este sentimiento que crece dentro</span></p>
+<p xml:id="subtitle933" begin="29742045667t" end="29765736000t" region="region0"><span style="style1">y saber que es recíproco es increíble.</span></p>
+<p xml:id="subtitle934" begin="29766403334t" end="29815118667t" region="region0"><span style="style1">Te dejé una sorpresa dentro del cofre.</span><br/><span style="style1">Más tarde te diré qué significa.</span></p>
+<p xml:id="subtitle935" begin="29846149667t" end="29871508334t" region="region0"><span style="style1">- Me estás poniendo nerviosa.</span><br/><span style="style1">- ¿Lo abriste?</span></p>
+<p xml:id="subtitle936" begin="29872175667t" end="29892195667t" region="region0"><span style="style1">- Sí.</span><br/><span style="style1">- ¿Qué hay ahí?</span></p>
+<p xml:id="subtitle937" begin="29892863000t" end="29908879000t" region="region0"><span style="style1">Unas flores hermosas.</span></p>
+<p xml:id="subtitle938" begin="29924561334t" end="29947250667t" region="region0"><span style="style1">Estaba nerviosa y no lo imaginaba.</span></p>
+<p xml:id="subtitle939" begin="29947918000t" end="29970941000t" region="region0"><span style="style1">Nunca recibí flores en mi vida.</span></p>
+<p xml:id="subtitle940" begin="29971608334t" end="29997634334t" region="region0"><span style="style1">Estas flores son hortensias.</span></p>
+<p xml:id="subtitle941" begin="30003306667t" end="30026329667t" region="region0"><span style="style1">Y representan un nuevo comienzo.</span></p>
+<p xml:id="subtitle942" begin="30026997000t" end="30070707334t" region="region0"><span style="style1">Hablamos de segundas oportunidades,</span><br/><span style="style1">de escribir una nueva historia</span></p>
+<p xml:id="subtitle943" begin="30071374667t" end="30086723334t" region="region0"><span style="style1">y que mereces algo mejor</span></p>
+<p xml:id="subtitle944" begin="30087390667t" end="30109412667t" region="region0"><span style="style1">por quien eres con ese corazón bello.</span></p>
+<p xml:id="subtitle945" begin="30115418667t" end="30134104000t" region="region0"><span style="style1">Tu forma de ser caló hondo en mí.</span></p>
+<p xml:id="subtitle946" begin="30178148000t" end="30206509667t" region="region0"><span style="style1">Quiero vivir contigo, de verdad.</span></p>
+<p xml:id="subtitle947" begin="30251888334t" end="30267570667t" region="region0"><span style="style1">¿Quieres casarte conmigo?</span></p>
+<p xml:id="subtitle948" begin="30292595667t" end="30313616667t" region="region0"><span style="style1">¿Quieres vivir esta loca aventura conmigo?</span></p>
+<p xml:id="subtitle949" begin="30335972334t" end="30355325000t" region="region0"><span style="style1">Se me acelera el corazón.</span></p>
+<p xml:id="subtitle950" begin="30378014334t" end="30394030334t" region="region0"><span style="style1">Sí, sí quiero.</span></p>
+<p xml:id="subtitle951" begin="30404040334t" end="30436739667t" region="region0"><span style="style1">Realmente quiero. Sí. Con todo mi corazón.</span></p>
+<p xml:id="subtitle952" begin="30443413000t" end="30452422000t" region="region0"><span style="style1">¡Mi corazón!</span></p>
+<p xml:id="subtitle953" begin="30453089334t" end="30479115334t" region="region0"><span style="style1">Tienes muchas cosas buenas</span></p>
+<p xml:id="subtitle954" begin="30479782667t" end="30512815667t" region="region0"><span style="style1">y estoy segura</span><br/><span style="style1">de que tienes mucho que compartir,</span></p>
+<p xml:id="subtitle955" begin="30513483000t" end="30543513000t" region="region0"><span style="style1">no solo entre nosotros,</span><br/><span style="style1">pero también con nuestras hijas.</span></p>
+<p xml:id="subtitle956" begin="30544180334t" end="30567537000t" region="region0"><span style="style1">Así que sí, por supuesto que quiero.</span></p>
+<p xml:id="subtitle957" begin="30572542001t" end="30600570000t" region="region0"><span style="style1">Puedo ver que ella es el amor de mi vida</span></p>
+<p xml:id="subtitle958" begin="30601237334t" end="30614917667t" region="region0"><span style="style1">por la conexión que tenemos.</span></p>
+<p xml:id="subtitle959" begin="30615585000t" end="30657960667t" region="region0"><span style="style1">Quiero saber su vida, su rutina,</span><br/><span style="style1">y todo lo que tiene para mostrar,</span></p>
+<p xml:id="subtitle960" begin="30658628001t" end="30679315334t" region="region0"><span style="style1">y siento que es real y sincera.</span></p>
+<p xml:id="subtitle961" begin="30685321334t" end="30718020667t" region="region0"><span style="style1">Lo que siento hoy no tiene explicación.</span></p>
+<p xml:id="subtitle962" begin="30718688000t" end="30741377334t" region="region0"><span style="style1">Mucha alegría, mucha felicidad.</span></p>
+<p xml:id="subtitle963" begin="30768404334t" end="30817453334t" region="region0"><span style="style1">¡Viva, ella sí quiere!</span></p>
+<p xml:id="subtitle964" begin="30818120667t" end="30843479334t" region="region0"><span style="style1">¡Vamos!</span></p>
+<p xml:id="subtitle965" begin="30900870000t" end="30924894001t" region="region0"><span style="style1">Estar aquí es muy difícil para mí</span></p>
+<p xml:id="subtitle966" begin="30925561334t" end="30948250667t" region="region0"><span style="style1">porque yo renuncié al amor hace mucho.</span></p>
+<p xml:id="subtitle967" begin="30948918001t" end="30985955001t" region="region0"><span style="style1">Hoy puedo decir que el amor es ciego.</span></p>
+<p xml:id="subtitle968" begin="31054690334t" end="31095731334t" region="region1"><span style="style1">PRIMER ENCUENTRO DE ARIELA Y EVANDRO</span></p>
+<p xml:id="subtitle969" begin="31143779334t" end="31158460667t" region="region0"><span style="style1">¡Estoy muy nerviosa!</span></p>
+<p xml:id="subtitle970" begin="31165467667t" end="31181483667t" region="region0"><span style="style1">Estoy ansiosa, nerviosa.</span></p>
+<p xml:id="subtitle971" begin="31197833334t" end="31210512667t" region="region0"><span style="style1">Santo Dios.</span></p>
+<p xml:id="subtitle972" begin="31211180000t" end="31244213000t" region="region0"><span style="style1">Estoy tratando de calmarme,</span><br/><span style="style1">pero es muy difícil.</span></p>
+<p xml:id="subtitle973" begin="31307276000t" end="31332301000t" region="region0"><span style="style1">Tengo grandes expectativas para hoy.</span></p>
+<p xml:id="subtitle974" begin="31332968334t" end="31363332000t" region="region0"><span style="style1">Anoche no dormí y estoy muy ansioso.</span></p>
+<p xml:id="subtitle975" begin="31404706667t" end="31425060334t" region="region0"><span style="style1">Creo que es alto.</span></p>
+<p xml:id="subtitle976" begin="31425727667t" end="31448083334t" region="region0"><span style="style1">Y que tiene un trasero delicioso.</span></p>
+<p xml:id="subtitle977" begin="31683318334t" end="31694663000t" region="region0"><span style="style1">Estoy temblando.</span></p>
+<p xml:id="subtitle978" begin="31758393334t" end="31784753000t" region="region0"><span style="style1">No sé si correr o caminar.</span></p>
+<p xml:id="subtitle979" begin="31802771000t" end="31814783000t" region="region0"><span style="style1">Estoy muy nerviosa.</span></p>
+<p xml:id="subtitle980" begin="31820789000t" end="31831132667t" region="region0"><span style="style1">Estoy temblando.</span></p>
+<p xml:id="subtitle981" begin="31831800000t" end="31847816000t" region="region0"><span style="style1">¿Estás temblando?</span></p>
+<p xml:id="subtitle982" begin="31873508334t" end="31891860000t" region="region0"><span style="style1">Estoy muy nerviosa.</span></p>
+<p xml:id="subtitle983" begin="31932567334t" end="31951586334t" region="region0"><span style="style1">Ella temblaba mucho.</span></p>
+<p xml:id="subtitle984" begin="31952253667t" end="31983952001t" region="region0"><span style="style1">Y ella me lo pasó a mí,</span><br/><span style="style1">y yo temblaba con ella.</span></p>
+<p xml:id="subtitle985" begin="31984619334t" end="32013982000t" region="region0"><span style="style1">- Eres hermosa.</span><br/><span style="style1">- Tú también.</span></p>
+<p xml:id="subtitle986" begin="32014649334t" end="32028329667t" region="region0"><span style="style1">¿Te asustó mi altura?</span></p>
+<p xml:id="subtitle987" begin="32028997001t" end="32061029001t" region="region0"><span style="style1">No, dijiste que yo era baja,</span><br/><span style="style1">así que estaba preocupada.</span></p>
+<p xml:id="subtitle988" begin="32061696334t" end="32089057000t" region="region0"><span style="style1">No soy baja, mido 1,69 metros.</span></p>
+<p xml:id="subtitle989" begin="32089724334t" end="32123424667t" region="region0"><span style="style1">Estaba muy feliz</span><br/><span style="style1">que tenemos alturas iguales.</span></p>
+<p xml:id="subtitle990" begin="32148116000t" end="32161796334t" region="region0"><span style="style1">¡Qué lindo!</span></p>
+<p xml:id="subtitle991" begin="32162463667t" end="32178479667t" region="region0"><span style="style1">Dije que lo iba a apretar.</span></p>
+<p xml:id="subtitle992" begin="32179147000t" end="32196831334t" region="region0"><span style="style1">Soy un poco atleta, ¿sabes?</span></p>
+<p xml:id="subtitle993" begin="32197498667t" end="32211846334t" region="region0"><span style="style1">Sí, es muy firme.</span></p>
+<p xml:id="subtitle994" begin="32225193001t" end="32242877334t" region="region0"><span style="style1">¿Creías que tenía ojos azules?</span></p>
+<p xml:id="subtitle995" begin="32243544667t" end="32263564667t" region="region0"><span style="style1">Nunca me lo imaginé.</span></p>
+<p xml:id="subtitle996" begin="32264232000t" end="32281916334t" region="region0"><span style="style1">Es más de lo que esperaba.</span></p>
+<p xml:id="subtitle997" begin="32282583667t" end="32299267000t" region="region0"><span style="style1">No solo su apariencia,</span></p>
+<p xml:id="subtitle998" begin="32299934334t" end="32338639667t" region="region0"><span style="style1">pero cuando nos abrazamos,</span><br/><span style="style1">confirmé muchas cosas.</span></p>
+<p xml:id="subtitle999" begin="32339307001t" end="32364999334t" region="region0"><span style="style1">Lo juro, tenía razón sobre cómo te verías.</span></p>
+<p xml:id="subtitle1000" begin="32365666667t" end="32382350000t" region="region0"><span style="style1">¿De verdad?</span></p>
+<p xml:id="subtitle1001" begin="32383017334t" end="32410044334t" region="region0"><span style="style1">Juro que pensé que era todo eso.</span></p>
+<p xml:id="subtitle1002" begin="32410711667t" end="32447081334t" region="region0"><span style="style1">Me miró a los ojos</span><br/><span style="style1">como pensé que lo haría.</span></p>
+<p xml:id="subtitle1003" begin="32459760667t" end="32477111334t" region="region0"><span style="style1">- Tú…</span><br/><span style="style1">- Me da vergüenza.</span></p>
+<p xml:id="subtitle1004" begin="32555523000t" end="32578212334t" region="region0"><span style="style1">El beso fue una confirmación</span><br/><span style="style1">de nuestra conexión.</span></p>
+<p xml:id="subtitle1005" begin="32598566000t" end="32616584000t" region="region0"><span style="style1">Fue genial. Fue muy agradable.</span></p>
+<p xml:id="subtitle1006" begin="32623591000t" end="32661962667t" region="region0"><span style="style1">Esto ha confirmado muchas cosas,</span><br/><span style="style1">es una locura.</span></p>
+<p xml:id="subtitle1007" begin="32668636000t" end="32704672000t" region="region0"><span style="style1">No puede ser de otra manera.</span><br/><span style="style1">Esto es lo que mi corazón quiere.</span></p>
+<p xml:id="subtitle1008" begin="32709677000t" end="32719687001t" region="region0"><span style="style1">En serio.</span></p>
+<p xml:id="subtitle1009" begin="32720354334t" end="32740040667t" region="region0"><span style="style1">Aquí hay un corazón para ti.</span></p>
+<p xml:id="subtitle1010" begin="32750718000t" end="32778078667t" region="region0"><span style="style1">Le dije que el corazón</span><br/><span style="style1">que tengo en el dedo</span></p>
+<p xml:id="subtitle1011" begin="32783417334t" end="32794428334t" region="region0"><span style="style1">es su corazón.</span></p>
+<p xml:id="subtitle1012" begin="32795095667t" end="32808108667t" region="region0"><span style="style1">Calma. Esta mano.</span></p>
+<p xml:id="subtitle1013" begin="32808776000t" end="32841141667t" region="region0"><span style="style1">- Me tiembla la mano.</span><br/><span style="style1">- Estás temblando más que yo.</span></p>
+<p xml:id="subtitle1014" begin="32841809000t" end="32858492334t" region="region0"><span style="style1">No, creo que yo tiemblo más.</span></p>
+<p xml:id="subtitle1015" begin="32859159667t" end="32893527334t" region="region0"><span style="style1">Cada momento</span><br/><span style="style1">que tuvimos allí fue increíble.</span></p>
+<p xml:id="subtitle1016" begin="32894194667t" end="32917885000t" region="region0"><span style="style1">Eres divertido,</span><br/><span style="style1">y aún no hemos hecho nada juntos.</span></p>
+<p xml:id="subtitle1017" begin="32918552334t" end="32941575334t" region="region0"><span style="style1">Y ahora, a una nueva vida.</span></p>
+<p xml:id="subtitle1018" begin="32956256667t" end="32984952000t" region="region0"><span style="style1">¡Qué lindo abrazo! ¡Cielos!</span></p>
+<p xml:id="subtitle1019" begin="32994294667t" end="33023323667t" region="region0"><span style="style1">Siento que es alguien</span><br/><span style="style1">que está orientada a la familia,</span></p>
+<p xml:id="subtitle1020" begin="33023991000t" end="33046346667t" region="region0"><span style="style1">es parecida a mí</span><br/><span style="style1">respecto de sus sentimientos,</span></p>
+<p xml:id="subtitle1021" begin="33047014001t" end="33086720334t" region="region0"><span style="style1">pone su corazón</span><br/><span style="style1">por encima de cualquier otra cosa.</span></p>
+<p xml:id="subtitle1022" begin="33087387667t" end="33112746334t" region="region0"><span style="style1">Estoy seguro</span><br/><span style="style1">de que vendrán cosas grandiosas.</span></p>
+<p xml:id="subtitle1023" begin="33123423667t" end="33132099000t" region="region0"><span style="style1">Adiós.</span></p>
+<p xml:id="subtitle1024" begin="33144444667t" end="33160460667t" region="region0"><span style="style1">Ahora estoy más tranquila.</span></p>
+<p xml:id="subtitle1025" begin="33161128001t" end="33196163000t" region="region0"><span style="style1">Tiene barba</span><br/><span style="style1">y soy un poco alérgica a las barbas.</span></p>
+<p xml:id="subtitle1026" begin="33196830334t" end="33219519667t" region="region0"><span style="style1">Me pica mucho.</span></p>
+<p xml:id="subtitle1027" begin="33226860334t" end="33270904334t" region="region0"><span style="style1">No sé,</span><br/><span style="style1">ya encontraremos la manera de resolverlo.</span></p>
+<p xml:id="subtitle1028" begin="33271571667t" end="33281248000t" region="region0"><span style="style1">No sé.</span></p>
+<p xml:id="subtitle1029" begin="33317617667t" end="33358325000t" region="region0"><span style="style1">No quería irme.</span><br/><span style="style1">Su olor, su perfume, su piel.</span></p>
+<p xml:id="subtitle1030" begin="33363663667t" end="33381681667t" region="region0"><span style="style1">Fue increíble, de verdad.</span></p>
+<p xml:id="subtitle1031" begin="33413380000t" end="33422055334t" region="region0"><span style="style1">Vaya.</span></p>
+<p xml:id="subtitle1032" begin="33430397000t" end="33442075334t" region="region0"><span style="style1">Diablos.</span></p>
+<p xml:id="subtitle1033" begin="33457424000t" end="33466099334t" region="region0"><span style="style1">Mierda.</span></p>
+<p xml:id="subtitle1034" begin="33477110334t" end="33490790667t" region="region0"><span style="style1">Esto es una locura.</span></p>
+<p xml:id="subtitle1035" begin="33497464000t" end="33505805667t" region="region0"><span style="style1">Es increíble.</span></p>
+<p xml:id="subtitle1036" begin="33506473000t" end="33515482000t" region="region0"><span style="style1">Increíble.</span></p>
+<p xml:id="subtitle1037" begin="33516149334t" end="33553853667t" region="region0"><span style="style1">Es injusto estar separados</span><br/><span style="style1">después de vernos.</span></p>
+<p xml:id="subtitle1038" begin="33554521000t" end="33574874667t" region="region0"><span style="style1">Qué locura.</span></p>
+<p xml:id="subtitle1039" begin="33575542000t" end="33594561001t" region="region0"><span style="style1">Es como si estuviera escrito.</span></p>
+<p xml:id="subtitle1040" begin="33628928667t" end="33652285334t" region="region1"><span style="style1">SALA DE HOMBRES</span></p>
+<p xml:id="subtitle1041" begin="33663630000t" end="33698998667t" region="region0"><span style="style1">Fue una de las mejores experiencias</span><br/><span style="style1">que he tenido.</span></p>
+<p xml:id="subtitle1042" begin="33699666000t" end="33717350334t" region="region0"><span style="style1">- Es muy intenso.</span><br/><span style="style1">- Sí.</span></p>
+<p xml:id="subtitle1043" begin="33718017667t" end="33729696001t" region="region0"><span style="style1">Es una locura.</span></p>
+<p xml:id="subtitle1044" begin="33730363334t" end="33756055667t" region="region0"><span style="style1">Es increíble.</span><br/><span style="style1">Como soy una persona sensible,</span></p>
+<p xml:id="subtitle1045" begin="33756723000t" end="33800767000t" region="region0"><span style="style1">puedo imaginarme</span><br/><span style="style1">cómo se ve la persona del otro lado.</span></p>
+<p xml:id="subtitle1046" begin="33801434334t" end="33812779000t" region="region0"><span style="style1">Yo también.</span></p>
+<p xml:id="subtitle1047" begin="33813446334t" end="33841808000t" region="region0"><span style="style1">Lo sé con exactitud.</span><br/><span style="style1">Ni siquiera necesito notas.</span></p>
+<p xml:id="subtitle1048" begin="33842475334t" end="33862495334t" region="region0"><span style="style1">Fue exactamente como pensé que sería.</span></p>
+<p xml:id="subtitle1049" begin="33863162667t" end="33883850000t" region="region0"><span style="style1">No necesito notas, las recuerdo a todas.</span></p>
+<p xml:id="subtitle1050" begin="33884517334t" end="33898865000t" region="region0"><span style="style1">Sé todos sus nombres.</span></p>
+<p xml:id="subtitle1051" begin="33906873000t" end="33940573334t" region="region0"><span style="style1">Yo creo que lo que de verdad nos interesa</span></p>
+<p xml:id="subtitle1052" begin="33941240667t" end="33958925001t" region="region0"><span style="style1">queda guardado en la mente.</span></p>
+<p xml:id="subtitle1053" begin="33967266667t" end="33996629334t" region="region0"><span style="style1">Por eso no tomo notas de nada.</span></p>
+<p xml:id="subtitle1054" begin="34035334667t" end="34081714334t" region="region1"><span style="style1">Mi cuaderno tiene</span><br/><span style="style1">sus edades, trabajos y nombres.</span></p>
+<p xml:id="subtitle1055" begin="34206505667t" end="34219185000t" region="region0"><span style="style1">¡Hola!</span></p>
+<p xml:id="subtitle1056" begin="34219852334t" end="34239872334t" region="region0"><span style="style1">¡Hola!</span></p>
+<p xml:id="subtitle1057" begin="34240539667t" end="34272238000t" region="region0"><span style="style1">- ¿Quién es el gracioso?</span><br/><span style="style1">- ¡Es Patrick!</span></p>
+<p xml:id="subtitle1058" begin="34285251000t" end="34299932334t" region="region0"><span style="style1">¡No puede ser!</span></p>
+<p xml:id="subtitle1059" begin="34300599667t" end="34316949334t" region="region0"><span style="style1">¿Y tú? ¿Quién es?</span></p>
+<p xml:id="subtitle1060" begin="34317616667t" end="34341974334t" region="region0"><span style="style1">¿No lo adivinas por mi voz?</span></p>
+<p xml:id="subtitle1061" begin="34342641667t" end="34365331000t" region="region0"><span style="style1">Creo que es Renata.</span></p>
+<p xml:id="subtitle1062" begin="34373672667t" end="34402368000t" region="region0"><span style="style1">Es gracioso,</span><br/><span style="style1">porque todo lo que sé de Renata</span></p>
+<p xml:id="subtitle1063" begin="34413045334t" end="34434400000t" region="region0"><span style="style1">es que vive cerca de mí.</span></p>
+<p xml:id="subtitle1064" begin="34435067334t" end="34475107334t" region="region0"><span style="style1">Y luego tengo varias estrellas</span><br/><span style="style1">y flechas apuntando hacia arriba.</span></p>
+<p xml:id="subtitle1065" begin="34475774667t" end="34495794667t" region="region0"><span style="style1">Es casi como si dijera: &quot;¡Adelante!&quot;.</span></p>
+<p xml:id="subtitle1066" begin="34496462000t" end="34519818667t" region="region0"><span style="style1">- ¿Eres mi vecina?</span><br/><span style="style1">- Sí.</span></p>
+<p xml:id="subtitle1067" begin="34520486000t" end="34560526000t" region="region0"><span style="style1">- ¿De verdad eres mi vecina?</span><br/><span style="style1">- En serio.</span></p>
+<p xml:id="subtitle1068" begin="34561193334t" end="34575541000t" region="region0"><span style="style1">¿Estás a dos calles?</span></p>
+<p xml:id="subtitle1069" begin="34576208334t" end="34594560000t" region="region0"><span style="style1">Soy tu vecina.</span></p>
+<p xml:id="subtitle1070" begin="34595227334t" end="34621920667t" region="region0"><span style="style1">Pero vivo en Itaim, y tú, en Campo Belo.</span></p>
+<p xml:id="subtitle1071" begin="34622588000t" end="34661293334t" region="region0"><span style="style1">Me casaría contigo porque probablemente</span></p>
+<p xml:id="subtitle1072" begin="34677309334t" end="34689321334t" region="region0"><span style="style1">compartes el mismo mundo.</span></p>
+<p xml:id="subtitle1073" begin="34698997667t" end="34707339334t" region="region0"><span style="style1">Dime más.</span></p>
+<p xml:id="subtitle1074" begin="34708006667t" end="34735033667t" region="region0"><span style="style1">No tendría que cambiar demasiado</span><br/><span style="style1">mi estilo de vida.</span></p>
+<p xml:id="subtitle1075" begin="34743375334t" end="34767733000t" region="region1"><span style="style1">Quiero permanecer en mi zona de confort</span></p>
+<p xml:id="subtitle1076" begin="34768400334t" end="34790422334t" region="region1"><span style="style1">y quiero quedarme dentro de mi burbuja.</span></p>
+<p xml:id="subtitle1077" begin="34791089667t" end="34810776000t" region="region0"><span style="style1">Nuestras cosas combinan.</span></p>
+<p xml:id="subtitle1078" begin="34811443334t" end="34833799000t" region="region0"><span style="style1">Lo que nos gusta hacer, dónde vivimos.</span></p>
+<p xml:id="subtitle1079" begin="34834466334t" end="34863161667t" region="region0"><span style="style1">- Son parecidas.</span><br/><span style="style1">- No tenemos que cambiar mucho.</span></p>
+<p xml:id="subtitle1080" begin="34863829000t" end="34893859000t" region="region0"><span style="style1">Nos gusta comer bien,</span><br/><span style="style1">nos gusta gastar dinero.</span></p>
+<p xml:id="subtitle1081" begin="34894526334t" end="34908206667t" region="region0"><span style="style1">- Exacto.</span><br/><span style="style1">- Eso.</span></p>
+<p xml:id="subtitle1082" begin="34908874000t" end="34924556334t" region="region0"><span style="style1">Tengo una vida cara.</span></p>
+<p xml:id="subtitle1083" begin="34925223667t" end="34939571334t" region="region0"><span style="style1">¿Tú? Los dos.</span></p>
+<p xml:id="subtitle1084" begin="34940238667t" end="34948914000t" region="region0"><span style="style1">Exacto.</span></p>
+<p xml:id="subtitle1085" begin="34949581334t" end="34976274667t" region="region0"><span style="style1">- ¿Tienes auto?</span><br/><span style="style1">- ¡Claro!</span></p>
+<p xml:id="subtitle1086" begin="34976942000t" end="34985617334t" region="region0"><span style="style1">Eso es importante.</span></p>
+<p xml:id="subtitle1087" begin="34986284667t" end="35026324667t" region="region0"><span style="style1">Tengo tres autos en mi garaje.</span><br/><span style="style1">Elige uno y nos vamos.</span></p>
+<p xml:id="subtitle1088" begin="35026992000t" end="35035333667t" region="region0"><span style="style1">Yo también tengo.</span></p>
+<p xml:id="subtitle1089" begin="35036001000t" end="35074039000t" region="region0"><span style="style1">Tengo una casa en el campo</span><br/><span style="style1">que está en la cima de una colina.</span></p>
+<p xml:id="subtitle1090" begin="35074706334t" end="35094059000t" region="region0"><span style="style1">- Se ve toda la ciudad.</span><br/><span style="style1">- Bien.</span></p>
+<p xml:id="subtitle1091" begin="35094726334t" end="35106404667t" region="region0"><span style="style1">Es hermoso.</span></p>
+<p xml:id="subtitle1092" begin="35112077000t" end="35134432667t" region="region0"><span style="style1">- Tengo un departamento en Guarujá.</span><br/><span style="style1">- Yo también.</span></p>
+<p xml:id="subtitle1093" begin="35135100000t" end="35153118000t" region="region0"><span style="style1">Pero hace tiempo que no voy.</span></p>
+<p xml:id="subtitle1094" begin="35153785334t" end="35165797334t" region="region0"><span style="style1">Me gusta esa ciudad.</span></p>
+<p xml:id="subtitle1095" begin="35166464667t" end="35194826334t" region="region0"><span style="style1">- ¿Has viajado al extranjero?</span><br/><span style="style1">- Vaya, muchas veces.</span></p>
+<p xml:id="subtitle1096" begin="35195493667t" end="35217182000t" region="region0"><span style="style1">He estado en Europa varias veces.</span></p>
+<p xml:id="subtitle1097" begin="35217849334t" end="35265230000t" region="region0"><span style="style1">¡Vaya, sí has viajado! ¿Dónde has estado?</span></p>
+<p xml:id="subtitle1098" begin="35265897334t" end="35296928334t" region="region0"><span style="style1">He vivido en Nueva Zelanda,</span><br/><span style="style1">estuve en Europa,</span></p>
+<p xml:id="subtitle1099" begin="35297595667t" end="35316614667t" region="region0"><span style="style1">fui de mochilero con mis amigos,</span></p>
+<p xml:id="subtitle1100" begin="35317282000t" end="35345977334t" region="region0"><span style="style1">Trabajé en Portugal</span><br/><span style="style1">como director de fotografía.</span></p>
+<p xml:id="subtitle1101" begin="35346644667t" end="35364329000t" region="region0"><span style="style1">Tienes una voz dulce.</span></p>
+<p xml:id="subtitle1102" begin="35364996334t" end="35378009334t" region="region0"><span style="style1">Soy delicioso.</span></p>
+<p xml:id="subtitle1103" begin="35392357000t" end="35411042334t" region="region0"><span style="style1">Tenemos que elegirnos,</span></p>
+<p xml:id="subtitle1104" begin="35411709667t" end="35436734667t" region="region0"><span style="style1">porque somos la salvación del otro.</span></p>
+<p xml:id="subtitle1105" begin="35437402000t" end="35447412000t" region="region0"><span style="style1">Entonces…</span></p>
+<p xml:id="subtitle1106" begin="35455753667t" end="35468433000t" region="region0"><span style="style1">Eso es todo.</span></p>
+<p xml:id="subtitle1107" begin="35469100334t" end="35492457000t" region="region0"><span style="style1">Sentí una conexión</span><br/><span style="style1">contigo desde el principio.</span></p>
+<p xml:id="subtitle1108" begin="35493124334t" end="35515146334t" region="region0"><span style="style1">- ¿En cuanto a la energía?</span><br/><span style="style1">- Sí.</span></p>
+<p xml:id="subtitle1109" begin="35521152334t" end="35562860667t" region="region0"><span style="style1">Seré sincero contigo.</span><br/><span style="style1">Ya te elegí. ¿De acuerdo?</span></p>
+<p xml:id="subtitle1110" begin="35563528000t" end="35597562000t" region="region0"><span style="style1">Le diré a las próximas chicas</span><br/><span style="style1">que ya me decidí.</span></p>
+<p xml:id="subtitle1111" begin="35598229334t" end="35633931667t" region="region0"><span style="style1">Todas saben que eres mi mejor opción.</span></p>
+<p xml:id="subtitle1112" begin="35634599000t" end="35660625000t" region="region0"><span style="style1">- Entonces, es un trato. Te salvaste.</span><br/><span style="style1">- Eso espero.</span></p>
+<p xml:id="subtitle1113" begin="35661292334t" end="35699997667t" region="region0"><span style="style1">¡Si mientes, te demandaré!</span></p>
+<p xml:id="subtitle1114" begin="35700665000t" end="35713344334t" region="region0"><span style="style1">Hazlo.</span></p>
+<p xml:id="subtitle1115" begin="35732697000t" end="35783414334t" region="region0"><span style="style1">Apenas llegué, me lancé de cabeza,</span></p>
+<p xml:id="subtitle1116" begin="35792757000t" end="35839136667t" region="region0"><span style="style1">así que espero irme con alguien especial.</span></p>
+<p xml:id="subtitle1117" begin="35853484334t" end="35872169667t" region="region1"><span style="style1">¡Dios mío!</span></p>
+<p xml:id="subtitle1118" begin="35872837000t" end="35899196667t" region="region1"><span style="style1">SALA DE MUJERES</span></p>
+<p xml:id="subtitle1119" begin="35910207667t" end="35923220667t" region="region0"><span style="style1">¿Hablaste con Patrick?</span></p>
+<p xml:id="subtitle1120" begin="35923888000t" end="35932897000t" region="region0"><span style="style1">¡Sí!</span></p>
+<p xml:id="subtitle1121" begin="35965930000t" end="35994291667t" region="region0"><span style="style1">Ya me eligió a mí, ¿sí?</span></p>
+<p xml:id="subtitle1122" begin="36005636334t" end="36037001000t" region="region0"><span style="style1">Mi amiga Renata entró al salón gritando.</span></p>
+<p xml:id="subtitle1123" begin="36045676334t" end="36060024000t" region="region0"><span style="style1">Estaba supercontenta.</span></p>
+<p xml:id="subtitle1124" begin="36060691334t" end="36091388667t" region="region0"><span style="style1">Confío</span><br/><span style="style1">en la conexión de energía que tuvimos,</span></p>
+<p xml:id="subtitle1125" begin="36092056000t" end="36104068000t" region="region0"><span style="style1">pero me siento insegura.</span></p>
+<p xml:id="subtitle1126" begin="36104735334t" end="36137434667t" region="region0"><span style="style1">Si Patrick se mete con alguno de ustedes…</span></p>
+<p xml:id="subtitle1127" begin="36138102000t" end="36154451667t" region="region0"><span style="style1">- Te lo diremos.</span><br/><span style="style1">- Claro.</span></p>
+<p xml:id="subtitle1128" begin="36155119000t" end="36180477667t" region="region0"><span style="style1">Dijo que le diría a todas</span><br/><span style="style1">que me elige a mí.</span></p>
+<p xml:id="subtitle1129" begin="36205836334t" end="36218515667t" region="region0"><span style="style1">Esto será complicado.</span></p>
+<p xml:id="subtitle1130" begin="36219183000t" end="36232196000t" region="region0"><span style="style1">Todavía seguimos jugando.</span></p>
+<p xml:id="subtitle1131" begin="36232863334t" end="36264561667t" region="region0"><span style="style1">No voy a renunciar a un chico</span><br/><span style="style1">con quien tengo una conexión.</span></p>
+<p xml:id="subtitle1132" begin="36265229000t" end="36301598667t" region="region0"><span style="style1">- No hablaste con él. ¿Cómo lo sabrías?</span><br/><span style="style1">- Exacto.</span></p>
+<p xml:id="subtitle1133" begin="36302266000t" end="36334298000t" region="region0"><span style="style1">Por lo tanto, no sabes a quién elegirá.</span></p>
+<p xml:id="subtitle1134" begin="36334965334t" end="36356320000t" region="region0"><span style="style1">¿Qué más quieres hablar con él?</span></p>
+<p xml:id="subtitle1135" begin="36368999334t" end="36384681667t" region="region0"><span style="style1">Te abofetearé tres veces.</span></p>
+<p xml:id="subtitle1136" begin="36385349000t" end="36399363000t" region="region0"><span style="style1">¿Qué es esto?</span></p>
+<p xml:id="subtitle1137" begin="36406370000t" end="36416713667t" region="region0"><span style="style1">¡No!</span></p>
+<p xml:id="subtitle1138" begin="36448078334t" end="36481778667t" region="region0"><span style="style1">¿VALE LA PENA DARLE OTRA OPORTUNIDAD</span><br/><span style="style1">AL AMOR EN LAS CABINAS?</span></p>
+<p xml:id="subtitle1139" begin="36482446000t" end="36497461000t" region="region0"><span style="style1">¡Eres tú! ¡No lo creo!</span></p>
+<p xml:id="subtitle1140" begin="36498128334t" end="36509473000t" region="region1"><span style="style1">EN LOS PRÓXIMOS EPISODIOS</span></p>
+<p xml:id="subtitle1141" begin="36510140334t" end="36524488000t" region="region1"><span style="style1">Escuché que eres Aries con Leo.</span></p>
+<p xml:id="subtitle1142" begin="36525155334t" end="36542172334t" region="region1"><span style="style1">- Qué buena energía.</span><br/><span style="style1">- Gracias.</span></p>
+<p xml:id="subtitle1143" begin="36542839667t" end="36568198334t" region="region1"><span style="style1">Nunca me casé oficialmente,</span><br/><span style="style1">y quiero hacerlo.</span></p>
+<p xml:id="subtitle1144" begin="36568865667t" end="36607237334t" region="region0"><span style="style1">De verdad quiero que me des el honor</span><br/><span style="style1">de ser mi esposa.</span></p>
+<p xml:id="subtitle1145" begin="36607904667t" end="36624921667t" region="region0"><span style="style1">La respuesta es sí.</span></p>
+<p xml:id="subtitle1146" begin="36625589000t" end="36642939667t" region="region0"><span style="style1">LA CONEXIÓN INICIAL ES REAL</span></p>
+<p xml:id="subtitle1147" begin="36709673000t" end="36735031667t" region="region0"><span style="style1">¡Vamos a casarnos!</span></p>
+<p xml:id="subtitle1148" begin="36768064667t" end="36789419334t" region="region0"><span style="style1">¡Por mucha salud y sexo!</span></p>
+<p xml:id="subtitle1149" begin="36790086667t" end="36815445334t" region="region0"><span style="style1">Mi vida está en orden. ¿Y la tuya?</span></p>
+<p xml:id="subtitle1150" begin="36816112667t" end="36840804000t" region="region0"><span style="style1">Lavar la ropa, los platos,</span><br/><span style="style1">limpiar el piso.</span></p>
+<p xml:id="subtitle1151" begin="36841471334t" end="36856486334t" region="region0"><span style="style1">Sobre todo cuando está dormido.</span></p>
+<p xml:id="subtitle1152" begin="36857153667t" end="36886516334t" region="region0"><span style="style1">¿Le dijiste a tu pasado</span><br/><span style="style1">que viniste aquí a casarte?</span></p>
+<p xml:id="subtitle1153" begin="36887183667t" end="36901531334t" region="region0"><span style="style1">¡Vuelve, Ariela!</span></p>
+<p xml:id="subtitle1154" begin="36902198667t" end="36922886000t" region="region0"><span style="style1">Parece una carta de despedida.</span></p>
+<p xml:id="subtitle1155" begin="36972602334t" end="36987951000t" region="region0"><span style="style1">¿PUEDE EL AMOR CIEGO</span></p>
+<p xml:id="subtitle1156" begin="36997293667t" end="37014310667t" region="region0"><span style="style1">CONDUCIR AL MATRIMONIO?</span></p>
+<p xml:id="subtitle1157" begin="37047343667t" end="37073703334t" region="region0"><span style="style2">EL AMOR ES CIEGO: BRASIL</span></p>
+<p xml:id="subtitle1158" begin="37629925667t" end="37675638000t" region="region0"><span style="style1">Subtítulos: Pilar Arias</span></p>
+</div>
+</body>
+</tt>
