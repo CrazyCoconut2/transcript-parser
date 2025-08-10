@@ -18,6 +18,5 @@ export type Transcripts = {
 export type AlignedDialog = {
   begin: number;
   end: number;
-  phrases: Partial<Record<string, string>>;
-  parsedPhrases?: Partial<Record<string, ParsedElement[]>>;
+  phrases: Partial<Record<string, any>>;
 };
