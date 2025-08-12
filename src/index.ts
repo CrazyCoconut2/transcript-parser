@@ -1,6 +1,5 @@
 import { XMLParser } from 'fast-xml-parser';
 import { Transcripts, Dialog, ParsedTranscript, AlignedDialog } from './types';
-import { LANGUAGE_CODE, LANGUAGES_CODES } from './language-codes';
 
 /**
  * Converts a time string to seconds
