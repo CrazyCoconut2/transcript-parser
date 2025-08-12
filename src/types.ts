@@ -1,5 +1,3 @@
-import { ParsedElement } from "language-tokenizer/dist/type";
-
 export interface Dialog {
   begin: number;
   end: number;
